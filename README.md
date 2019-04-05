@@ -6,7 +6,8 @@ I hope this paper would help the programmers' community.
 ![Weather](https://cdn3.iconfinder.com/data/icons/weather-icons-10/128/sun-128.png)  
 1- [OpenWeatherMap](https://openweathermap.org/)  
 2- [Apixu](https://www.apixu.com/)  
-
+3- [AccuWeather](https://www.accuweather.com/)  
+4- [DarkSky](https://darksky.net/)  
 
 ## Android-Studio plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
@@ -14,6 +15,6 @@ I hope this paper would help the programmers' community.
 **2- [MVVM Generator](https://plugins.jetbrains.com/plugin/9325-mvvm-generator)**  
 **3- [Parcelable Class Generator](https://github.com/mcharmas/android-parcelable-intellij-plugin)**   
 **4- [GSON formatter](https://github.com/zzz40500/GsonFormat)**  
-**5- [Android Studio Prettify](https://www.apixu.com/)**  
+**5- [Android Studio Prettify](https://github.com/Haehnchen/idea-android-studio-plugin)**  
 **6- [Generate MVP code](https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code)**  
 **7- [Awesome POJO Generator](https://github.com/jineshfrancs/AwesomePojoGenerator)**  
