@@ -10,5 +10,10 @@ I hope this paper would help the programmers' community.
 
 ## Android-Studio plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
-**1- Android Material Design Icon Generator**  
-**2- MVVM Generator**
+**1- [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin)**  
+**2- [MVVM Generator](https://plugins.jetbrains.com/plugin/9325-mvvm-generator)**  
+**3- [Parcelable Class Generator](https://github.com/mcharmas/android-parcelable-intellij-plugin)**   
+**4- [GSON formatter](https://github.com/zzz40500/GsonFormat)**  
+**5- [Android Studio Prettify](https://www.apixu.com/)**  
+**6- [Generate MVP code](https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code)**  
+**7- [Awesome POJO Generator](https://github.com/jineshfrancs/AwesomePojoGenerator)**  
