@@ -24,3 +24,5 @@ I hope this paper would help the programmers' community.
 **1- [Glide](https://github.com/bumptech/glide)**  
 **2- [Dexter](https://github.com/Karumi/Dexter)**  
 **3- [Hawk](https://github.com/orhanobut/hawk)**  
+**4- [Sdp](https://github.com/intuit/sdp)**  
+**5- [Logger](https://github.com/orhanobut/logger)**  
