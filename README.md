@@ -18,3 +18,9 @@ I hope this paper would help the programmers' community.
 **5- [Android Studio Prettify](https://github.com/Haehnchen/idea-android-studio-plugin)**  
 **6- [Generate MVP code](https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code)**  
 **7- [Awesome POJO Generator](https://github.com/jineshfrancs/AwesomePojoGenerator)**  
+
+## Android useful libraries  
+![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)  
+**1- [Glide](https://github.com/bumptech/glide)**  
+**2- [Dexter](https://github.com/Karumi/Dexter)**  
+**3- [Hawk](https://github.com/orhanobut/hawk)**  
