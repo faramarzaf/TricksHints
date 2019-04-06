@@ -26,3 +26,7 @@ I hope this paper would help the programmers' community.
 **3- [Hawk](https://github.com/orhanobut/hawk)**  
 **4- [Sdp](https://github.com/intuit/sdp)**  
 **5- [Logger](https://github.com/orhanobut/logger)**  
+**6- [Gson](https://github.com/google/gson)**  
+**7- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  
+**8- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  
+**9- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  
