@@ -30,3 +30,4 @@ I hope this paper would help the programmers' community.
 **7- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  
 **8- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  
 **9- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  
+**10-[Easy Image](https://github.com/jkwiecien/EasyImage)**  
