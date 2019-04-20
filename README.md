@@ -4,10 +4,10 @@ I hope this paper would help the programmers' community.
 
 ## Weather Api's   
 ![Weather](https://cdn3.iconfinder.com/data/icons/weather-icons-10/128/sun-128.png)  
-1- [OpenWeatherMap](https://openweathermap.org/)  
-2- [Apixu](https://www.apixu.com/)  
-3- [AccuWeather](https://www.accuweather.com/)  
-4- [DarkSky](https://darksky.net/)  
+**1- [OpenWeatherMap](https://openweathermap.org/)**  
+**2- [Apixu](https://www.apixu.com/)**  
+**3- [AccuWeather](https://www.accuweather.com/)**  
+**4- [DarkSky](https://darksky.net/)**  
 
 ## Android-Studio plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
