@@ -31,3 +31,5 @@ I hope this paper would help the programmers' community.
 **8- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  
 **9- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  
 **10-[Easy Image](https://github.com/jkwiecien/EasyImage)**  
+**11- [AirLocation](https://github.com/mumayank/AirLocation)**  
+**12- [SwitchButton](https://github.com/KingJA/SwitchButton)**   
