@@ -33,6 +33,6 @@ I hope this paper would help the programmers' community.
 **10- [Easy Image](https://github.com/jkwiecien/EasyImage)**  
 **11- [AirLocation](https://github.com/mumayank/AirLocation)**  
 **12- [SwitchButton](https://github.com/KingJA/SwitchButton)**   
-**13- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**
-**10- [Material](https://github.com/rey5137/material)** 
-**10- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)** 
+**13- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  
+**14- [Material](https://github.com/rey5137/material)**  
+**15- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)** 
