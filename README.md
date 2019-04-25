@@ -37,3 +37,6 @@ I hope this paper would help the programmers' community.
 **14- [Material](https://github.com/rey5137/material)**  
 **15- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  
 **16- [Calligraphy](https://github.com/chrisjenx/Calligraphy)**  
+**17- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  
+**18- [BottomBar](https://github.com/roughike/BottomBar)**  
+
