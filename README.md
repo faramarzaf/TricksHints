@@ -8,6 +8,7 @@ I hope this paper would help the programmers' community.
 **2- [Apixu](https://www.apixu.com/)**  
 **3- [AccuWeather](https://www.accuweather.com/)**  
 **4- [DarkSky](https://darksky.net/)**  
+**5- [Climacell](https://www.climacell.co/weather-api/)**  
 
 ## Android-Studio plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
