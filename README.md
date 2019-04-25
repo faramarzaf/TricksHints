@@ -39,4 +39,4 @@ I hope this paper would help the programmers' community.
 **16- [Calligraphy](https://github.com/chrisjenx/Calligraphy)**  
 **17- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  
 **18- [BottomBar](https://github.com/roughike/BottomBar)**  
-
+**19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  
