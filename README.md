@@ -42,5 +42,6 @@ I hope this paper would help the programmers' community.
 **18- [BottomBar](https://github.com/roughike/BottomBar)**  
 **19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  
 **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  
-
-
+**21- [StyleableToast](https://github.com/Muddz/StyleableToast)**  
+**22- [Lottie-android](https://github.com/airbnb/lottie-android)**  
+**23- [Toasty](https://github.com/GrenderG/Toasty)**  
