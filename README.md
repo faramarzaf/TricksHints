@@ -45,3 +45,7 @@ I hope this paper would help the programmers' community.
 **21- [StyleableToast](https://github.com/Muddz/StyleableToast)**  
 **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  
 **23- [Toasty](https://github.com/GrenderG/Toasty)**  
+**24- [BoomMenu](https://github.com/GrenderG/Toasty)**  
+**25- [MaterialStyledDialogs](https://github.com/GrenderG/Toasty)**  
+
+
