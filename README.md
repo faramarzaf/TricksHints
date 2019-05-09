@@ -47,3 +47,6 @@ I hope this paper would help the programmers' community.
 **23- [Toasty](https://github.com/GrenderG/Toasty)**  
 **24- [BoomMenu](https://github.com/Nightonke/BoomMenu)**  
 **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  
+**26- [AppIntro](https://github.com/AppIntro/AppIntro)**  
+**27- [Konfetti](https://github.com/DanielMartinus/Konfetti)**  
+
