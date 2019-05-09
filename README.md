@@ -49,4 +49,5 @@ I hope this paper would help the programmers' community.
 **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  
 **26- [AppIntro](https://github.com/AppIntro/AppIntro)**  
 **27- [Konfetti](https://github.com/DanielMartinus/Konfetti)**  
-
+**28- [snake](https://github.com/txusballesteros/snake)**  
+**29- [ShineButton](https://github.com/ChadCSong/ShineButton)**  
