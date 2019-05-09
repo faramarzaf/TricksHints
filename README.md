@@ -50,4 +50,10 @@ I hope this paper would help the programmers' community.
 **26- [AppIntro](https://github.com/AppIntro/AppIntro)**  
 **27- [Konfetti](https://github.com/DanielMartinus/Konfetti)**  
 **28- [snake](https://github.com/txusballesteros/snake)**  
-**29- [ShineButton](https://github.com/ChadCSong/ShineButton)**  
+**29- [ShineButton](https://github.com/ChadCSong/ShineButton)**   
+**30- [MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  
+**31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  
+**32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  
+**33- [GlidePalette](https://github.com/florent37/GlidePalette)**  
+
+
