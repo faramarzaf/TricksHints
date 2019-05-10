@@ -55,5 +55,7 @@ I hope this paper would help the programmers' community.
 **31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  
 **32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  
 **33- [GlidePalette](https://github.com/florent37/GlidePalette)**  
-
-
+**34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  
+**35- [android-slidr](https://github.com/florent37/android-slidr)**  
+**36- [CalendarListview](https://github.com/traex/CalendarListview)**  
+**37- [MyToast](https://github.com/lopspower/MyToast)**  
