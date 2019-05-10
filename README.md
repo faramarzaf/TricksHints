@@ -59,3 +59,6 @@ I hope this paper would help the programmers' community.
 **35- [android-slidr](https://github.com/florent37/android-slidr)**  
 **36- [CalendarListview](https://github.com/traex/CalendarListview)**  
 **37- [MyToast](https://github.com/lopspower/MyToast)**  
+**38- [Autocomplete](https://github.com/natario1/Autocomplete)**  
+**39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  
+
