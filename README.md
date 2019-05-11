@@ -61,4 +61,10 @@ I hope this paper would help the programmers' community.
 **37- [MyToast](https://github.com/lopspower/MyToast)**  
 **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  
 **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  
+**40- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  
+**41- [android-times-square](https://github.com/square/android-times-square)**  
+**42- [CameraView](https://github.com/natario1/CameraView)**  
+
+
+
 
