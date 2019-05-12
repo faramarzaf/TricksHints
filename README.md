@@ -22,16 +22,6 @@ I hope this paper would help the programmers' community.
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)  
-**1- [Glide](https://github.com/bumptech/glide)**  
-**2- [Dexter](https://github.com/Karumi/Dexter)**  
-**3- [Hawk](https://github.com/orhanobut/hawk)**  
-**4- [Sdp](https://github.com/intuit/sdp)**  
-**5- [Logger](https://github.com/orhanobut/logger)**  
-**6- [Gson](https://github.com/google/gson)**  
-**7- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  
-**8- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  
-**9- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  
-**10- [Easy Image](https://github.com/jkwiecien/EasyImage)**  
 **11- [AirLocation](https://github.com/mumayank/AirLocation)**  
 **12- [SwitchButton](https://github.com/KingJA/SwitchButton)**   
 **13- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  
@@ -68,3 +58,18 @@ I hope this paper would help the programmers' community.
 **44- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  
 **45- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  
 **46- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  
+
+
+| Library  | Category |
+| ------------- | ------------- |
+| **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
+| **2- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
+| **3- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
+| **4- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
+| **5- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
+| **6- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
+| **7- [Glide](https://github.com/bumptech/glide)**  | Photo  |
+| **8- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
+| **9- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
+| **10- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
+
