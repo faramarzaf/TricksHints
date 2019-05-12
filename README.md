@@ -64,7 +64,8 @@ I hope this paper would help the programmers' community.
 **40- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  
 **41- [android-times-square](https://github.com/square/android-times-square)**  
 **42- [CameraView](https://github.com/natario1/CameraView)**  
-
+**43- [fit-chart](https://github.com/txusballesteros/fit-chart)**  
+**44- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  
 
 
 
