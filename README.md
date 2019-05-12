@@ -63,13 +63,14 @@ I hope this paper would help the programmers' community.
 | Library  | Category |
 | ------------- | ------------- |
 | **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
-| **2- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
-| **3- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
-| **4- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
-| **5- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
-| **6- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
-| **7- [Glide](https://github.com/bumptech/glide)**  | Photo  |
-| **8- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
-| **9- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
-| **10- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
+| **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
+| **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
+| **4- [Glide](https://github.com/bumptech/glide)**  | Photo  |
+| **5- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
+| **6- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
+| **7- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
+| **8- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
+| **9- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
+| **10- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
+
 
