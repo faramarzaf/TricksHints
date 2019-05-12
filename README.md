@@ -22,11 +22,6 @@ I hope this paper would help the programmers' community.
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)  
-**11- [AirLocation](https://github.com/mumayank/AirLocation)**  
-**12- [SwitchButton](https://github.com/KingJA/SwitchButton)**   
-**13- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  
-**14- [Material](https://github.com/rey5137/material)**  
-**15- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  
 **16- [Calligraphy](https://github.com/chrisjenx/Calligraphy)**  
 **17- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  
 **18- [BottomBar](https://github.com/roughike/BottomBar)**  
@@ -72,5 +67,16 @@ I hope this paper would help the programmers' community.
 | **8- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
 | **9- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
 | **10- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
+| **11- [AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
+| **12- [SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
+| **13- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  | Material  |
+| **14- [Material](https://github.com/rey5137/material)**  | Material  |
+| **15- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
+
+
+
+
+
+
 
 
