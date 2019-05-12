@@ -22,9 +22,6 @@ I hope this paper would help the programmers' community.
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)  
-**16- [Calligraphy](https://github.com/chrisjenx/Calligraphy)**  
-**17- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  
-**18- [BottomBar](https://github.com/roughike/BottomBar)**  
 **19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  
 **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  
 **21- [StyleableToast](https://github.com/Muddz/StyleableToast)**  
@@ -60,20 +57,20 @@ I hope this paper would help the programmers' community.
 | **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
 | **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
 | **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
-| **4- [Glide](https://github.com/bumptech/glide)**  | Photo  |
-| **5- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
-| **6- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
-| **7- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
-| **8- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
-| **9- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
-| **10- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
-| **11- [AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
-| **12- [SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
-| **13- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  | Material  |
-| **14- [Material](https://github.com/rey5137/material)**  | Material  |
-| **15- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
-
-
+| **4- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
+| **5- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
+| **6- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
+| **7- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
+| **8- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
+| **9- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
+| **10- [AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
+| **11- [SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
+| **12- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  | Material  |
+| **13- [Material](https://github.com/rey5137/material)**  | Material  |
+| **14- [Calligraphy](https://github.com/chrisjenx/Calligraphy)**  | Material  |
+| **15- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  | Material  |
+| **16- [BottomBar](https://github.com/roughike/BottomBar)**  | Material  |
+| **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
 
 
 
