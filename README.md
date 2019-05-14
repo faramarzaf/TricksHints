@@ -71,4 +71,8 @@ I hope this paper would help the programmers' community.
 | **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
 | **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Material  |
 | **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
+| **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Material  |
+| **24- [BoomMenu](https://github.com/Nightonke/BoomMenu)**  | Material  |
+| **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  | Material  |
+
 
