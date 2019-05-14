@@ -21,11 +21,7 @@ I hope this paper would help the programmers' community.
 **7- [Awesome POJO Generator](https://github.com/jineshfrancs/AwesomePojoGenerator)**  
 
 ## Android useful libraries  
-![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)  
-**19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  
-**20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  
-**21- [StyleableToast](https://github.com/Muddz/StyleableToast)**  
-**22- [Lottie-android](https://github.com/airbnb/lottie-android)**  
+![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)   
 **23- [Toasty](https://github.com/GrenderG/Toasty)**  
 **24- [BoomMenu](https://github.com/Nightonke/BoomMenu)**  
 **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  
@@ -43,7 +39,6 @@ I hope this paper would help the programmers' community.
 **37- [MyToast](https://github.com/lopspower/MyToast)**  
 **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  
 **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  
-**40- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  
 **41- [android-times-square](https://github.com/square/android-times-square)**  
 **42- [CameraView](https://github.com/natario1/CameraView)**  
 **43- [fit-chart](https://github.com/txusballesteros/fit-chart)**  
@@ -71,9 +66,9 @@ I hope this paper would help the programmers' community.
 | **15- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  | Material  |
 | **16- [BottomBar](https://github.com/roughike/BottomBar)**  | Material  |
 | **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
-
-
-
-
-
+| **18- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  | Material  |
+| **19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  | Material  |
+| **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
+| **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Material  |
+| **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
 
