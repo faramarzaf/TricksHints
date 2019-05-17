@@ -22,11 +22,6 @@ I hope this paper would help the programmers' community.
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)   
-**26- [AppIntro](https://github.com/AppIntro/AppIntro)**  
-**27- [Konfetti](https://github.com/DanielMartinus/Konfetti)**  
-**28- [snake](https://github.com/txusballesteros/snake)**  
-**29- [ShineButton](https://github.com/ChadCSong/ShineButton)**   
-**30- [MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  
 **31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  
 **32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  
 **33- [GlidePalette](https://github.com/florent37/GlidePalette)**  
@@ -71,5 +66,8 @@ I hope this paper would help the programmers' community.
 | **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Material  |
 | **24- [BoomMenu](https://github.com/Nightonke/BoomMenu)**  | Material  |
 | **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  | Material  |
-
-
+| **26- [AppIntro](https://github.com/AppIntro/AppIntro)**  | Material  |
+| **27- [Konfetti](https://github.com/DanielMartinus/Konfetti)**  | Material  |
+| **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
+| **29- [ShineButton](https://github.com/ChadCSong/ShineButton)**   | Material  |
+| **30- [MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  | Material  |
