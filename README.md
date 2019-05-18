@@ -22,21 +22,11 @@ I hope this paper would help the programmers' community.
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)   
-**31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  
-**32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  
-**33- [GlidePalette](https://github.com/florent37/GlidePalette)**  
-**34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  
-**35- [android-slidr](https://github.com/florent37/android-slidr)**  
-**36- [CalendarListview](https://github.com/traex/CalendarListview)**  
-**37- [MyToast](https://github.com/lopspower/MyToast)**  
-**38- [Autocomplete](https://github.com/natario1/Autocomplete)**  
-**39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  
-**41- [android-times-square](https://github.com/square/android-times-square)**  
-**42- [CameraView](https://github.com/natario1/CameraView)**  
-**43- [fit-chart](https://github.com/txusballesteros/fit-chart)**  
-**44- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  
-**45- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  
-**46- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  
+**41- [CameraView](https://github.com/natario1/CameraView)**  
+**42- [fit-chart](https://github.com/txusballesteros/fit-chart)**  
+**43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  
+**44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  
+**45- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  
 
 
 | Library  | Category |
@@ -71,3 +61,16 @@ I hope this paper would help the programmers' community.
 | **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
 | **29- [ShineButton](https://github.com/ChadCSong/ShineButton)**   | Material  |
 | **30- [MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  | Material  |
+| **31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  | Material  |
+| **32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  | Material  |
+| **33- [GlidePalette](https://github.com/florent37/GlidePalette)**  | Material  |
+| **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Material  |
+| **35- [android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
+| **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Material  |
+| **37- [MyToast](https://github.com/lopspower/MyToast)**  | Material  |
+| **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
+| **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
+| **40- [android-times-square](https://github.com/square/android-times-square)**  | Material  |
+
+
+
