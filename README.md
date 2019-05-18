@@ -68,7 +68,7 @@ I hope this paper would help the programmers' community.
 | **41- [CameraView](https://github.com/natario1/CameraView)**  | Material  |
 | **42- [fit-chart](https://github.com/txusballesteros/fit-chart)**  | Material  |
 | **43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
-| **44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  
+| **44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  | Material  |
 | **45- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  | Material  |
 
 
