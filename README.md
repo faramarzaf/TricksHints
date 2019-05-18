@@ -58,13 +58,13 @@ I hope this paper would help the programmers' community.
 | **31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  | Material  |
 | **32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  | Material  |
 | **33- [GlidePalette](https://github.com/florent37/GlidePalette)**  | Material  |
-| **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Material  |
+| **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
 | **35- [android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
-| **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Material  |
+| **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
 | **37- [MyToast](https://github.com/lopspower/MyToast)**  | Material  |
 | **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
 | **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
-| **40- [android-times-square](https://github.com/square/android-times-square)**  | Material  |
+| **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
 | **41- [CameraView](https://github.com/natario1/CameraView)**  | Material  |
 | **42- [fit-chart](https://github.com/txusballesteros/fit-chart)**  | Material  |
 | **43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
