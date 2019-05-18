@@ -22,12 +22,6 @@ I hope this paper would help the programmers' community.
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)   
-**41- [CameraView](https://github.com/natario1/CameraView)**  
-**42- [fit-chart](https://github.com/txusballesteros/fit-chart)**  
-**43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  
-**44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  
-**45- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  
-
 
 | Library  | Category |
 | ------------- | ------------- |
@@ -71,6 +65,10 @@ I hope this paper would help the programmers' community.
 | **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
 | **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
 | **40- [android-times-square](https://github.com/square/android-times-square)**  | Material  |
-
+| **41- [CameraView](https://github.com/natario1/CameraView)**  | Material  |
+| **42- [fit-chart](https://github.com/txusballesteros/fit-chart)**  | Material  |
+| **43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
+| **44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  
+| **45- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  | Material  |
 
 
