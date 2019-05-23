@@ -70,5 +70,8 @@ I hope this paper would help the programmers' community.
 | **43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
 | **44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  | Material  |
 | **45- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  | Material  |
-
+| **46- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
+| **47- [Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
+| **48- [Alerter](https://github.com/Tapadoo/Alerter)**  | Notif  |
+| **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
 
