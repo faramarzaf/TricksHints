@@ -78,3 +78,9 @@ I hope this paper would help the programmers' community.
 | **51- [RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
 | **52- [recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
 | **53- [ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
+| **54- [async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
+| **55- [ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
+| **56- [expandit](https://github.com/AmalH/expandit)**  | Expandable  |
+| **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
+
+
