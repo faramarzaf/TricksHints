@@ -87,3 +87,8 @@ I hope this paper would help the programmers' community.
 | **60- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
 | **61- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
 | **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
+| **63- [SpNumberProgressBarark](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
+| **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
+| **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
+| **66- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
+| **67- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
