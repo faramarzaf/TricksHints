@@ -82,5 +82,8 @@ I hope this paper would help the programmers' community.
 | **55- [ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
 | **56- [expandit](https://github.com/AmalH/expandit)**  | Expandable  |
 | **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
-
-
+| **58- [hellocharts-android](https://github.com/lecho/hellocharts-android)**  | Chart  |
+| **59- [WilliamChart](https://github.com/diogobernardino/WilliamChart)**  | Chart  |
+| **60- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
+| **61- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
+| **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
