@@ -74,4 +74,7 @@ I hope this paper would help the programmers' community.
 | **47- [Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
 | **48- [Alerter](https://github.com/Tapadoo/Alerter)**  | Notif  |
 | **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
-
+| **50- [OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)**  | Expandable  |
+| **51- [RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
+| **52- [recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
+| **53- [ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
