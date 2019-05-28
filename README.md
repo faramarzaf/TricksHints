@@ -87,8 +87,18 @@ I hope this paper would help the programmers' community.
 | **60- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
 | **61- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
 | **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
-| **63- [SpNumberProgressBarark](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
+| **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
 | **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
 | **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
 | **66- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
 | **67- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
+| **68- [material-menu](https://github.com/balysv/material-menu)**  | Material  |
+| **69- [material-calendarview](https://github.com/prolificinteractive/material-calendarview)**  | Material  |
+| **70- [ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
+| **71- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)**  | Material  |
+| **72- [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
+| **73- [WaveView](https://github.com/gelitenight/WaveView)**  | Material  |
+| **74- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
+| **75- [Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
+| **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
+
