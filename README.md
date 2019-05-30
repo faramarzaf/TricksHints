@@ -101,4 +101,11 @@ I hope this paper would help the programmers' community.
 | **74- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
 | **75- [Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
 | **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
-
+| **77- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
+| **78- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
+| **79- [welcome-android](https://github.com/stephentuso/welcome-android)**  | Welcome page |
+| **80- [duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)**  | Navigation drawer  |
+| **81- [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
+| **82- [PowerMenu](https://github.com/skydoves/PowerMenu)**  | Menu  |
+| **83- [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)**  | Material  |
+| **84- [MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
