@@ -115,3 +115,9 @@ I hope this paper would help the programmers' community.
 | **88- [MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
 | **89- [ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
 | **90- [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
+| **91- [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)**  | Navigation drawer  |
+| **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
+| **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | switch (enable/disable)  |
+| **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
+
+
