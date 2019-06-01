@@ -109,3 +109,9 @@ I hope this paper would help the programmers' community.
 | **82- [PowerMenu](https://github.com/skydoves/PowerMenu)**  | Menu  |
 | **83- [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)**  | Material  |
 | **84- [MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
+| **85- [shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
+| **86- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
+| **87- [BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
+| **88- [MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
+| **89- [ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
+| **90- [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
