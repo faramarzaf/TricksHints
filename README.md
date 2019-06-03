@@ -119,7 +119,6 @@ I hope this paper would help the programmers' community.
 | **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
 | **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | switch (enable/disable)  |
 | **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
-
 | **95- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
 | **96- [boxing](https://github.com/bilibili/boxing)**  | Multi media selector  |
 | **97- [fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
