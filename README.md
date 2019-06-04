@@ -131,5 +131,5 @@ I hope this paper would help the programmers' community.
 | **103- [RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
 | **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
 | **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
-
-
+| **106- [FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
+| **107- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
