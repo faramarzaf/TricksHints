@@ -45,9 +45,9 @@ I hope this paper would help the programmers' community.
 | **18- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  | Material  |
 | **19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  | Material  |
 | **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
-| **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Material  |
+| **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
 | **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
-| **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Material  |
+| **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
 | **24- [BoomMenu](https://github.com/Nightonke/BoomMenu)**  | Material  |
 | **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  | Material  |
 | **26- [AppIntro](https://github.com/AppIntro/AppIntro)**  | Material  |
@@ -61,7 +61,7 @@ I hope this paper would help the programmers' community.
 | **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
 | **35- [android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
 | **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
-| **37- [MyToast](https://github.com/lopspower/MyToast)**  | Material  |
+| **37- [MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
 | **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
 | **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
 | **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
@@ -123,3 +123,13 @@ I hope this paper would help the programmers' community.
 | **96- [boxing](https://github.com/bilibili/boxing)**  | Multi media selector  |
 | **97- [fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
 | **98- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
+| **98- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
+| **99- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
+| **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
+| **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
+| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
+| **103- [RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
+| **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
+| **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
+
+
