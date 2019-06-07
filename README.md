@@ -72,6 +72,7 @@ I hope this paper would help the programmers' community.
 | **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
 | **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
 | **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
+| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
 | **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
 | **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
 | **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
@@ -128,7 +129,6 @@ I hope this paper would help the programmers' community.
 | **99- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
 | **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
 | **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
-| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
 | **103- [RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
 | **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
 | **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
