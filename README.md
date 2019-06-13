@@ -123,13 +123,13 @@ I hope this paper would help the programmers' community.
 | **88- [MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
 | **89- [ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
 | **90- [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
+| **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
+| **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
 | **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
-| **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | switch (enable/disable)  |
-| **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
 | **95- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
 | **107- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
 | **98- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
 | **99- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
+| **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
 | **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
-| **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
 | **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
