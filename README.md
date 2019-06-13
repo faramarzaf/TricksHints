@@ -63,6 +63,7 @@ I hope this paper would help the programmers' community.
 | **71- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)**  | Material  |
 | **72- [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
 | **35- [android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
+| **103- [RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
 | **83- [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)**  | Material  |
 | **73- [WaveView](https://github.com/gelitenight/WaveView)**  | Material  |
 | **16- [BottomBar](https://github.com/roughike/BottomBar)**  | Material  |
@@ -71,8 +72,15 @@ I hope this paper would help the programmers' community.
 | **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
 | **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
 | **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
-| **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
-| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
+| **37- [MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
+| **74- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
+| **75- [Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
+| **97- [fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
+| **8- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
+| **84- [MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
+| **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
+| **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
+| **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
 | **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
 | **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
 | **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
@@ -84,10 +92,8 @@ I hope this paper would help the programmers' community.
 | **67- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
 | **98- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
 | **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
-| **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
-| **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
-| **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
-| **37- [MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
+| **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
+| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
 | **77- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
 | **78- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
 | **86- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
@@ -104,11 +110,6 @@ I hope this paper would help the programmers' community.
 | **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
 | **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
 | **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
-| **74- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
-| **75- [Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
-| **97- [fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
-| **8- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
-| **84- [MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
 | **79- [welcome-android](https://github.com/stephentuso/welcome-android)**  | Welcome page |
 | **80- [duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)**  | Navigation drawer  |
 | **81- [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
@@ -129,7 +130,6 @@ I hope this paper would help the programmers' community.
 | **99- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
 | **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
 | **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
-| **103- [RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
 | **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
 | **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
 | **106- [FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
