@@ -25,6 +25,37 @@ I hope this paper would help the programmers' community.
 
 | Library  | Category |
 | ------------- | ------------- |
+| **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
+| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
+| **77- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
+| **78- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
+| **86- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
+| **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
+| **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
+| **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
+| **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
+| **58- [hellocharts-android](https://github.com/lecho/hellocharts-android)**  | Chart  |
+| **59- [WilliamChart](https://github.com/diogobernardino/WilliamChart)**  | Chart  |
+| **60- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
+| **61- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
+| **66- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
+| **67- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
+| **98- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
+| **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
+| **95- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
+| **107- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
+| **98- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
+| **6- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
+| **99- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
+| **50- [OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)**  | Expandable  |
+| **51- [RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
+| **52- [recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
+| **53- [ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
+| **54- [async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
+| **55- [ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
+| **70- [ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
+| **56- [expandit](https://github.com/AmalH/expandit)**  | Expandable  |
+| **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
 | **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
 | **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
 | **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
@@ -33,7 +64,6 @@ I hope this paper would help the programmers' community.
 | **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
 | **4- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
 | **5- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
-| **6- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
 | **7- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
 | **9- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
 | **10- [AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
@@ -89,31 +119,6 @@ I hope this paper would help the programmers' community.
 | **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
 | **106- [FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
 | **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
-| **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
-| **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
-| **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
-| **58- [hellocharts-android](https://github.com/lecho/hellocharts-android)**  | Chart  |
-| **59- [WilliamChart](https://github.com/diogobernardino/WilliamChart)**  | Chart  |
-| **60- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
-| **61- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
-| **66- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
-| **67- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
-| **98- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
-| **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
-| **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
-| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
-| **77- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
-| **78- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
-| **86- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
-| **50- [OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)**  | Expandable  |
-| **51- [RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
-| **52- [recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
-| **53- [ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
-| **54- [async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
-| **55- [ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
-| **70- [ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
-| **56- [expandit](https://github.com/AmalH/expandit)**  | Expandable  |
-| **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
 | **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
 | **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
 | **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
@@ -126,10 +131,6 @@ I hope this paper would help the programmers' community.
 | **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
 | **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
 | **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
-| **95- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
-| **107- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
-| **98- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
-| **99- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
 | **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
 | **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
-| **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
+
