@@ -56,6 +56,8 @@ I hope this paper would help the programmers' community.
 | **70- [ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
 | **56- [expandit](https://github.com/AmalH/expandit)**  | Expandable  |
 | **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
+| **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
+| **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
 | **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
 | **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
 | **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
@@ -107,6 +109,17 @@ I hope this paper would help the programmers' community.
 | **81- [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
 | **91- [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)**  | Navigation drawer  |
 | **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
+| **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
+| **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
+| **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
+| **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
+| **85- [shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
+| **87- [BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
+| **88- [MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
+| **89- [ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
+| **90- [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
+| **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
+| **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
 | **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
 | **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
 | **37- [MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
@@ -119,18 +132,4 @@ I hope this paper would help the programmers' community.
 | **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
 | **106- [FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
 | **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
-| **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
-| **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
-| **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
 | **79- [welcome-android](https://github.com/stephentuso/welcome-android)**  | Welcome page |
-| **85- [shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
-| **87- [BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
-| **88- [MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
-| **89- [ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
-| **90- [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
-| **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
-| **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
-| **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
-| **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
-| **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
-
