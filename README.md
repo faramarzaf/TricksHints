@@ -58,14 +58,6 @@ I hope this paper would help the programmers' community.
 | **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
 | **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
 | **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
-| **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
-| **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
-| **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
-| **46- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
-| **47- [Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
-| **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
-| **4- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
-| **5- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
 | **7- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
 | **9- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
 | **10- [AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
@@ -109,9 +101,17 @@ I hope this paper would help the programmers' community.
 | **81- [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
 | **91- [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)**  | Navigation drawer  |
 | **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
+| **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
+| **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
+| **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
+| **46- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
+| **47- [Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
+| **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
+| **4- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
 | **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
 | **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
 | **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
+| **5- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
 | **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
 | **85- [shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
 | **87- [BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
