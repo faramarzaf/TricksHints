@@ -25,22 +25,22 @@ I hope this paper would help the programmers' community.
 
 | Library  | Category |
 | ------------- | ------------- |
-| **22- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
-| **102- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
-| **77- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
-| **78- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
-| **86- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
-| **105- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
-| **17- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
-| **28- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
-| **49- [Spark](https://github.com/robinhood/spark)**  | Chart  |
-| **58- [hellocharts-android](https://github.com/lecho/hellocharts-android)**  | Chart  |
-| **59- [WilliamChart](https://github.com/diogobernardino/WilliamChart)**  | Chart  |
-| **60- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
-| **61- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
-| **66- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
-| **67- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
-| **98- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
+| **1- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
+| **2- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
+| **3- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
+| **4- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
+| **5- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
+| **6- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
+| **7- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
+| **8- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
+| **9- [Spark](https://github.com/robinhood/spark)**  | Chart  |
+| **10- [hellocharts-android](https://github.com/lecho/hellocharts-android)**  | Chart  |
+| **11- [WilliamChart](https://github.com/diogobernardino/WilliamChart)**  | Chart  |
+| **12- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
+| **13- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
+| **14- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
+| **15- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
+| **16- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
 | **62- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
 | **95- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
 | **107- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
