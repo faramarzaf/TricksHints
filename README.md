@@ -25,25 +25,25 @@ I hope this paper would help the programmers' community.
 
 | Library  | Category |
 | ------------- | ------------- |
-| **1- [Lottie-android](https://github.com/airbnb/lottie-android)**  | Animation  |
-| **2- [Material-Animations](https://github.com/lgvalle/Material-Animations)**  | Animation  |
-| **3- [android-about-page](https://github.com/medyo/android-about-page)**  | About page  |
-| **4- [about-page-android](https://github.com/husaynhakeem/about-page-android)**  | About page  |
-| **5- [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)**  | About page  |
-| **6- [DrawableBadge](https://github.com/minibugdev/DrawableBadge)**  | Badges  |
-| **7- [AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)**  | Chart  |
-| **8- [snake](https://github.com/txusballesteros/snake)**  | Chart  |
-| **9- [Spark](https://github.com/robinhood/spark)**  | Chart  |
-| **10- [hellocharts-android](https://github.com/lecho/hellocharts-android)**  | Chart  |
-| **11- [WilliamChart](https://github.com/diogobernardino/WilliamChart)**  | Chart  |
-| **12- [EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
-| **13- [RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
-| **14- [GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
-| **15- [EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
-| **16- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
-| **17- [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
-| **18- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
-| **19- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
+|[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |
+|[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |
+|[android-about-page](https://github.com/medyo/android-about-page)| About page  |
+|[about-page-android](https://github.com/husaynhakeem/about-page-android)| About page  |
+|[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page  |
+|[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
+|[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
+|[snake](https://github.com/txusballesteros/snake)| Chart  |
+|[Spark](https://github.com/robinhood/spark)| Chart  |
+|[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |
+|[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
+|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
+|[RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
+|[GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
+|[EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
+|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
+|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
+|[CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
+|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
 | **20- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
 |[Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
 |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
