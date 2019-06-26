@@ -36,20 +36,20 @@ I hope this paper would help the programmers' community.
 |[Spark](https://github.com/robinhood/spark)| Chart  |
 |[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |
 |[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
-|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)**  | Chart  |
-|[RichPath](https://github.com/tarek360/RichPath)**  | Chart  |
-|[GraphView](https://github.com/jjoe64/GraphView)**  | Chart  |
-|[EazeGraph](https://github.com/blackfizz/EazeGraph)**  | Chart  |
-|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**  | Chart  |
-|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)**  | Chart  |
-|[CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
-|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
-| **20- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
-|[Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
-|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
-|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)**  | Expandable  |
-|[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
-|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
+|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)** | Chart  |
+|[RichPath](https://github.com/tarek360/RichPath)** | Chart  |
+|[GraphView](https://github.com/jjoe64/GraphView)** | Chart  |
+|[EazeGraph](https://github.com/blackfizz/EazeGraph)** | Chart  |
+|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)** | Chart  |
+|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)** | Chart  |
+|[CameraFragment](https://github.com/florent37/CameraFragment)** |   Camera  |
+|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)** | Camera   |
+| **20- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)** | Calendar  |
+|[Sdp](https://github.com/intuit/sdp)** | Dimensions  |
+|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)** | Dialog  |
+|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)** | Expandable  |
+|[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)** | Expandable  |
+|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)** | Expandable  |
 |[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
 |[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
 |[ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
@@ -106,30 +106,30 @@ I hope this paper would help the programmers' community.
 |[Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
 | **80- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
 |[Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
-| **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
-| **4- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
-| **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
-| **64- [CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
-| **65- [CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
-| **92- [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
-| **85- [shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
-| **87- [BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
-| **88- [MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
-| **89- [ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
-| **90- [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
-| **101- [sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
-| **5- [Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
-| **93- [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
-| **21- [StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
-| **23- [Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
-| **37- [MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
-| **74- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
-| **75- [Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
-| **97- [fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
-| **8- [Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
-| **84- [MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
-| **34- [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
-| **36- [CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
-| **106- [FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
-| **40- [android-times-square](https://github.com/square/android-times-square)**  | Time  |
-| **79- [welcome-android](https://github.com/stephentuso/welcome-android)**  | Welcome page |
+|[android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
+|[Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
+|[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
+|[CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
+|[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
+|[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
+|[shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
+|[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
+|[MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
+|[ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
+|[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
+|[sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
+|[Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
+|[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
+|[StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
+|[Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
+|[MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
+|**100- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
+|[Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
+|[fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
+|[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
+|[MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
+|[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
+|[CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
+|[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
+|[android-times-square](https://github.com/square/android-times-square)**  | Time  |
+|[welcome-android](https://github.com/stephentuso/welcome-android)**  | Welcome page |
