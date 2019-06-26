@@ -36,29 +36,29 @@ I hope this paper would help the programmers' community.
 |[Spark](https://github.com/robinhood/spark)| Chart  |
 |[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |
 |[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
-|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)** | Chart  |
-|[RichPath](https://github.com/tarek360/RichPath)** | Chart  |
-|[GraphView](https://github.com/jjoe64/GraphView)** | Chart  |
-|[EazeGraph](https://github.com/blackfizz/EazeGraph)** | Chart  |
-|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)** | Chart  |
-|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)** | Chart  |
-|[CameraFragment](https://github.com/florent37/CameraFragment)** |   Camera  |
-|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)** | Camera   |
-| **20- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)** | Calendar  |
-|[Sdp](https://github.com/intuit/sdp)** | Dimensions  |
-|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)** | Dialog  |
-|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)** | Expandable  |
-|[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)** | Expandable  |
-|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)** | Expandable  |
-|[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
-|[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
-|[ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
-|[ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
-|[expandit](https://github.com/AmalH/expandit)**  | Expandable  |
-|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
-|[CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
-|[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
-|[Logger](https://github.com/orhanobut/logger)**  | Logcat  |
+|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)| Chart  |
+|[RichPath](https://github.com/tarek360/RichPath)| Chart  |
+|[GraphView](https://github.com/jjoe64/GraphView)| Chart  |
+|[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
+|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
+|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
+|[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
+|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
+|20- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
+|[Sdp](https://github.com/intuit/sdp)| Dimensions  |
+|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog  |
+|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
+|[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
+|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable  |
+|[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable  |
+|[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |
+|[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
+|[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable  |
+|[expandit](https://github.com/AmalH/expandit)| Expandable  |
+|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable  |
+|[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
+|[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
+|[Logger](https://github.com/orhanobut/logger)| Logcat  |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
