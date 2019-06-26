@@ -45,67 +45,67 @@ I hope this paper would help the programmers' community.
 | **18- [CameraFragment](https://github.com/florent37/CameraFragment)**  |   Camera  |
 | **19- [android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)**  | Camera   |
 | **20- [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)**  | Calendar  |
-| **21- [Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
-| **23- [LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
-| **24- [OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)**  | Expandable  |
-| **25- [RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
-| **26- [recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
-| **27- [ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
-| **28- [async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
-| **29- [ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
-| **30- [ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
-| **56- [expandit](https://github.com/AmalH/expandit)**  | Expandable  |
-| **57- [NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
-| **94- [CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
-| **100- [Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
-| **7- [Logger](https://github.com/orhanobut/logger)**  | Logcat  |
-| **9- [Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
-| **10- [AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
-| **11- [SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
-| **12- [TapTargetView](https://github.com/KeepSafe/TapTargetView)**  | Material  |
-| **41- [CameraView](https://github.com/natario1/CameraView)**  | Material  |
-| **42- [fit-chart](https://github.com/txusballesteros/fit-chart)**  | Material  |
-| **43- [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
-| **44- [sliding-deck](https://github.com/txusballesteros/sliding-deck)**  | Material  |
-| **45- [DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  | Material  |
-| **13- [Material](https://github.com/rey5137/material)**  | Material  |
-| **14- [Calligraphy](https://github.com/chrisjenx/Calligraphy)**  | Material  |
-| **38- [Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
-| **39- [GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
-| **15- [lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  | Material  |
-| **24- [BoomMenu](https://github.com/Nightonke/BoomMenu)**  | Material  |
-| **25- [MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  | Material  |
-| **26- [AppIntro](https://github.com/AppIntro/AppIntro)**  | Material  |
-| **27- [Konfetti](https://github.com/DanielMartinus/Konfetti)**  | Material  |
-| **29- [ShineButton](https://github.com/ChadCSong/ShineButton)**   | Material  |
-| **30- [MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  | Material  |
-| **31- [TutoShowcase](https://github.com/florent37/TutoShowcase)**  | Material  |
-| **32- [DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  | Material  |
-| **33- [GlidePalette](https://github.com/florent37/GlidePalette)**  | Material  |
-| **68- [material-menu](https://github.com/balysv/material-menu)**  | Material  |
-| **69- [material-calendarview](https://github.com/prolificinteractive/material-calendarview)**  | Material  |
-| **71- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)**  | Material  |
-| **72- [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
-| **35- [android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
-| **103- [RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
-| **83- [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)**  | Material  |
-| **73- [WaveView](https://github.com/gelitenight/WaveView)**  | Material  |
-| **16- [BottomBar](https://github.com/roughike/BottomBar)**  | Material  |
-| **18- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  | Material  |
-| **19- [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  | Material  |
-| **20- [BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
-| **82- [PowerMenu](https://github.com/skydoves/PowerMenu)**  | Menu  |
-| **96- [boxing](https://github.com/bilibili/boxing)**  | Multi media selector  |
-| **48- [Alerter](https://github.com/Tapadoo/Alerter)**  | Notif  |
-| **80- [duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)**  | Navigation drawer  |
-| **81- [Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
-| **91- [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)**  | Navigation drawer  |
-| **104- [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
-| **1- [Glide](https://github.com/bumptech/glide)**  | Photo  |
-| **2- [Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
-| **3- [Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
-| **46- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
-| **47- [Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
+|[Sdp](https://github.com/intuit/sdp)**        | Dimensions  |
+|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)**  | Dialog  |
+|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)**  | Expandable  |
+|[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)**  | Expandable  |
+|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)**  | Expandable  |
+|[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)**  | Expandable  |
+|[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)**  | Expandable  |
+|[ExpandableListView](https://github.com/harishsn/ExpandableListView)**  | Expandable  |
+|[ExpandableLayout](https://github.com/traex/ExpandableLayout)**  | Expandable  |
+|[expandit](https://github.com/AmalH/expandit)**  | Expandable  |
+|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)**  | Expandable  |
+|[CounterFab](https://github.com/andremion/CounterFab)**  | Floating Action Button  |
+|[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)**  | Fingerprint  |
+|[Logger](https://github.com/orhanobut/logger)**  | Logcat  |
+|[Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
+|[AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
+|[SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
+|[TapTargetView](https://github.com/KeepSafe/TapTargetView)**  | Material  |
+|[CameraView](https://github.com/natario1/CameraView)**  | Material  |
+|**40- [fit-chart](https://github.com/txusballesteros/fit-chart)**  | Material  |
+|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
+|[sliding-deck](https://github.com/txusballesteros/sliding-deck)**  | Material  |
+|[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  | Material  |
+|[Material](https://github.com/rey5137/material)**  | Material  |
+|[Calligraphy](https://github.com/chrisjenx/Calligraphy)**  | Material  |
+|[Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
+|[GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
+|[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  | Material  |
+|[BoomMenu](https://github.com/Nightonke/BoomMenu)**  | Material  |
+|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  | Material  |
+|[AppIntro](https://github.com/AppIntro/AppIntro)**  | Material  |
+|[Konfetti](https://github.com/DanielMartinus/Konfetti)**  | Material  |
+|[ShineButton](https://github.com/ChadCSong/ShineButton)**   | Material  |
+|[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  | Material  |
+|[TutoShowcase](https://github.com/florent37/TutoShowcase)**  | Material  |
+|[DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  | Material  |
+|[GlidePalette](https://github.com/florent37/GlidePalette)**  | Material  |
+|[material-menu](https://github.com/balysv/material-menu)**  | Material  |
+|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)**  | Material  |
+| **60- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)**  | Material  |
+|[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
+|[android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
+|[RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
+|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)**  | Material  |
+|[WaveView](https://github.com/gelitenight/WaveView)**  | Material  |
+|[BottomBar](https://github.com/roughike/BottomBar)**  | Material  |
+|[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  | Material  |
+|[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  | Material  |
+|[BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
+|[PowerMenu](https://github.com/skydoves/PowerMenu)**  | Menu  |
+|[boxing](https://github.com/bilibili/boxing)**  | Multi media selector  |
+|[Alerter](https://github.com/Tapadoo/Alerter)**  | Notif  |
+|[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)**  | Navigation drawer  |
+|[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
+|[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)**  | Navigation drawer  |
+|[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
+|[Glide](https://github.com/bumptech/glide)**  | Photo  |
+|[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
+|[Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
+| **80- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
+|[Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
 | **76- [android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
 | **4- [Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
 | **63- [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
