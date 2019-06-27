@@ -59,32 +59,32 @@ I hope this paper would help the programmers' community.
 |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
-|[Smart location](https://github.com/mrmans0n/smart-location-lib)**  | Location  |
-|[AirLocation](https://github.com/mumayank/AirLocation)**  | Location  |
-|[SwitchButton](https://github.com/KingJA/SwitchButton)**   | Material  |
-|[TapTargetView](https://github.com/KeepSafe/TapTargetView)**  | Material  |
-|[CameraView](https://github.com/natario1/CameraView)**  | Material  |
-|**40- [fit-chart](https://github.com/txusballesteros/fit-chart)**  | Material  |
-|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)**  | Material  |
-|[sliding-deck](https://github.com/txusballesteros/sliding-deck)**  | Material  |
-|[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)**  | Material  |
-|[Material](https://github.com/rey5137/material)**  | Material  |
-|[Calligraphy](https://github.com/chrisjenx/Calligraphy)**  | Material  |
-|[Autocomplete](https://github.com/natario1/Autocomplete)**  | Material  |
-|[GestureViews](https://github.com/alexvasilkov/GestureViews)**  | Material  |
-|[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)**  | Material  |
-|[BoomMenu](https://github.com/Nightonke/BoomMenu)**  | Material  |
-|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)**  | Material  |
-|[AppIntro](https://github.com/AppIntro/AppIntro)**  | Material  |
-|[Konfetti](https://github.com/DanielMartinus/Konfetti)**  | Material  |
-|[ShineButton](https://github.com/ChadCSong/ShineButton)**   | Material  |
-|[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)**  | Material  |
-|[TutoShowcase](https://github.com/florent37/TutoShowcase)**  | Material  |
-|[DiagonalLayout](https://github.com/florent37/DiagonalLayout)**  | Material  |
-|[GlidePalette](https://github.com/florent37/GlidePalette)**  | Material  |
-|[material-menu](https://github.com/balysv/material-menu)**  | Material  |
-|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)**  | Material  |
-| **60- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)**  | Material  |
+|[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
+|[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
+|[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
+|[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Material  |
+|[CameraView](https://github.com/natario1/CameraView)| Material  |
+|40- [fit-chart](https://github.com/txusballesteros/fit-chart)| Material  |
+|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Material  |
+|[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
+|[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Material  |
+|[Material](https://github.com/rey5137/material)| Material  |
+|[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Material  |
+|[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
+|[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |
+|[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Material  |
+|[BoomMenu](https://github.com/Nightonke/BoomMenu)| Material  |
+|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Material  |
+|[AppIntro](https://github.com/AppIntro/AppIntro)| Material  |
+|[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
+|[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |
+|[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)| Material  |
+|[TutoShowcase](https://github.com/florent37/TutoShowcase)| Material  |
+|[DiagonalLayout](https://github.com/florent37/DiagonalLayout)| Material  |
+|[GlidePalette](https://github.com/florent37/GlidePalette)| Material  |
+|[material-menu](https://github.com/balysv/material-menu)| Material  |
+|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Material  |
+|60- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| Material  |
 |[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
 |[android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
 |[RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
