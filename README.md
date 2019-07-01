@@ -86,44 +86,44 @@ I hope this paper would help the programmers' community.
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Material  |
 |60- [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| Material  |
 |[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
-|[android-slidr](https://github.com/florent37/android-slidr)**  | Material  |
-|[RippleEffect](https://github.com/traex/RippleEffect)**  | Material  |
-|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)**  | Material  |
-|[WaveView](https://github.com/gelitenight/WaveView)**  | Material  |
-|[BottomBar](https://github.com/roughike/BottomBar)**  | Material  |
-|[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)**  | Material  |
-|[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)**  | Material  |
-|[BottomNavBar](https://github.com/adib2149/BottomNavBar)**  | Material  |
-|[PowerMenu](https://github.com/skydoves/PowerMenu)**  | Menu  |
-|[boxing](https://github.com/bilibili/boxing)**  | Multi media selector  |
-|[Alerter](https://github.com/Tapadoo/Alerter)**  | Notif  |
-|[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)**  | Navigation drawer  |
-|[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)**  | Navigation drawer  |
-|[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)**  | Navigation drawer  |
-|[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)**  | Navigation Tab  |
-|[Glide](https://github.com/bumptech/glide)**  | Photo  |
-|[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)**  | Photo  |
-|[Easy Image](https://github.com/jkwiecien/EasyImage)**  | Photo  |
-| **80- [CircleImageView](https://github.com/hdodenhof/CircleImageView)**  | Photo  |
-|[Blurkit Android](https://github.com/CameraKit/blurkit-android)**  | Photo  |
-|[android-crop](https://github.com/jdamcd/android-crop)**  | Photo  |
-|[Dexter](https://github.com/Karumi/Dexter)**  | Permissions  |
-|[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)**  | ProgressBar  |
-|[CircleProgress](https://github.com/lzyzsd/CircleProgress)**  | ProgressBar  |
-|[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)**  | ProgressBar  |
-|[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**  | Recycler View  |
-|[shortbread](https://github.com/MatthiasRobbers/shortbread)**  | Shortcut  |
-|[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)**  | Show Case  |
-|[MultiLamp](https://github.com/ujwalthote/MultiLamp)**  | Show Case  |
-|[ShowCaseView](https://github.com/mreram/ShowCaseView)**  | Show Case  |
-|[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)**  | Show Case  |
-|[sensey](https://github.com/nisrulz/sensey)**  | Sensor   |
-|[Hawk](https://github.com/orhanobut/hawk)**   | Shared preference  |
-|[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)**  | Switch (enable/disable)  |
-|[StyleableToast](https://github.com/Muddz/StyleableToast)** | Toast  |
-|[Toasty](https://github.com/GrenderG/Toasty)**  | Toast  |
-|[MyToast](https://github.com/lopspower/MyToast)**  | Toast  |
-|**100- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
+|[android-slidr](https://github.com/florent37/android-slidr)| Material  |
+|[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
+|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Material  |
+|[WaveView](https://github.com/gelitenight/WaveView)| Material  |
+|[BottomBar](https://github.com/roughike/BottomBar)| Material  |
+|[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
+|[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Material  |
+|[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Material  |
+|[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
+|[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
+|[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
+|[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
+|[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
+|[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)| Navigation drawer  |
+|[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
+|[Glide](https://github.com/bumptech/glide)| Photo  |
+|[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
+|[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |
+|80- [CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
+|[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
+|[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
+|[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
+|[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
+|[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
+|[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
+|[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |
+|[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
+|[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
+|[MultiLamp](https://github.com/ujwalthote/MultiLamp)| Show Case  |
+|[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
+|[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
+|[sensey](https://github.com/nisrulz/sensey)| Sensor   |
+|[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
+|[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
+|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast  |
+|[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
+|[MyToast](https://github.com/lopspower/MyToast)| Toast  |
+|100- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
 |[Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
