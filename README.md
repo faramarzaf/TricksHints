@@ -123,13 +123,13 @@ I hope this paper would help the programmers' community.
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast  |
 |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
-|100- [TextSurface](https://github.com/elevenetc/TextSurface)**  | TextView  |
-|[Titanic](https://github.com/RomainPiel/Titanic)**  | TextView  |
-|[fading-text-view](https://github.com/rosenpin/fading-text-view)**  | TextView  |
-|[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)**  | TextView  |
-|[MaterialTextField](https://github.com/florent37/MaterialTextField)**  | TextView  |
-|[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)**  | Time  |
-|[CalendarListview](https://github.com/traex/CalendarListview)**  | Time  |
-|[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)**  | Time   |
-|[android-times-square](https://github.com/square/android-times-square)**  | Time  |
-|[welcome-android](https://github.com/stephentuso/welcome-android)**  | Welcome page |
+|100- [TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
+|[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
+|[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
+|[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
+|[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
+|[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
+|[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
+|[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
+|[android-times-square](https://github.com/square/android-times-square)| Time  |
+|[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
