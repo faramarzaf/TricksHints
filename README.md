@@ -146,3 +146,8 @@ I hope this paper would help the programmers' community.
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
+|[Noty](https://github.com/emre1512/Noty)| Notif |
+|[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
+|[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
+
+
