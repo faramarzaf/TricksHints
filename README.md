@@ -158,5 +158,6 @@ I hope this paper would help the programmers' community.
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
 |[Backboard](https://github.com/tumblr/Backboard)| Animation |
-
+|[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
+|[ENViews](https://github.com/codeestX/ENViews)| Loading |
 
