@@ -149,5 +149,10 @@ I hope this paper would help the programmers' community.
 |[Noty](https://github.com/emre1512/Noty)| Notif |
 |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
 |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
+|[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
+|[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
+|[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
+|[TastyToast](https://github.com/yadav-rahul/TastyToast)| Notif |
+
 
 
