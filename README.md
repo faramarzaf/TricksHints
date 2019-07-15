@@ -137,7 +137,6 @@ I hope this paper would help the programmers' community.
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
 |[Matisse](https://github.com/zhihu/Matisse)| Photo |
-
 |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
 |[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
 |[Crescento](https://github.com/developer-shivam/crescento)| Photo |
