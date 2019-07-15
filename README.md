@@ -143,4 +143,6 @@ I hope this paper would help the programmers' community.
 |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Photo |
 |[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
-
+|[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
+|[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
+|[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
