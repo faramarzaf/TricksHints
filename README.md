@@ -152,7 +152,11 @@ I hope this paper would help the programmers' community.
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
-|[TastyToast](https://github.com/yadav-rahul/TastyToast)| Notif |
-
+|[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
+|[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
+|[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
+|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
+|[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
+|[Backboard](https://github.com/tumblr/Backboard)| Animation |
 
 
