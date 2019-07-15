@@ -160,4 +160,6 @@ I hope this paper would help the programmers' community.
 |[Backboard](https://github.com/tumblr/Backboard)| Animation |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
-
+|[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
+|[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
+|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
