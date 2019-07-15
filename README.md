@@ -133,3 +133,7 @@ I hope this paper would help the programmers' community.
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
+|[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
+|[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
+|[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
+|[Matisse](https://github.com/zhihu/Matisse)| Photo |
