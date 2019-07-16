@@ -163,3 +163,9 @@ I hope this paper would help the programmers' community.
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
 |[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
+|[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
+|[Zoomy](https://github.com/imablanco/Zoomy)| Photo |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
+|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
+|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |
+|[slideview](https://github.com/emre1512/Noty)| Material |
