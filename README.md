@@ -169,3 +169,9 @@ I hope this paper would help the programmers' community.
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |
 |[slideview](https://github.com/emre1512/Noty)| Material |
+|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
+|[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
+
+
+
+
