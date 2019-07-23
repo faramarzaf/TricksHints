@@ -180,5 +180,9 @@ I hope this paper would help the programmers' community.
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |
 |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
 |[TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation)| Animation |
+|[LoadingView](https://github.com/ldoublem/LoadingView)| Animation |
+|[JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)| Animation |
+|[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
+|[LDrawer](https://github.com/keklikhasan/LDrawer)| Navigation drawer |
 
 
