@@ -172,6 +172,9 @@ I hope this paper would help the programmers' community.
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
 |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
-
-
+|[UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation)| Animation |
+|[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
+|[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |
+|[HTextView](https://github.com/hanks-zyh/HTextView)| TextView |
+ 
 
