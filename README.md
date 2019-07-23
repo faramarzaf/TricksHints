@@ -176,5 +176,9 @@ I hope this paper would help the programmers' community.
 |[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
 |[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |
 |[HTextView](https://github.com/hanks-zyh/HTextView)| TextView |
- 
+|[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
+|[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |
+|[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
+|[TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation)| Animation |
+
 
