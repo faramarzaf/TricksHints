@@ -10,7 +10,7 @@ I hope this paper would help the programmers' community.
 **4- [DarkSky](https://darksky.net/)**  
 **5- [Climacell](https://www.climacell.co/weather-api/)**  
 
-## Android-Studio plugins  
+## Useful plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
 **1- [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin)**  
 **2- [MVVM Generator](https://plugins.jetbrains.com/plugin/9325-mvvm-generator)**  
