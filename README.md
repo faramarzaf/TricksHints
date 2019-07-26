@@ -22,7 +22,7 @@ I hope this paper would help the programmers' community.
 
 ## Some solutions
 - Locale  
-For people who are still looking for `Locale`solutions in higher APIs, since`configuration.locale`was deprecated from API 24, We use below code instead.    
+For people who are still looking for `Locale`solutions in higher APIs, since`configuration.locale()`was deprecated from API 24, We use below code instead.    
 ```java
   Locale locale1 = new Locale("en");
                                 Locale.setDefault(locale1);
