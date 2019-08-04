@@ -67,6 +67,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
+|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions  |
 |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog  |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
@@ -113,15 +114,23 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Material  |
 |[WaveView](https://github.com/gelitenight/WaveView)| Material  |
 |[BottomBar](https://github.com/roughike/BottomBar)| Material  |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
+|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
 |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Material  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Material  |
+|[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
+|[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
+|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
+|[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
 |[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
+|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |
 |[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)| Navigation drawer  |
 |[LDrawer](https://github.com/keklikhasan/LDrawer)| Navigation drawer |
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
@@ -144,6 +153,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sensey](https://github.com/nisrulz/sensey)| Sensor   |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
+|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast  |
 |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
@@ -151,6 +161,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
+|[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
+|[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
@@ -158,8 +170,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-times-square](https://github.com/square/android-times-square)| Time  |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
-|[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
-|[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
 |[Matisse](https://github.com/zhihu/Matisse)| Photo |
 |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
 |[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
@@ -184,16 +194,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Backboard](https://github.com/tumblr/Backboard)| Animation |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
-|[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
-|[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
-|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[Zoomy](https://github.com/imablanco/Zoomy)| Photo |
-|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
-|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
-|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |
-|[slideview](https://github.com/emre1512/Noty)| Material |
-|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
-|[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
-|[HTextView](https://github.com/hanks-zyh/HTextView)| TextView |
-
