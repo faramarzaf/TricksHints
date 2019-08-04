@@ -37,6 +37,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
+|[android-about-page](https://github.com/medyo/android-about-page)| About page  |
+|[about-page-android](https://github.com/husaynhakeem/about-page-android)| About page  |
+|[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page  |
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |
 |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
@@ -50,9 +53,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
 |[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |
 |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
-|[android-about-page](https://github.com/medyo/android-about-page)| About page  |
-|[about-page-android](https://github.com/husaynhakeem/about-page-android)| About page  |
-|[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page  |
 |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
@@ -126,6 +126,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
+|[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
@@ -156,31 +157,29 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MultiLamp](https://github.com/ujwalthote/MultiLamp)| Show Case  |
 |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
-|[sensey](https://github.com/nisrulz/sensey)| Sensor   |
+|[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
-|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast  |
-|[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
-|[MyToast](https://github.com/lopspower/MyToast)| Toast  |
-|[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
-|[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
 |[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
+|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
+|[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
+|[MyToast](https://github.com/lopspower/MyToast)| Toast  |
+|[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
+|[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |
-|[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
 |[Matisse](https://github.com/zhihu/Matisse)| Photo |
 |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
 |[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
 |[Crescento](https://github.com/developer-shivam/crescento)| Photo |
-|[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Photo |
 |[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
@@ -196,4 +195,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
-
+|[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
