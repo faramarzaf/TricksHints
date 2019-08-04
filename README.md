@@ -42,6 +42,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |
 |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
+|[Backboard](https://github.com/tumblr/Backboard)| Animation |
 |[TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation)| Animation |
 |[LoadingView](https://github.com/ldoublem/LoadingView)| Animation |
 |[JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)| Animation |
@@ -53,6 +54,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[about-page-android](https://github.com/husaynhakeem/about-page-android)| About page  |
 |[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page  |
 |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
+|[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
+|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
+|[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
+|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
 |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
 |[snake](https://github.com/txusballesteros/snake)| Chart  |
 |[Spark](https://github.com/robinhood/spark)| Chart  |
@@ -64,26 +69,24 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
 |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
-|[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
-|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
-|[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
-|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
-|[Sdp](https://github.com/intuit/sdp)| Dimensions  |
-|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog  |
+|[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
+|[Sdp](https://github.com/intuit/sdp)| Dimensions |
+|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
 |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
-|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable  |
-|[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable  |
+|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
+|[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
 |[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |
 |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
-|[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable  |
-|[expandit](https://github.com/AmalH/expandit)| Expandable  |
-|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable  |
-|[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
+|[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |
+|[expandit](https://github.com/AmalH/expandit)| Expandable |
+|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |
+|[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
-|[Logger](https://github.com/orhanobut/logger)| Logcat  |
+|[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
+|[Logger](https://github.com/orhanobut/logger)| Logcat  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
 |[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Material  |
 |[CameraView](https://github.com/natario1/CameraView)| Material  |
@@ -136,9 +139,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
+|[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
 |[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |
 |[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
+|[Zoomy](https://github.com/imablanco/Zoomy)| Photo |
 |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
+|[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
 |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
@@ -179,7 +185,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
-|[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
 |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
 |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
@@ -188,11 +193,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
-|[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
-|[Backboard](https://github.com/tumblr/Backboard)| Animation |
-|[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
-|[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
-|[Zoomy](https://github.com/imablanco/Zoomy)| Photo |
+
