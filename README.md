@@ -70,8 +70,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
 |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
-|[Sdp](https://github.com/intuit/sdp)| Dimensions |
 |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
+|[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
+|[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
+|[Sdp](https://github.com/intuit/sdp)| Dimensions |
+|[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
 |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
@@ -84,6 +87,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
 |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
+|[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
@@ -130,7 +134,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
-|[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
 |[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
@@ -138,8 +141,17 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)| Navigation drawer  |
 |[LDrawer](https://github.com/keklikhasan/LDrawer)| Navigation drawer |
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
+|[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
+|[Noty](https://github.com/emre1512/Noty)| Notif |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
+|[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
+|[Matisse](https://github.com/zhihu/Matisse)| Photo |
+|[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
+|[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
+|[Crescento](https://github.com/developer-shivam/crescento)| Photo |
+|[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Photo |
+|[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
 |[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
 |[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |
 |[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
@@ -164,30 +176,18 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
-|[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
-|[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
-|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
-|[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
-|[MyToast](https://github.com/lopspower/MyToast)| Toast  |
 |[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
+|[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
+|[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |
-|[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
-|[Matisse](https://github.com/zhihu/Matisse)| Photo |
-|[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
-|[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
-|[Crescento](https://github.com/developer-shivam/crescento)| Photo |
-|[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Photo |
-|[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
-|[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
-|[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
-|[Noty](https://github.com/emre1512/Noty)| Notif |
 |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
-|[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
-|[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
+|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
+|[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
+|[MyToast](https://github.com/lopspower/MyToast)| Toast  |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
