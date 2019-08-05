@@ -88,8 +88,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
 |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
+|[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
+|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
+|[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
+|[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
 |[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Material  |
@@ -124,6 +128,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
+|[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
 |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Material  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Material  |
 |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
@@ -143,6 +148,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
+|[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
@@ -188,11 +194,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
 |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
-|[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
-|[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
-|[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
-|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
-|[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
-|[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
