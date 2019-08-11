@@ -95,6 +95,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
+|[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Material  |
+|[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
 |[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Material  |
 |[CameraView](https://github.com/natario1/CameraView)| Material  |
