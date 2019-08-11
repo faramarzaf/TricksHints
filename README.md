@@ -147,6 +147,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |
 |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
+|[BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)| Navigation bar  |
+|[Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)| Navigation bar  |
+|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
+|[morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)| Navigation bar  |
 |[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
