@@ -145,6 +145,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |
 |[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)| Navigation drawer  |
 |[LDrawer](https://github.com/keklikhasan/LDrawer)| Navigation drawer |
+|[Custom-Navigation-Drawer](https://github.com/shrikanth7698/Custom-Navigation-Drawer)| Navigation drawer  |
+|[SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)| Navigation drawer  |
+|[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Navigation drawer  |
+|[AppCompat-Extension-Library](https://github.com/TR4Android/AppCompat-Extension-Library)| Navigation drawer  |
+|[TabDrawer](https://github.com/ashazar/TabDrawer)| Navigation drawer  |
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
