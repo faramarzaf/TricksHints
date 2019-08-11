@@ -141,6 +141,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
+|[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
 |[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
