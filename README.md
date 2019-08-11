@@ -126,12 +126,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
 |[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Material  |
 |[WaveView](https://github.com/gelitenight/WaveView)| Material  |
-|[BottomBar](https://github.com/roughike/BottomBar)| Material  |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
-|[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Material  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Material  |
 |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
@@ -141,6 +139,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
+|[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
+|[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
+|[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
+|[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
+|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
