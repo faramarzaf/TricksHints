@@ -130,7 +130,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
-
 |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
@@ -151,6 +150,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)| Navigation bar  |
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)| Navigation bar  |
+|[BottomNavigationBar](https://github.com/fishwjy/BottomNavigationBar)| Navigation bar  |
 |[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
