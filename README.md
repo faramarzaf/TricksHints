@@ -213,4 +213,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
+|[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
