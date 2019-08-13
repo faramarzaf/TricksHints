@@ -121,7 +121,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[material-menu](https://github.com/balysv/material-menu)| Material  |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Material  |
 |[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| Material  |
-|[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)**  | Material  |
+|[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | Material  |
 |[android-slidr](https://github.com/florent37/android-slidr)| Material  |
 |[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
 |[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Material  |
