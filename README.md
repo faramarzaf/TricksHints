@@ -171,6 +171,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
 |[Matisse](https://github.com/zhihu/Matisse)| Photo |
+|[Android-Image-Picker-and-Cropping](https://github.com/ravi8x/Android-Image-Picker-and-Cropping)| Photo  |
 |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
 |[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
 |[Crescento](https://github.com/developer-shivam/crescento)| Photo |
