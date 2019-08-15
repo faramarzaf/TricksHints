@@ -167,6 +167,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
+|[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
