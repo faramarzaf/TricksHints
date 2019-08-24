@@ -211,6 +211,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |
 |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
+|[FlipTimerView](https://github.com/anugotta/FlipTimerView)| Time |
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
 |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
