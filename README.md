@@ -2,6 +2,9 @@
 There are several solutions,hints and also some tricks about Android in this repository.
 I hope this paper would help the programmers' community. 
 
+## Public APIs
+**[Start](https://github.com/public-apis/public-apis)**  
+
 ## Weather Api's   
 ![Weather](https://cdn3.iconfinder.com/data/icons/weather-icons-10/128/sun-128.png)  
 **1- [OpenWeatherMap](https://openweathermap.org/)**  
