@@ -73,6 +73,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
 |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
+|[TTFancyGifDialog-Android](https://github.com/tayyabtariq50/TTFancyGifDialog-Android)| Dialog |
+|[PrettyDialog](https://github.com/mjn1369/PrettyDialog)| Dialog |
 |[FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyAlertDialog-Android)| Dialog |
 |[AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)| Dialog |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| Dialog |
