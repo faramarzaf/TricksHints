@@ -74,6 +74,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
+|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog  |
 |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |
@@ -113,7 +114,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |
 |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Material  |
 |[BoomMenu](https://github.com/Nightonke/BoomMenu)| Material  |
-|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Material  |
 |[AppIntro](https://github.com/AppIntro/AppIntro)| Material  |
 |[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
 |[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |
