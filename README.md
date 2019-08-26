@@ -90,6 +90,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
+|[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
 |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
