@@ -205,13 +205,16 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |
+|[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
 |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
 |[MultiLamp](https://github.com/ujwalthote/MultiLamp)| Show Case  |
 |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
-|[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
+|[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
+|[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
+|[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
