@@ -215,6 +215,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
 |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
+|[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
