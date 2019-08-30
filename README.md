@@ -158,6 +158,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
 |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
+|[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |
+|[smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)| Navigation bar  |
 |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |
