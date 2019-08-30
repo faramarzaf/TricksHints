@@ -218,6 +218,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
+|[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
+|[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
