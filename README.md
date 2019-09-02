@@ -188,6 +188,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NumberPicker](https://github.com/ShawnLin013/NumberPicker)| NumberPicker |
 |[NumberSlidingPicker](https://github.com/sephiroth74/NumberSlidingPicker)| NumberPicker |
 |[meter-number-picker](https://github.com/alexzaitsev/meter-number-picker)| NumberPicker |
+|[MaterialNumberPicker](https://github.com/StephenVinouze/MaterialNumberPicker)| NumberPicker |
+|[ScrollableNumberPicker](https://github.com/michaelmuenzer/ScrollableNumberPicker)| NumberPicker |
+|[actual-number-picker](https://github.com/milosmns/actual-number-picker)| NumberPicker |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
 |[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
