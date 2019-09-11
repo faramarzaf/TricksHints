@@ -200,6 +200,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ScrollableNumberPicker](https://github.com/michaelmuenzer/ScrollableNumberPicker)| NumberPicker |
 |[actual-number-picker](https://github.com/milosmns/actual-number-picker)| NumberPicker |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
+|[ion](https://github.com/koush/ion)| Photo  |
+|[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
 |[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
