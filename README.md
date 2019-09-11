@@ -105,6 +105,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
 |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
+|[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
@@ -113,6 +114,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
+|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Material  |
+|[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Material  |
+|[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| Material  |
 |[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Material  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
@@ -170,6 +174,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)| Navigation bar  |
 |[BottomNavigationBar](https://github.com/fishwjy/BottomNavigationBar)| Navigation bar  |
+|[AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)| Navigation drawer |
 |[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
 |[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
