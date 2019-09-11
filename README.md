@@ -13,6 +13,9 @@ I hope this paper would help the programmers' community.
 **4- [DarkSky](https://darksky.net/)**  
 **5- [Climacell](https://www.climacell.co/weather-api/)**  
 
+## HTTP request libraries  
+**1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
+
 ## Useful plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
 **1- [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin)**  
@@ -219,6 +222,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
+|[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |
 |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |
