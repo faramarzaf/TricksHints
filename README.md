@@ -117,6 +117,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
+|[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| Material  |
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Material  |
 |[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Material  |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| Material  |
