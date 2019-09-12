@@ -14,7 +14,6 @@ I hope this paper would help the programmers' community.
 **5- [Climacell](https://www.climacell.co/weather-api/)**  
 
 ## HTTP request libraries  
-<img src="https://httpwg.org/asset/http.svg" align="center" width="48">
 **1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
 
 ## Database libraries  
