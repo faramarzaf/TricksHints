@@ -14,11 +14,9 @@ I hope this paper would help the programmers' community.
 **5- [Climacell](https://www.climacell.co/weather-api/)**  
 
 <a href="url"><img src="https://httpwg.org/asset/http.svg" height="86" width="106" ></a>  
-## HTTP request libraries  
 **1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
 
-<a href="url"><img src="https://www.handybackup.net/images/icons/database-backup.png" height="86" width="106" ></a> 
-## Database libraries  
+<a href="url"><img src="https://www.handybackup.net/images/icons/database-backup.png" height="86" width="106" ></a>  
 **1- [ObjectBox](https://docs.objectbox.io/getting-started)**  
 
 ## Useful plugins  
