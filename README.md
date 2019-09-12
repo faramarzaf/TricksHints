@@ -16,6 +16,9 @@ I hope this paper would help the programmers' community.
 ## HTTP request libraries  
 **1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
 
+## Database libraries  
+**1- [ObjectBox](https://docs.objectbox.io/getting-started)**  
+
 ## Useful plugins  
 ![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
 **1- [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin)**  
