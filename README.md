@@ -259,7 +259,7 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
 |[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
-|[ReadMoreTextView](https://github.com/emre1512/Noty)| TextView |
+|[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
