@@ -41,7 +41,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 ```
 Library | Category | Library | Category | Library | Category | 
 --- | --- | --- | --- |--- |--- 
-|[android-about-page](https://github.com/medyo/android-about-page)| About page  | | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+|[android-about-page](https://github.com/medyo/android-about-page)| About page |[about-page-android](https://github.com/husaynhakeem/about-page-android) | About page| | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269  
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269  
 
