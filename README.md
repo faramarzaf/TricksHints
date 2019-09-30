@@ -78,7 +78,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
 |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
-|[date-picker](https://github.com/afollestad/date-picker)| date picker |
+|[date-picker](https://github.com/afollestad/date-picker)| Date picker |
+|[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
+|[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
+|[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Date picker |
 |[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |
 |[Noty](https://github.com/emre1512/Noty)| Dialog |
 |[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |
@@ -241,6 +244,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |
 |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |
+|[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
 |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
