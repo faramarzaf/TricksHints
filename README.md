@@ -239,6 +239,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
 |[MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner)| Spinner |
 |[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |
+|[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
+|[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
 |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
