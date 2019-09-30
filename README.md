@@ -237,6 +237,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
+|[MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner)| Spinner |
+|[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
 |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
