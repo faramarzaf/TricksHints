@@ -240,6 +240,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
+|[Light](https://github.com/TonnyL/Light)| Snackbar |
+|[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |
 |[MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner)| Spinner |
 |[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |
 |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
