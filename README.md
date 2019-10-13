@@ -117,9 +117,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
+|[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
+|[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
+|[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| Material  |
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Material  |
