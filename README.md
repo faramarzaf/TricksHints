@@ -174,6 +174,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
+|[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
 |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
