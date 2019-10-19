@@ -62,6 +62,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |
 |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
+|[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |
+|[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
+|[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
