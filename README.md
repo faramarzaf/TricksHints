@@ -65,6 +65,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |
 |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |
+|[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
+|[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
