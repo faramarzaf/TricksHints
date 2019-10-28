@@ -117,6 +117,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
 |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
+|[FloatingActionButton](https://github.com/Clans/FloatingActionButton)| Floating Action Button  |
+|[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)| Floating Action Button  |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
