@@ -13,6 +13,11 @@ I hope this paper would help the programmers' community.
 **4- [DarkSky](https://darksky.net/)**  
 **5- [Climacell](https://www.climacell.co/weather-api/)**  
 
+
+## Proguard
+![Android proguard snippets ](https://github.com/krschultz/android-proguard-snippets)
+
+
 <a href="url"><img src="https://httpwg.org/asset/http.svg" height="86" width="106" ></a>  
 **1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
 **2- [Fetch](https://github.com/tonyofrancis/Fetch)**  
@@ -289,3 +294,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
+|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Welcome page |
+
