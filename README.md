@@ -105,6 +105,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |
+|[PasswordEditText](https://github.com/txusballesteros/PasswordEditText)| Edit Text |
+|[AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)| Edit Text |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
 |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
@@ -245,6 +247,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |
 |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
 |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
