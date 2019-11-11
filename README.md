@@ -231,6 +231,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Persian date |
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |
 |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
+|[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |
 |[ion](https://github.com/koush/ion)| Photo  |
 |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
 |[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
