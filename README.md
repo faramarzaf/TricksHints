@@ -74,6 +74,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
+|[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
 |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
