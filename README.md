@@ -281,6 +281,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
 |[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |
 |[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
+|[Timeline-View](https://github.com/vipulasri/Timeline-View)| Stepper |
+|[Android-Timeline-View](https://github.com/akshaykale/Android-Timeline-View)| Stepper |
+|[jerryOkaforTimeLineView](https://github.com/jerryOkafor/TimeLineView)| Stepper |
+|[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
+|[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
@@ -305,4 +310,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
-|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Welcome page |
+|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Welcome page |  
