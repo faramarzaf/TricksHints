@@ -287,6 +287,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
 |[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |
 |[TimelineView](https://github.com/qapqap/TimelineView)| Stepper |
+|[MaterialTimelineView](https://github.com/hypeapps/MaterialTimelineView?source=post_page-----9fb77a590316----------------------)| Stepper |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
