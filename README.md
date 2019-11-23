@@ -187,6 +187,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |
+|[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
 |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
@@ -252,6 +253,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
 |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
+|[Blurry](https://github.com/wasabeef/Blurry)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
