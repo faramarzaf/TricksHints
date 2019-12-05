@@ -264,6 +264,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |
 |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |
+|[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
+|[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |
+|[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
+|[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |
 |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[sensey](https://github.com/nisrulz/sensey)| Sensor |
