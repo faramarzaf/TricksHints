@@ -131,6 +131,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)| Floating Action Button  |
 |[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |
 |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
+|[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button  |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
@@ -235,6 +236,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |
 |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
 |[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |
+|[RxLowpoly](https://github.com/abhriyaroy/RxLowpoly)| Photo  |
 |[ion](https://github.com/koush/ion)| Photo  |
 |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
 |[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
