@@ -71,6 +71,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |
 |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
+|[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |
 |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
@@ -262,6 +263,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
+|[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
 |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |
@@ -313,6 +315,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
 |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
+|[MaterialTextField](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
