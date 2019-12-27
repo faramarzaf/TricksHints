@@ -259,6 +259,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
 |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Blurry](https://github.com/wasabeef/Blurry)| Photo |
+|[uCrop](https://github.com/Yalantis/uCrop)| Photo |
+|[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
