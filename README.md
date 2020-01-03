@@ -68,6 +68,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
 |[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |
 |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
+|[RichPath](https://github.com/tarek360/RichPath)| Animation  |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |
 |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |
@@ -88,8 +89,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Spark](https://github.com/robinhood/spark)| Chart  |
 |[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |
 |[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
-|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)| Chart  |
-|[RichPath](https://github.com/tarek360/RichPath)| Chart  |
 |[GraphView](https://github.com/jjoe64/GraphView)| Chart  |
 |[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
@@ -245,6 +244,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
 |[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
 |[Glide](https://github.com/bumptech/glide)| Photo  |
+|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)| Photo  |
 |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
 |[Matisse](https://github.com/zhihu/Matisse)| Photo |
