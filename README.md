@@ -92,7 +92,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[GraphView](https://github.com/jjoe64/GraphView)| Chart  |
 |[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
-|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Chart  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
@@ -100,6 +99,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Date picker |
 |[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |
 |[Noty](https://github.com/emre1512/Noty)| Dialog |
+|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Dialog  |
 |[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |
 |[iOSDialog](https://github.com/MagicDog707/iOSDialog)| Dialog |
 |[TTFancyGifDialog-Android](https://github.com/tayyabtariq50/TTFancyGifDialog-Android)| Dialog |
