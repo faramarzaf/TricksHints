@@ -81,6 +81,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
 |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
+|[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |
 |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
@@ -135,6 +136,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |
 |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
 |[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button  |
+|[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
