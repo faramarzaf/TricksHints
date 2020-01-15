@@ -136,6 +136,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |
 |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
 |[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button  |
+|[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
 |[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
@@ -285,6 +286,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
 |[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |
 |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
+|[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
@@ -325,7 +327,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
 |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
-|[MaterialTextField](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
+|[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
