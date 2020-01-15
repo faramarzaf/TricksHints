@@ -212,6 +212,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)| Navigation bar  |
 |[BottomNavigationBar](https://github.com/fishwjy/BottomNavigationBar)| Navigation bar  |
+|[MeowBottomNavigation](https://github.com/shetmobile/MeowBottomNavigation)| Navigation bar  |
 |[AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)| Navigation drawer |
 |[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
 |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
@@ -234,6 +235,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialNumberPicker](https://github.com/StephenVinouze/MaterialNumberPicker)| NumberPicker |
 |[ScrollableNumberPicker](https://github.com/michaelmuenzer/ScrollableNumberPicker)| NumberPicker |
 |[actual-number-picker](https://github.com/milosmns/actual-number-picker)| NumberPicker |
+|[SwipePicker](https://github.com/m4xp1/SwipePicker)| NumberPicker |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |
@@ -285,6 +287,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
+|[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
 |[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
 |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
