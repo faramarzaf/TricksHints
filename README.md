@@ -1,6 +1,6 @@
 # TricksHints 
 There are several solutions,hints and also some tricks about Android in this repository.
-I hope this paper would help the programmers' community. 
+I hope this paper would help the programmer's community. 
 
 ## Public APIs
 **[Start](https://github.com/public-apis/public-apis)**  
@@ -18,7 +18,7 @@ I hope this paper would help the programmers' community.
 ![Android proguard snippets ](https://github.com/krschultz/android-proguard-snippets)
 
 
-## How publish our Android Library?
+## How publish our Android library?
 :point_right: [Look at this](https://medium.com/@sgkantamani/how-to-create-and-publish-an-android-library-f37bf715932)
 
 <a href="url"><img src="https://httpwg.org/asset/http.svg" height="86" width="106" ></a>  
