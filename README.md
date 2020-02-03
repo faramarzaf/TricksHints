@@ -237,6 +237,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ScrollableNumberPicker](https://github.com/michaelmuenzer/ScrollableNumberPicker)| NumberPicker |
 |[actual-number-picker](https://github.com/milosmns/actual-number-picker)| NumberPicker |
 |[SwipePicker](https://github.com/m4xp1/SwipePicker)| NumberPicker |
+|[PinView-Android](https://github.com/darshan-miskin/PinView-Android)| OTP View|
+|[PinEntryEditText](https://github.com/alphamu/PinEntryEditText)| OTP View|
+|[Pinview](https://github.com/GoodieBag/Pinview)| OTP View|
+|[AndroidOtpCustomViewmaster](https://github.com/Temidtech/AndroidOtpCustomViewmaster)| OTP View|
+|[OtpView](https://github.com/aabhasr1/OtpView)| OTP View|
+|[PinView](https://github.com/ChaosLeung/PinView)| OTP View|
+|[android-otpview-pinview](https://github.com/mukeshsolanki/android-otpview-pinview)| OTP View|
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |
