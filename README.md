@@ -227,6 +227,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Navigation drawer  |
 |[AppCompat-Extension-Library](https://github.com/TR4Android/AppCompat-Extension-Library)| Navigation drawer  |
 |[TabDrawer](https://github.com/ashazar/TabDrawer)| Navigation drawer  |
+|[FlowingDrawer](https://github.com/mxn21/FlowingDrawer)| Navigation drawer  |
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
@@ -282,6 +283,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
 |[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
+|[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |
 |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |
 |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
