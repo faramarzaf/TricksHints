@@ -252,6 +252,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |
 |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
 |[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |
+|[PersianLinearDatePicker](https://github.com/SirLordPouya/PersianLinearDatePicker)| Persian date |
 |[RxLowpoly](https://github.com/abhriyaroy/RxLowpoly)| Photo  |
 |[ion](https://github.com/koush/ion)| Photo  |
 |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
@@ -349,5 +350,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
+|[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
 |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Welcome page |  
