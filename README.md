@@ -93,6 +93,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[GraphView](https://github.com/jjoe64/GraphView)| Chart  |
 |[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
+|[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
+|[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
