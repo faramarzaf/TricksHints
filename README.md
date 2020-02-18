@@ -95,6 +95,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
 |[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |
+|[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
+|[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
