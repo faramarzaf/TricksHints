@@ -69,6 +69,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |
 |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
 |[RichPath](https://github.com/tarek360/RichPath)| Animation  |
+|[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)| Animation  |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |
 |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |
@@ -133,6 +134,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[expandit](https://github.com/AmalH/expandit)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
+|[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
 |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
 |[FloatingActionButton](https://github.com/Clans/FloatingActionButton)| Floating Action Button  |
