@@ -306,6 +306,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
+|[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
+|[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |
+|[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
 |[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
 |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
