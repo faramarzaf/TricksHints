@@ -309,6 +309,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 |[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |
 |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
+|[RadioRealButton](https://github.com/ceryle/RadioRealButton)| Segmented |
+|[SegmentedButton](https://github.com/ceryle/SegmentedButton)| Segmented |
 |[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
 |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
