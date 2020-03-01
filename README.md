@@ -325,6 +325,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |
 |[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
+|[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |
 |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
 |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
