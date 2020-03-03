@@ -84,6 +84,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |
 |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
+|[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
 |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
@@ -99,6 +100,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |
 |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |
+|[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
@@ -152,6 +154,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
+|[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
 |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
