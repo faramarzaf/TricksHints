@@ -138,6 +138,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |
 |[expandit](https://github.com/AmalH/expandit)| Expandable |
+|[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
@@ -157,6 +158,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
+|[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |
 |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |
 |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
@@ -211,6 +213,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |
 |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
+|[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |
 |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
 |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
@@ -310,6 +313,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |
 |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
 |[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |
+|[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
