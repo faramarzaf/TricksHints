@@ -142,6 +142,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[expandit](https://github.com/AmalH/expandit)| Expandable |
 |[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |
+|[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
 |[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
