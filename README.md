@@ -125,11 +125,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog  |
 |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
+|[dialogPlus](https://github.com/ma7madfawzy/dialogPlus)| Dialog |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |
 |[PasswordEditText](https://github.com/txusballesteros/PasswordEditText)| Edit Text |
 |[AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)| Edit Text |
+|[AutoLinkTextViewV2](https://github.com/armcha/AutoLinkTextViewV2)| Edit Text |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
 |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
@@ -328,6 +330,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MultiLamp](https://github.com/ujwalthote/MultiLamp)| Show Case  |
 |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
+|[VSpot](https://github.com/TutorialsAndroid/VSpot)| Show Case  |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
 |[Light](https://github.com/TonnyL/Light)| Snackbar |
 |[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |
