@@ -86,6 +86,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
+|[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
 |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
 |[snake](https://github.com/txusballesteros/snake)| Chart  |
 |[Spark](https://github.com/robinhood/spark)| Chart  |
@@ -98,6 +99,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |
 |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |
+|[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
