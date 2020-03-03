@@ -78,6 +78,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
 |[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |
 |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
+|[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
@@ -102,6 +103,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |
 |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |
+|[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
