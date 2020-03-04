@@ -175,7 +175,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Material  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
-|[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Material  |
 |[CameraView](https://github.com/natario1/CameraView)| Material  |
 |[fit-chart](https://github.com/txusballesteros/fit-chart)| Material  |
 |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Material  |
@@ -332,6 +331,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
 |[VSpot](https://github.com/TutorialsAndroid/VSpot)| Show Case  |
+|[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Show Case |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
 |[Light](https://github.com/TonnyL/Light)| Snackbar |
 |[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |
