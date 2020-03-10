@@ -168,11 +168,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
 |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
-|[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| Material  |
-|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Material  |
-|[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Material  |
-|[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| Material  |
-|[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Material  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
 |[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
 |[CameraView](https://github.com/natario1/CameraView)| Material  |
@@ -297,10 +292,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
 |[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
+|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| ProgressBar  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
 |[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
+|[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |
 |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
@@ -377,6 +374,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
+|[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |
 |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
+|[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
 |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Welcome page |  
