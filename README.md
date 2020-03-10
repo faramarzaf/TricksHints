@@ -89,6 +89,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
 |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
+|[CameraView](https://github.com/natario1/CameraView)| Camera  |
 |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
 |[snake](https://github.com/txusballesteros/snake)| Chart  |
 |[Spark](https://github.com/robinhood/spark)| Chart  |
@@ -154,6 +155,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button  |
 |[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
 |[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
+|[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Font |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
@@ -169,14 +171,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
-|[SwitchButton](https://github.com/KingJA/SwitchButton)| Material  |
-|[CameraView](https://github.com/natario1/CameraView)| Material  |
-|[fit-chart](https://github.com/txusballesteros/fit-chart)| Material  |
 |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Material  |
 |[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
 |[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Material  |
 |[Material](https://github.com/rey5137/material)| Material  |
-|[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Material  |
 |[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
 |[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |
 |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Material  |
@@ -297,6 +295,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
 |[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
+|[fit-chart](https://github.com/txusballesteros/fit-chart)| ProgressBar  |
 |[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |
