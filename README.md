@@ -155,11 +155,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
 |[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button  |
 |[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
+|[BoomMenu](https://github.com/Nightonke/BoomMenu)| Floating Action Button |
 |[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
 |[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Font |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
+|[AppIntro](https://github.com/AppIntro/AppIntro)| Intro |
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
@@ -179,9 +181,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Material](https://github.com/rey5137/material)| Material  |
 |[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
 |[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |
-|[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Material  |
-|[BoomMenu](https://github.com/Nightonke/BoomMenu)| Material  |
-|[AppIntro](https://github.com/AppIntro/AppIntro)| Material  |
 |[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
 |[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |
 |[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)| Material  |
