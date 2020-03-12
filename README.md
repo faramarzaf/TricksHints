@@ -162,7 +162,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
+|[WaveView](https://github.com/gelitenight/WaveView)| Loading  |
 |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
+|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Loading  |
 |[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |
 |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |
@@ -192,12 +194,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | Material  |
 |[android-slidr](https://github.com/florent37/android-slidr)| Material  |
 |[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
-|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Material  |
-|[WaveView](https://github.com/gelitenight/WaveView)| Material  |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
-|[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Material |
 |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
@@ -312,6 +311,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
 |[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |
 |[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
