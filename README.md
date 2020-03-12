@@ -82,6 +82,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
+|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar  |
 |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |
 |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
@@ -164,7 +165,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
 |[WaveView](https://github.com/gelitenight/WaveView)| Loading  |
 |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
-|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| Loading  |
 |[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |
 |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |
@@ -189,10 +189,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DiagonalLayout](https://github.com/florent37/DiagonalLayout)| Material  |
 |[GlidePalette](https://github.com/florent37/GlidePalette)| Material  |
 |[material-menu](https://github.com/balysv/material-menu)| Material  |
-|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Material  |
-|[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| Material  |
-|[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | Material  |
-|[android-slidr](https://github.com/florent37/android-slidr)| Material  |
 |[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
@@ -295,7 +291,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
 |[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
 |[fit-chart](https://github.com/txusballesteros/fit-chart)| ProgressBar  |
+|[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | ProgressBar  |
+|[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)| ProgressBar  |
 |[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |
+|[android-slidr](https://github.com/florent37/android-slidr)| Range Bar  |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |
 |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
@@ -349,6 +348,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |
 |[TimelineView](https://github.com/qapqap/TimelineView)| Stepper |
 |[MaterialTimelineView](https://github.com/hypeapps/MaterialTimelineView?source=post_page-----9fb77a590316----------------------)| Stepper |
+|[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| SwipeRefreshLayout |
+|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| SwipeRefreshLayout |
 |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
