@@ -162,6 +162,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
 |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
 |[AppIntro](https://github.com/AppIntro/AppIntro)| Intro |
+|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Intro  |
+|[welcome-android](https://github.com/stephentuso/welcome-android)| Intro |  
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
 |[ENViews](https://github.com/codeestX/ENViews)| Loading |
@@ -175,9 +177,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
-|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Material  |
 |[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
-|[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Material  |
 |[Material](https://github.com/rey5137/material)| Material  |
 |[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
 |[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |
@@ -233,6 +233,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AppCompat-Extension-Library](https://github.com/TR4Android/AppCompat-Extension-Library)| Navigation drawer  |
 |[TabDrawer](https://github.com/ashazar/TabDrawer)| Navigation drawer  |
 |[FlowingDrawer](https://github.com/mxn21/FlowingDrawer)| Navigation drawer  |
+|[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Navigation drawer   |
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
@@ -376,5 +377,3 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |
 |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
-|[welcome-android](https://github.com/stephentuso/welcome-android)| Welcome page |
-|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Welcome page |  
