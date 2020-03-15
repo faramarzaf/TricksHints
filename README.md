@@ -373,6 +373,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |
 |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
+|[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |
 |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |
 |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
