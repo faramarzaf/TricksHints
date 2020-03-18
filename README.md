@@ -110,7 +110,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
 |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
-|[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Date picker |
 |[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |
 |[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Dialog |
 |[Noty](https://github.com/emre1512/Noty)| Dialog |
@@ -208,7 +207,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
 |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
 |[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |
-|[smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)| Navigation bar  |
 |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
 |[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
