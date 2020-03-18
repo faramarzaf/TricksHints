@@ -209,6 +209,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |
 |[smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)| Navigation bar  |
 |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
+|[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |
 |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |
 |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Navigation bar  |
