@@ -112,6 +112,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
 |[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Date picker |
 |[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |
+|[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Dialog |
 |[Noty](https://github.com/emre1512/Noty)| Dialog |
 |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Dialog  |
 |[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |
@@ -285,6 +286,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
 |[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
+|[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
 |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| ProgressBar  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
