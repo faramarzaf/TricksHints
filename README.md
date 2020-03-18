@@ -272,7 +272,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
 |[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
 |[Crescento](https://github.com/developer-shivam/crescento)| Photo |
-|[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Photo |
 |[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
 |[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
 |[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |
@@ -311,6 +310,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |
 |[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |
+|[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Scroll View |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
