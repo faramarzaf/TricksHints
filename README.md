@@ -55,6 +55,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | ------------- | ------------- |
 |[android-about-page](https://github.com/medyo/android-about-page)| About page |
 |[about-page-android](https://github.com/husaynhakeem/about-page-android)| About page |
+|[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page |
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |
 |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
@@ -321,6 +322,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
 |[RadioRealButton](https://github.com/ceryle/RadioRealButton)| Segmented |
 |[SegmentedButton](https://github.com/ceryle/SegmentedButton)| Segmented |
+|[android-segmentedtab](https://github.com/pucamafra/android-segmentedtab)| Segmented |
 |[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |
 |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
@@ -363,6 +365,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
 |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
+|[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
