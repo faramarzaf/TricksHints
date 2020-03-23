@@ -295,6 +295,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)| ProgressBar  |
 |[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |
 |[android-slidr](https://github.com/florent37/android-slidr)| Range Bar  |
+|[simple-range-view](https://github.com/bendikv/simple-range-view)| Range Bar  |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |
 |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
