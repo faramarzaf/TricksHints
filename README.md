@@ -2,6 +2,10 @@
 There are several solutions,hints and also some tricks about Android in this repository.
 I hope this paper would help the programmer's community. 
 
+
+## Command cheat sheet
+**[Open link](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)** 
+
 ## Public APIs
 **[Start](https://github.com/public-apis/public-apis)**  
 
