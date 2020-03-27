@@ -189,7 +189,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
 |[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |
 |[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)| Material  |
-|[TutoShowcase](https://github.com/florent37/TutoShowcase)| Material  |
 |[DiagonalLayout](https://github.com/florent37/DiagonalLayout)| Material  |
 |[GlidePalette](https://github.com/florent37/GlidePalette)| Material  |
 |[material-menu](https://github.com/balysv/material-menu)| Material  |
@@ -334,6 +333,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |
 |[VSpot](https://github.com/TutorialsAndroid/VSpot)| Show Case  |
 |[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Show Case |
+|[TutoShowcase](https://github.com/florent37/TutoShowcase)| Show Case  |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |
 |[Light](https://github.com/TonnyL/Light)| Snackbar |
 |[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |
