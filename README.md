@@ -290,7 +290,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
 |[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
-|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| ProgressBar  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
