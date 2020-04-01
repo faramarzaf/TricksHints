@@ -181,6 +181,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
 |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |
+|[android-material-play-pause-view](https://github.com/OHoussein/android-material-play-pause-view)| Material  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
 |[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
 |[Material](https://github.com/rey5137/material)| Material  |
