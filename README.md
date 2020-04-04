@@ -96,6 +96,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
 |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
 |[CameraView](https://github.com/natario1/CameraView)| Camera  |
+|[HzGrapher](https://github.com/handstudio/HzGrapher)| Chart  |
 |[CurveGraphView](https://github.com/swapnil1104/CurveGraphView)| Chart  |
 |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
 |[snake](https://github.com/txusballesteros/snake)| Chart  |
