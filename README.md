@@ -207,6 +207,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |
 |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
+|[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
 |[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |
 |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
