@@ -246,6 +246,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
+|[VNTNumberPickerPreference](https://github.com/vanniktech/VNTNumberPickerPreference)| NumberPicker |
 |[NumberPicker](https://github.com/ShawnLin013/NumberPicker)| NumberPicker |
 |[NumberSlidingPicker](https://github.com/sephiroth74/NumberSlidingPicker)| NumberPicker |
 |[meter-number-picker](https://github.com/alexzaitsev/meter-number-picker)| NumberPicker |
