@@ -268,6 +268,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
 |[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |
 |[PersianLinearDatePicker](https://github.com/SirLordPouya/PersianLinearDatePicker)| Persian date |
+|[QuickShot](https://github.com/Muddz/QuickShot)| Photo  |
 |[RxLowpoly](https://github.com/abhriyaroy/RxLowpoly)| Photo  |
 |[ion](https://github.com/koush/ion)| Photo  |
 |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
