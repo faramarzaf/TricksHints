@@ -150,6 +150,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |
 |[expandit](https://github.com/AmalH/expandit)| Expandable |
+|[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |
 |[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |
 |[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
