@@ -85,6 +85,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |
 |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 |[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |
+|[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |
 |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
 |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
