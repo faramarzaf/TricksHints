@@ -119,6 +119,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |
 |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
+|[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
