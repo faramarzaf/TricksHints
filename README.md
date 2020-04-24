@@ -85,6 +85,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |
 |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 |[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |
+|[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |
 |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
 |[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |
@@ -118,6 +119,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |
 |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
+|[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |
 |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
 |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
