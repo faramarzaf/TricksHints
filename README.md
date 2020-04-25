@@ -310,6 +310,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fit-chart](https://github.com/txusballesteros/fit-chart)| ProgressBar  |
 |[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | ProgressBar  |
 |[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)| ProgressBar  |
+|[zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)| QR code |
 |[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |
 |[android-slidr](https://github.com/florent37/android-slidr)| Range Bar  |
 |[simple-range-view](https://github.com/bendikv/simple-range-view)| Range Bar  |
