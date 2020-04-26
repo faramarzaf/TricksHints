@@ -302,6 +302,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
 |[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
+|[ProtractorView](https://github.com/GoodieBag/ProtractorView)| ProgressBar  |
 |[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
 |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
@@ -334,6 +335,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
 |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
+|[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |
 |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 |[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |
 |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
