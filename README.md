@@ -379,6 +379,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
 |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
 |[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |
+|[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
