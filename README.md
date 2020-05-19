@@ -62,6 +62,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page |
 |[TransformationLayout](https://github.com/skydoves/TransformationLayout)| Animation |
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |
+|[Animatoo](https://github.com/AtifSayings/Animatoo)| Animation  |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |
 |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |
