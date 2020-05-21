@@ -66,16 +66,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
 |[Backboard](https://github.com/tumblr/Backboard)| Animation |[TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation)| Animation |
 |[LoadingView](https://github.com/ldoublem/LoadingView)| Animation |[JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)| Animation |
+|[UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation)| Animation |[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
+|[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
+|[RichPath](https://github.com/tarek360/RichPath)| Animation  |[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)| Animation  |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation)| Animation |
-|[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
-|[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |
-|[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
-|[RichPath](https://github.com/tarek360/RichPath)| Animation  |
-|[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)| Animation  |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |
 |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |
