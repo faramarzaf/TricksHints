@@ -91,33 +91,22 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
+|[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
+|[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
+|[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
+|[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Dialog |
+|[Noty](https://github.com/emre1512/Noty)| Dialog |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Dialog  |
+|[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |[iOSDialog](https://github.com/MagicDog707/iOSDialog)| Dialog |
+|[TTFancyGifDialog-Android](https://github.com/tayyabtariq50/TTFancyGifDialog-Android)| Dialog |[PrettyDialog](https://github.com/mjn1369/PrettyDialog)| Dialog |
+|[FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyAlertDialog-Android)| Dialog |[AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)| Dialog |
+|[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| Dialog |[AndroidMaterialDialog](https://github.com/michael-rapp/AndroidMaterialDialog)| Dialog |
+|[material-dialogs](https://github.com/afollestad/material-dialogs)| Dialog |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
+|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
+|[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |[dialogPlus](https://github.com/ma7madfawzy/dialogPlus)| Dialog |
+
 
 | Library  | Category |
 | ------------- | ------------- |
-|[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
-|[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
-|[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |
-|[date-picker](https://github.com/afollestad/date-picker)| Date picker |
-|[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |
-|[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
-|[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |
-|[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Dialog |
-|[Noty](https://github.com/emre1512/Noty)| Dialog |
-|[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Dialog  |
-|[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |
-|[iOSDialog](https://github.com/MagicDog707/iOSDialog)| Dialog |
-|[TTFancyGifDialog-Android](https://github.com/tayyabtariq50/TTFancyGifDialog-Android)| Dialog |
-|[PrettyDialog](https://github.com/mjn1369/PrettyDialog)| Dialog |
-|[FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyAlertDialog-Android)| Dialog |
-|[AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)| Dialog |
-|[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| Dialog |
-|[AndroidMaterialDialog](https://github.com/michael-rapp/AndroidMaterialDialog)| Dialog |
-|[material-dialogs](https://github.com/afollestad/material-dialogs)| Dialog |
-|[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
-|[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog  |
-|[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
-|[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |
-|[dialogPlus](https://github.com/ma7madfawzy/dialogPlus)| Dialog |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |
 |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |
