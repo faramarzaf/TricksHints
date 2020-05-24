@@ -73,26 +73,18 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
 |[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
+|[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
+|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
+|[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
+|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
+|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar  |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
+|[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
+|[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
+|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera  |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |
-|[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
-|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |
-|[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
-|[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |
-|[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
-|[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |
-|[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
-|[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar  |
-|[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
-|[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |
-|[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
-|[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |
-|[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
-|[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera   |
-|[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
 |[CameraView](https://github.com/natario1/CameraView)| Camera  |
 |[HzGrapher](https://github.com/handstudio/HzGrapher)| Chart  |
 |[CurveGraphView](https://github.com/swapnil1104/CurveGraphView)| Chart  |
