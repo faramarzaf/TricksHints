@@ -81,28 +81,19 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
 |[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera  |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
-
+|[CameraView](https://github.com/natario1/CameraView)| Camera  |[HzGrapher](https://github.com/handstudio/HzGrapher)| Chart  |
+|[CurveGraphView](https://github.com/swapnil1104/CurveGraphView)| Chart  |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
+|[snake](https://github.com/txusballesteros/snake)| Chart  |[Spark](https://github.com/robinhood/spark)| Chart  |
+|[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
+|[GraphView](https://github.com/jjoe64/GraphView)| Chart  |[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
+|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
+|[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
+|[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
+|[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
+|[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 
 | Library  | Category |
 | ------------- | ------------- |
-|[CameraView](https://github.com/natario1/CameraView)| Camera  |
-|[HzGrapher](https://github.com/handstudio/HzGrapher)| Chart  |
-|[CurveGraphView](https://github.com/swapnil1104/CurveGraphView)| Chart  |
-|[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
-|[snake](https://github.com/txusballesteros/snake)| Chart  |
-|[Spark](https://github.com/robinhood/spark)| Chart  |
-|[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |
-|[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
-|[GraphView](https://github.com/jjoe64/GraphView)| Chart  |
-|[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
-|[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |
-|[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
-|[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |
-|[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
-|[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |
-|[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
-|[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |
-|[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |
