@@ -69,18 +69,14 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation)| Animation |[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
 |[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
 |[RichPath](https://github.com/tarek360/RichPath)| Animation  |[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)| Animation  |
+|[material-cab](https://github.com/afollestad/material-cab)| Action Bar |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
+|[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
+|[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
+|[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[material-cab](https://github.com/afollestad/material-cab)| Action Bar |
-|[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
-|[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |
-|[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
-|[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |
-|[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
-|[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |
-|[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
 |[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |
 |[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |
