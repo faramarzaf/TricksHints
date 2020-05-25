@@ -109,28 +109,19 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
 |[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
+|[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |[expandit](https://github.com/AmalH/expandit)| Expandable |
+|[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
+|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
+|[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
+|[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
+|[FloatingActionButton](https://github.com/Clans/FloatingActionButton)| Floating Action Button |[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)| Floating Action Button  |
+|[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
+|[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button|[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
+|[BoomMenu](https://github.com/Nightonke/BoomMenu)| Floating Action Button |[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |
-|[expandit](https://github.com/AmalH/expandit)| Expandable |
-|[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |
-|[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
-|[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |
-|[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
-|[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |
-|[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
-|[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |
-|[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
-|[FloatingActionButton](https://github.com/Clans/FloatingActionButton)| Floating Action Button  |
-|[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)| Floating Action Button  |
-|[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |
-|[fab](https://github.com/Scalified/fab)| Floating Action Button  |
-|[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button  |
-|[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
-|[BoomMenu](https://github.com/Nightonke/BoomMenu)| Floating Action Button |
-|[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
 |[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Font |
 |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
