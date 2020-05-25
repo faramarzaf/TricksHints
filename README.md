@@ -103,22 +103,16 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[material-dialogs](https://github.com/afollestad/material-dialogs)| Dialog |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
 |[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |[dialogPlus](https://github.com/ma7madfawzy/dialogPlus)| Dialog |
+|[Sdp](https://github.com/intuit/sdp)| Dimensions |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
+|[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |[PasswordEditText](https://github.com/txusballesteros/PasswordEditText)| Edit Text |
+|[AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)| Edit Text |[AutoLinkTextViewV2](https://github.com/armcha/AutoLinkTextViewV2)| Edit Text |
+|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
+|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
+|[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[Sdp](https://github.com/intuit/sdp)| Dimensions |
-|[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
-|[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |
-|[PasswordEditText](https://github.com/txusballesteros/PasswordEditText)| Edit Text |
-|[AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)| Edit Text |
-|[AutoLinkTextViewV2](https://github.com/armcha/AutoLinkTextViewV2)| Edit Text |
-|[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |
-|[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
-|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
-|[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
-|[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |
-|[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |
 |[expandit](https://github.com/AmalH/expandit)| Expandable |
 |[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |
