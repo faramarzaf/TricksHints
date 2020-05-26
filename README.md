@@ -118,30 +118,19 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
 |[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button|[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
 |[BoomMenu](https://github.com/Nightonke/BoomMenu)| Floating Action Button |[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
-
+|[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Font |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
+|[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
+|[AppIntro](https://github.com/AppIntro/AppIntro)| Intro |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Intro  |
+|[welcome-android](https://github.com/stephentuso/welcome-android)| Intro |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |  
+|[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |[ENViews](https://github.com/codeestX/ENViews)| Loading |
+|[WaveView](https://github.com/gelitenight/WaveView)| Loading  |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
+|[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
+|[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
+|[AirLocation](https://github.com/mumayank/AirLocation)| Location  |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
+|[Logger](https://github.com/orhanobut/logger)| Logcat  |[android-material-play-pause-view](https://github.com/OHoussein/android-material-play-pause-view)| Material  |
 
 | Library  | Category |
 | ------------- | ------------- |
-|[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Font |
-|[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
-|[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |
-|[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
-|[AppIntro](https://github.com/AppIntro/AppIntro)| Intro |
-|[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Intro  |
-|[welcome-android](https://github.com/stephentuso/welcome-android)| Intro |  
-|[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |
-|[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |
-|[ENViews](https://github.com/codeestX/ENViews)| Loading |
-|[WaveView](https://github.com/gelitenight/WaveView)| Loading  |
-|[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
-|[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |
-|[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
-|[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |
-|[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
-|[AirLocation](https://github.com/mumayank/AirLocation)| Location  |
-|[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
-|[Logger](https://github.com/orhanobut/logger)| Logcat  |
-|[android-material-play-pause-view](https://github.com/OHoussein/android-material-play-pause-view)| Material  |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
 |[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
 |[Material](https://github.com/rey5137/material)| Material  |
