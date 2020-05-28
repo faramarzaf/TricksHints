@@ -128,29 +128,19 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |[android-material-play-pause-view](https://github.com/OHoussein/android-material-play-pause-view)| Material  |
+|[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
+|[Material](https://github.com/rey5137/material)| Material  |[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
+|[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
+|[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)| Material  |
+|[DiagonalLayout](https://github.com/florent37/DiagonalLayout)| Material  |[GlidePalette](https://github.com/florent37/GlidePalette)| Material  |
+|[material-menu](https://github.com/balysv/material-menu)| Material  |[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
+|[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
+|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 
 | Library  | Category |
 | ------------- | ------------- |
-|[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |
-|[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
-|[Material](https://github.com/rey5137/material)| Material  |
-|[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
-|[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |
-|[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
-|[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |
-|[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)| Material  |
-|[DiagonalLayout](https://github.com/florent37/DiagonalLayout)| Material  |
-|[GlidePalette](https://github.com/florent37/GlidePalette)| Material  |
-|[material-menu](https://github.com/balysv/material-menu)| Material  |
-|[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
-|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
-|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
-|[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |
-|[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
-|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |
-|[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
-|[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
-|[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
 |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |
