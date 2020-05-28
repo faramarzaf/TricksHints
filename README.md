@@ -138,19 +138,15 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
+|[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
+|[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
+|[boxing](https://github.com/bilibili/boxing)| Multi media selector  |[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
+|[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
+|[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
+
 
 | Library  | Category |
 | ------------- | ------------- |
-|[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |
-|[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
-|[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |
-|[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
-|[boxing](https://github.com/bilibili/boxing)| Multi media selector  |
-|[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
-|[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |
-|[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
-|[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
-|[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
 |[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |
 |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
 |[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |
