@@ -143,38 +143,24 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
 |[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
+|[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
+|[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
+|[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Navigation bar  |
+|[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |[BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)| Navigation bar  |
+|[Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)| Navigation bar  |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
+|[morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)| Navigation bar  |[BottomNavigationBar](https://github.com/fishwjy/BottomNavigationBar)| Navigation bar  |
+|[MeowBottomNavigation](https://github.com/shetmobile/MeowBottomNavigation)| Navigation bar  |[AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)| Navigation drawer |
+|[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
+|[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
+|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)| Navigation drawer  |
+|[LDrawer](https://github.com/keklikhasan/LDrawer)| Navigation drawer |[Custom-Navigation-Drawer](https://github.com/shrikanth7698/Custom-Navigation-Drawer)| Navigation drawer  |
+|[SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)| Navigation drawer  |[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Navigation drawer  |
+|[AppCompat-Extension-Library](https://github.com/TR4Android/AppCompat-Extension-Library)| Navigation drawer  |[TabDrawer](https://github.com/ashazar/TabDrawer)| Navigation drawer  |
+|[FlowingDrawer](https://github.com/mxn21/FlowingDrawer)| Navigation drawer  |[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Navigation drawer   |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |
-|[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
-|[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |
-|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
-|[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |
-|[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Navigation bar  |
-|[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |
-|[BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)| Navigation bar  |
-|[Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)| Navigation bar  |
-|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
-|[morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation)| Navigation bar  |
-|[BottomNavigationBar](https://github.com/fishwjy/BottomNavigationBar)| Navigation bar  |
-|[MeowBottomNavigation](https://github.com/shetmobile/MeowBottomNavigation)| Navigation bar  |
-|[AdvancedMaterialDrawer](https://github.com/madcyph3r/AdvancedMaterialDrawer)| Navigation drawer |
-|[AwesomeNavigationDrawer](https://github.com/root-ansh/AwesomeNavigationDrawer)| Navigation drawer |
-|[duo-navigation-drawer](https://github.com/PSD-Company/duo-navigation-drawer)| Navigation drawer  |
-|[Drawer-Behavior](https://github.com/shiburagi/Drawer-Behavior)| Navigation drawer  |
-|[material-drawer](https://github.com/heinrichreimer/material-drawer)| Navigation drawer |
-|[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation drawer |
-|[ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)| Navigation drawer  |
-|[LDrawer](https://github.com/keklikhasan/LDrawer)| Navigation drawer |
-|[Custom-Navigation-Drawer](https://github.com/shrikanth7698/Custom-Navigation-Drawer)| Navigation drawer  |
-|[SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)| Navigation drawer  |
-|[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Navigation drawer  |
-|[AppCompat-Extension-Library](https://github.com/TR4Android/AppCompat-Extension-Library)| Navigation drawer  |
-|[TabDrawer](https://github.com/ashazar/TabDrawer)| Navigation drawer  |
-|[FlowingDrawer](https://github.com/mxn21/FlowingDrawer)| Navigation drawer  |
-|[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Navigation drawer   |
 |[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
 |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
 |[Noty](https://github.com/emre1512/Noty)| Notif |
