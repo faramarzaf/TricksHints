@@ -157,34 +157,22 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)| Navigation drawer  |[MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt)| Navigation drawer  |
 |[AppCompat-Extension-Library](https://github.com/TR4Android/AppCompat-Extension-Library)| Navigation drawer  |[TabDrawer](https://github.com/ashazar/TabDrawer)| Navigation drawer  |
 |[FlowingDrawer](https://github.com/mxn21/FlowingDrawer)| Navigation drawer  |[DrawerMultiLevelListview](https://github.com/awidiyadew/DrawerMultiLevelListview)| Navigation drawer   |
+|[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
+|[Noty](https://github.com/emre1512/Noty)| Notif |[VNTNumberPickerPreference](https://github.com/vanniktech/VNTNumberPickerPreference)| NumberPicker |
+|[NumberPicker](https://github.com/ShawnLin013/NumberPicker)| NumberPicker |[NumberSlidingPicker](https://github.com/sephiroth74/NumberSlidingPicker)| NumberPicker |
+|[meter-number-picker](https://github.com/alexzaitsev/meter-number-picker)| NumberPicker |[MaterialNumberPicker](https://github.com/StephenVinouze/MaterialNumberPicker)| NumberPicker |
+|[ScrollableNumberPicker](https://github.com/michaelmuenzer/ScrollableNumberPicker)| NumberPicker |[actual-number-picker](https://github.com/milosmns/actual-number-picker)| NumberPicker |
+|[SwipePicker](https://github.com/m4xp1/SwipePicker)| NumberPicker |[PinView-Android](https://github.com/darshan-miskin/PinView-Android)| OTP View|
+|[PinEntryEditText](https://github.com/alphamu/PinEntryEditText)| OTP View|[Pinview](https://github.com/GoodieBag/Pinview)| OTP View|
+|[AndroidOtpCustomViewmaster](https://github.com/Temidtech/AndroidOtpCustomViewmaster)| OTP View|[OtpView](https://github.com/aabhasr1/OtpView)| OTP View|
+|[PinView](https://github.com/ChaosLeung/PinView)| OTP View|[android-otpview-pinview](https://github.com/mukeshsolanki/android-otpview-pinview)| OTP View|
+|[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
+|[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Persian date |
+|[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)| Navigation Tab  |
-|[Alerter](https://github.com/Tapadoo/Alerter)| Notif  |
-|[Noty](https://github.com/emre1512/Noty)| Notif |
-|[VNTNumberPickerPreference](https://github.com/vanniktech/VNTNumberPickerPreference)| NumberPicker |
-|[NumberPicker](https://github.com/ShawnLin013/NumberPicker)| NumberPicker |
-|[NumberSlidingPicker](https://github.com/sephiroth74/NumberSlidingPicker)| NumberPicker |
-|[meter-number-picker](https://github.com/alexzaitsev/meter-number-picker)| NumberPicker |
-|[MaterialNumberPicker](https://github.com/StephenVinouze/MaterialNumberPicker)| NumberPicker |
-|[ScrollableNumberPicker](https://github.com/michaelmuenzer/ScrollableNumberPicker)| NumberPicker |
-|[actual-number-picker](https://github.com/milosmns/actual-number-picker)| NumberPicker |
-|[SwipePicker](https://github.com/m4xp1/SwipePicker)| NumberPicker |
-|[PinView-Android](https://github.com/darshan-miskin/PinView-Android)| OTP View|
-|[PinEntryEditText](https://github.com/alphamu/PinEntryEditText)| OTP View|
-|[Pinview](https://github.com/GoodieBag/Pinview)| OTP View|
-|[AndroidOtpCustomViewmaster](https://github.com/Temidtech/AndroidOtpCustomViewmaster)| OTP View|
-|[OtpView](https://github.com/aabhasr1/OtpView)| OTP View|
-|[PinView](https://github.com/ChaosLeung/PinView)| OTP View|
-|[android-otpview-pinview](https://github.com/mukeshsolanki/android-otpview-pinview)| OTP View|
-|[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |
-|[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
-|[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |
-|[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Persian date |
-|[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |
-|[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
 |[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |
 |[PersianLinearDatePicker](https://github.com/SirLordPouya/PersianLinearDatePicker)| Persian date |
 |[QuickShot](https://github.com/Muddz/QuickShot)| Photo  |
