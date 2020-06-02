@@ -169,36 +169,23 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Persian date |
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
+|[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |[PersianLinearDatePicker](https://github.com/SirLordPouya/PersianLinearDatePicker)| Persian date |
+|[QuickShot](https://github.com/Muddz/QuickShot)| Photo  |[RxLowpoly](https://github.com/abhriyaroy/RxLowpoly)| Photo  |
+|[ion](https://github.com/koush/ion)| Photo  |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
+|[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |[Glide](https://github.com/bumptech/glide)| Photo  |
+|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)| Photo  |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
+|[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |[Matisse](https://github.com/zhihu/Matisse)| Photo |
+|[Android-Image-Picker-and-Cropping](https://github.com/ravi8x/Android-Image-Picker-and-Cropping)| Photo  |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
+|[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |[Crescento](https://github.com/developer-shivam/crescento)| Photo |
+|[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
+|[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
+|[Zoomy](https://github.com/imablanco/Zoomy)| Photo |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
+|[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
+|[Blurry](https://github.com/wasabeef/Blurry)| Photo |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[PersianCaldroid](https://github.com/dariushm2/PersianCaldroid)| Persian date |
-|[PersianLinearDatePicker](https://github.com/SirLordPouya/PersianLinearDatePicker)| Persian date |
-|[QuickShot](https://github.com/Muddz/QuickShot)| Photo  |
-|[RxLowpoly](https://github.com/abhriyaroy/RxLowpoly)| Photo  |
-|[ion](https://github.com/koush/ion)| Photo  |
-|[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
-|[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |
-|[Glide](https://github.com/bumptech/glide)| Photo  |
-|[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)| Photo  |
-|[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
-|[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |
-|[Matisse](https://github.com/zhihu/Matisse)| Photo |
-|[Android-Image-Picker-and-Cropping](https://github.com/ravi8x/Android-Image-Picker-and-Cropping)| Photo  |
-|[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
-|[Compressor](https://github.com/zetbaitsu/Compressor)| Photo |
-|[Crescento](https://github.com/developer-shivam/crescento)| Photo |
-|[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |
-|[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
-|[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |
-|[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
-|[Zoomy](https://github.com/imablanco/Zoomy)| Photo |
-|[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
-|[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |
-|[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
-|[Blurry](https://github.com/wasabeef/Blurry)| Photo |
-|[uCrop](https://github.com/Yalantis/uCrop)| Photo |
 |[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
 |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
 |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| ProgressBar  |
