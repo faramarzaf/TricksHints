@@ -182,40 +182,25 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Zoomy](https://github.com/imablanco/Zoomy)| Photo |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Blurry](https://github.com/wasabeef/Blurry)| Photo |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
+|[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
+|[ProtractorView](https://github.com/GoodieBag/ProtractorView)| ProgressBar  |[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
+|[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
+|[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
+|[fit-chart](https://github.com/txusballesteros/fit-chart)| ProgressBar  |[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | ProgressBar  |
+|[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)| ProgressBar  |[zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)| QR code |
+|[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |[android-slidr](https://github.com/florent37/android-slidr)| Range Bar  |
+|[simple-range-view](https://github.com/bendikv/simple-range-view)| Range Bar  |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
+|[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
+|[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
+|[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
+|[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
+|[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
+|[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |
-|[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
-|[ProtractorView](https://github.com/GoodieBag/ProtractorView)| ProgressBar  |
-|[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
-|[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |
-|[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
-|[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |
-|[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
-|[fit-chart](https://github.com/txusballesteros/fit-chart)| ProgressBar  |
-|[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | ProgressBar  |
-|[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)| ProgressBar  |
-|[zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)| QR code |
-|[MaterialRangeBar](https://github.com/oli107/material-range-bar)| Range Bar  |
-|[android-slidr](https://github.com/florent37/android-slidr)| Range Bar  |
-|[simple-range-view](https://github.com/bendikv/simple-range-view)| Range Bar  |
-|[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating Bar |
-|[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |
-|[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
-|[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |
-|[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
-|[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |
-|[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
-|[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |
-|[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
-|[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |
-|[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
-|[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |
-|[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
-|[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |
-|[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |
 |[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Scroll View |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
