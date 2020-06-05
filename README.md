@@ -197,18 +197,14 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
 |[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
 |[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
+|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Scroll View |
+|[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
+|[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| Seekbar |
+|[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |
-|[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Scroll View |
-|[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |
-|[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
-|[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |
-|[ProtractorView](https://github.com/GoodieBag/ProtractorView)| Seekbar |
-|[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |
-|[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 |[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |
 |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
 |[RadioRealButton](https://github.com/ceryle/RadioRealButton)| Segmented |
