@@ -209,24 +209,17 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView)| Show Case  |[VSpot](https://github.com/TutorialsAndroid/VSpot)| Show Case  |
 |[TapTargetView](https://github.com/KeepSafe/TapTargetView)| Show Case |[TutoShowcase](https://github.com/florent37/TutoShowcase)| Show Case  |
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |[Light](https://github.com/TonnyL/Light)| Snackbar |
+|[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |[MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner)| Spinner |
+|[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
+|[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
+|[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
+|[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
+|[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
+|[Timeline-View](https://github.com/vipulasri/Timeline-View)| Stepper |[Android-Timeline-View](https://github.com/akshaykale/Android-Timeline-View)| Stepper |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |
-|[MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner)| Spinner |
-|[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |
-|[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
-|[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |
-|[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
-|[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |
-|[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
-|[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |
-|[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
-|[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |
-|[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
-|[Timeline-View](https://github.com/vipulasri/Timeline-View)| Stepper |
-|[Android-Timeline-View](https://github.com/akshaykale/Android-Timeline-View)| Stepper |
 |[jerryOkaforTimeLineView](https://github.com/jerryOkafor/TimeLineView)| Stepper |
 |[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
 |[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |
