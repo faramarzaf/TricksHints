@@ -216,22 +216,16 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
 |[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
 |[Timeline-View](https://github.com/vipulasri/Timeline-View)| Stepper |[Android-Timeline-View](https://github.com/akshaykale/Android-Timeline-View)| Stepper |
+|[jerryOkaforTimeLineView](https://github.com/jerryOkafor/TimeLineView)| Stepper |[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
+|[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |[TimelineView](https://github.com/qapqap/TimelineView)| Stepper |
+|[MaterialTimelineView](https://github.com/hypeapps/MaterialTimelineView?source=post_page-----9fb77a590316----------------------)| Stepper |[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| SwipeRefreshLayout |
+|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| SwipeRefreshLayout |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
+|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
+|[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
 
 
 | Library  | Category |
 | ------------- | ------------- |
-|[jerryOkaforTimeLineView](https://github.com/jerryOkafor/TimeLineView)| Stepper |
-|[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
-|[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |
-|[TimelineView](https://github.com/qapqap/TimelineView)| Stepper |
-|[MaterialTimelineView](https://github.com/hypeapps/MaterialTimelineView?source=post_page-----9fb77a590316----------------------)| Stepper |
-|[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| SwipeRefreshLayout |
-|[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| SwipeRefreshLayout |
-|[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
-|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |
-|[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
-|[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |
-|[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
 |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
