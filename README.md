@@ -222,20 +222,14 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| SwipeRefreshLayout |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
 |[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
-
+|[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
+|[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
+|[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
+|[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
+|[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 
 | Library  | Category |
 | ------------- | ------------- |
-|[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |
-|[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
-|[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |
-|[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
-|[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |
-|[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
-|[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |
-|[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
-|[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
-|[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
 |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |
