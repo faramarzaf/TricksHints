@@ -227,13 +227,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
+|[CalendarListview](https://github.com/traex/CalendarListview)| Time  |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
+|[android-times-square](https://github.com/square/android-times-square)| Time  |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
+
 
 | Library  | Category |
 | ------------- | ------------- |
-|[CalendarListview](https://github.com/traex/CalendarListview)| Time  |
-|[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
-|[android-times-square](https://github.com/square/android-times-square)| Time  |
-|[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
 |[FlipTimerView](https://github.com/anugotta/FlipTimerView)| Time |
 |[Range-Time-Picker-Dialog](https://github.com/PuffoCyano/Range-Time-Picker-Dialog)| Time |
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
