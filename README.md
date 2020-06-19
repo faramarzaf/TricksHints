@@ -229,18 +229,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
-
+|[FlipTimerView](https://github.com/anugotta/FlipTimerView)| Time |[Range-Time-Picker-Dialog](https://github.com/PuffoCyano/Range-Time-Picker-Dialog)| Time |
+|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
+|[MyToast](https://github.com/lopspower/MyToast)| Toast  |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
+|[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 
 | Library  | Category |
 | ------------- | ------------- |
-|[FlipTimerView](https://github.com/anugotta/FlipTimerView)| Time |
-|[Range-Time-Picker-Dialog](https://github.com/PuffoCyano/Range-Time-Picker-Dialog)| Time |
-|[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |
-|[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
-|[MyToast](https://github.com/lopspower/MyToast)| Toast  |
-|[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
-|[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |
-|[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |
 |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
