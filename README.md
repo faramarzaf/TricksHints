@@ -240,4 +240,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 |[MovingImageView](https://github.com/AlbertGrobas/MovingImageView)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
-
+|[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
