@@ -241,3 +241,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MovingImageView](https://github.com/AlbertGrobas/MovingImageView)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
+|[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |
