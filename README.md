@@ -242,3 +242,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |
+|[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |
+|[Colorful](https://github.com/garretyoder/Colorful)| Theme |
