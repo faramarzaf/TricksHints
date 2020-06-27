@@ -244,3 +244,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |
 |[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
+|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
+|[RoundCornerProgressBar](https://github.com/GwonHyeok/StickySwitch)| ProgressBar |
+|[SearchableSpinner](https://github.com/MdFarhanRaja/SearchableSpinner)| ProgressBar |
+|[MultiProgressBar](https://github.com/knight-rider1609/MultiProgressBar)| ProgressBar |
+|[ProgressView](https://github.com/skydoves/ProgressView)| ProgressBar |
