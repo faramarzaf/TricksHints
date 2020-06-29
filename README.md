@@ -251,3 +251,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ProgressView](https://github.com/skydoves/ProgressView)| ProgressBar |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
+|[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
+|[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
