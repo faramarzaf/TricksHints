@@ -249,3 +249,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SearchableSpinner](https://github.com/MdFarhanRaja/SearchableSpinner)| ProgressBar |
 |[MultiProgressBar](https://github.com/knight-rider1609/MultiProgressBar)| ProgressBar |
 |[ProgressView](https://github.com/skydoves/ProgressView)| ProgressBar |
+|[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
+|[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
