@@ -253,3 +253,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
+|[ChatMessagesAdapter-android](https://github.com/QuickBlox/ChatMessagesAdapter-android)| Chat |
+|[stream-chat-android](https://github.com/GetStream/stream-chat-android)| Chat |
+|[ChatView](https://github.com/shrikanth7698/ChatView)| Chat |
+|[ChatMessageView](https://github.com/bassaer/ChatMessageView)| Chat |
