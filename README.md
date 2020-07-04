@@ -257,3 +257,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[stream-chat-android](https://github.com/GetStream/stream-chat-android)| Chat |
 |[ChatView](https://github.com/shrikanth7698/ChatView)| Chat |
 |[ChatMessageView](https://github.com/bassaer/ChatMessageView)| Chat |
+[WindView](https://github.com/AhmadNemati/WindView)| Animation |
+[StepView](https://github.com/shuhart/StepView)| Stepper |
+[ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
