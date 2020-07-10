@@ -260,3 +260,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 [WindView](https://github.com/AhmadNemati/WindView)| Animation |
 [StepView](https://github.com/shuhart/StepView)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
+|[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
+|[CardStackView](https://github.com/loopeer/CardStackView)| Material |
+|[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
