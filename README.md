@@ -263,3 +263,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
+|[animate](https://github.com/hitherejoe/animate)| Animation |
+|[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |
+|[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
