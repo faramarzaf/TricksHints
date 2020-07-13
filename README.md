@@ -266,3 +266,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[animate](https://github.com/hitherejoe/animate)| Animation |
 |[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |
 |[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
+|[Particle](https://github.com/JeasonWong/Particle)| Animation |
+|[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
