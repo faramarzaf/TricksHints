@@ -21,6 +21,9 @@ I hope this paper would help the programmer's community.
 ## Proguard
 ![Android proguard snippets ](https://github.com/krschultz/android-proguard-snippets)
 
+## SVG  
+**[Convert SVG to vector xml](https://inloop.github.io/svg2android/)**  
+
 
 ## How publish our Android library?
 :point_right: [Look at this](https://medium.com/@sgkantamani/how-to-create-and-publish-an-android-library-f37bf715932)
