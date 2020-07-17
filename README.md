@@ -271,3 +271,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
+|[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
+|[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |
+|[LongShadow](https://github.com/florent37/LongShadow)| Animation |
