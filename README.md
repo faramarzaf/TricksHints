@@ -274,3 +274,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
 |[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |
 |[LongShadow](https://github.com/florent37/LongShadow)| Animation |
+|[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
+|[Scoops](https://github.com/52inc/Scoops)| Theme |
