@@ -276,3 +276,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LongShadow](https://github.com/florent37/LongShadow)| Animation |
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
 |[Scoops](https://github.com/52inc/Scoops)| Theme |
+|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
+|[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
