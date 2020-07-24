@@ -278,3 +278,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
+|[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
+|[stream-chat-android-client](https://github.com/GetStream/stream-chat-android-client)| Chat |
