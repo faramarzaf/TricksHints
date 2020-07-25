@@ -280,3 +280,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[stream-chat-android-client](https://github.com/GetStream/stream-chat-android-client)| Chat |
+|[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
+|[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
