@@ -282,3 +282,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[stream-chat-android-client](https://github.com/GetStream/stream-chat-android-client)| Chat |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
+|[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |
+|[nachos](https://github.com/hootsuite/nachos)| Chip |
+|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
