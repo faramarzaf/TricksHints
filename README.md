@@ -72,6 +72,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[UberCarAnimation](https://github.com/amanjeetsingh150/UberCarAnimation)| Animation |[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)| Animation |
 |[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)| Animation |[FlipAnimation](https://github.com/4xes/FlipAnimation)| Animation |
 |[RichPath](https://github.com/tarek360/RichPath)| Animation  |[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)| Animation  |
+|[MovingImageView](https://github.com/AlbertGrobas/MovingImageView)| Animation |[WindView](https://github.com/AhmadNemati/WindView)| Animation |
+|[animate](https://github.com/hitherejoe/animate)| Animation |[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
+|[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |[LongShadow](https://github.com/florent37/LongShadow)| Animation |
+|[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
@@ -241,14 +245,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | Library  | Category |
 | ------------- | ------------- |
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
-|[MovingImageView](https://github.com/AlbertGrobas/MovingImageView)| Animation |
-[WindView](https://github.com/AhmadNemati/WindView)| Animation |
-|[animate](https://github.com/hitherejoe/animate)| Animation |
-|[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
-|[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |
-|[LongShadow](https://github.com/florent37/LongShadow)| Animation |
-|[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |
-|[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
