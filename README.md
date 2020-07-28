@@ -242,11 +242,20 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | ------------- | ------------- |
 |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 |[MovingImageView](https://github.com/AlbertGrobas/MovingImageView)| Animation |
+[WindView](https://github.com/AhmadNemati/WindView)| Animation |
+|[animate](https://github.com/hitherejoe/animate)| Animation |
+|[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
+|[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |
+|[LongShadow](https://github.com/florent37/LongShadow)| Animation |
+|[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |
+|[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
+|[Particle](https://github.com/JeasonWong/Particle)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |
 |[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
+|[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
 |[RoundCornerProgressBar](https://github.com/GwonHyeok/StickySwitch)| ProgressBar |
 |[SearchableSpinner](https://github.com/MdFarhanRaja/SearchableSpinner)| ProgressBar |
@@ -259,23 +268,16 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ChatMessagesAdapter-android](https://github.com/QuickBlox/ChatMessagesAdapter-android)| Chat |
 |[stream-chat-android](https://github.com/GetStream/stream-chat-android)| Chat |
 |[ChatView](https://github.com/shrikanth7698/ChatView)| Chat |
+|[Kommunicate-Android-Chat-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)| Chat |
 |[ChatMessageView](https://github.com/bassaer/ChatMessageView)| Chat |
-[WindView](https://github.com/AhmadNemati/WindView)| Animation |
+|[nachos](https://github.com/hootsuite/nachos)| Chip |
 [StepView](https://github.com/shuhart/StepView)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
-|[animate](https://github.com/hitherejoe/animate)| Animation |
-|[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |
-|[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
-|[Particle](https://github.com/JeasonWong/Particle)| Animation |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
-|[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
-|[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |
-|[LongShadow](https://github.com/florent37/LongShadow)| Animation |
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
-|[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
@@ -283,7 +285,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
 |[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |
-|[nachos](https://github.com/hootsuite/nachos)| Chip |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
-|[Kommunicate-Android-Chat-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)| Chat |
 |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
