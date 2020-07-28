@@ -285,3 +285,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
+|[Kommunicate-Android-Chat-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)| Chat |
+|[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
