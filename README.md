@@ -283,3 +283,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
 |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
+|[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
+|[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
+|[Balloon](https://github.com/skydoves/Balloon)| Animation |
