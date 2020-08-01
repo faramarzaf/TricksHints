@@ -284,3 +284,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
 |[Balloon](https://github.com/skydoves/Balloon)| Animation |
+|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
