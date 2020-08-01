@@ -255,10 +255,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
 |[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
-|[RoundCornerProgressBar](https://github.com/GwonHyeok/StickySwitch)| ProgressBar |
-|[SearchableSpinner](https://github.com/MdFarhanRaja/SearchableSpinner)| ProgressBar |
-|[MultiProgressBar](https://github.com/knight-rider1609/MultiProgressBar)| ProgressBar |
-|[ProgressView](https://github.com/skydoves/ProgressView)| ProgressBar |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
