@@ -93,6 +93,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[snake](https://github.com/txusballesteros/snake)| Chart  |[Spark](https://github.com/robinhood/spark)| Chart  |
 |[hellocharts-android](https://github.com/lecho/hellocharts-android)| Chart  |[WilliamChart](https://github.com/diogobernardino/WilliamChart)| Chart  |
 |[GraphView](https://github.com/jjoe64/GraphView)| Chart  |[EazeGraph](https://github.com/blackfizz/EazeGraph)| Chart  |
+|[ChatMessagesAdapter-android](https://github.com/QuickBlox/ChatMessagesAdapter-android)| Chat |[stream-chat-android](https://github.com/GetStream/stream-chat-android)| Chat |
+|[ChatView](https://github.com/shrikanth7698/ChatView)| Chat |[Kommunicate-Android-Chat-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)| Chat |
+|[ChatMessageView](https://github.com/bassaer/ChatMessageView)| Chat |[stream-chat-android-client](https://github.com/GetStream/stream-chat-android-client)| Chat |
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
@@ -251,7 +254,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |
+|[Balloon](https://github.com/skydoves/Balloon)| Animation |
 |[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |
+|[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
 |[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
@@ -259,13 +264,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
-|[ChatMessagesAdapter-android](https://github.com/QuickBlox/ChatMessagesAdapter-android)| Chat |
-|[stream-chat-android](https://github.com/GetStream/stream-chat-android)| Chat |
-|[ChatView](https://github.com/shrikanth7698/ChatView)| Chat |
-|[Kommunicate-Android-Chat-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)| Chat |
-|[ChatMessageView](https://github.com/bassaer/ChatMessageView)| Chat |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |
 [StepView](https://github.com/shuhart/StepView)| Stepper |
+|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |
@@ -275,13 +276,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
-|[stream-chat-android-client](https://github.com/GetStream/stream-chat-android-client)| Chat |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
 |[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
 |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
-|[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
-|[Balloon](https://github.com/skydoves/Balloon)| Animation |
-|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
