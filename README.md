@@ -65,6 +65,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[android-about-page](https://github.com/medyo/android-about-page)| About page |[about-page-android](https://github.com/husaynhakeem/about-page-android)| About page |
 |[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page |[TransformationLayout](https://github.com/skydoves/TransformationLayout)| Animation |
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |[Animatoo](https://github.com/AtifSayings/Animatoo)| Animation  |
+|[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |[Balloon](https://github.com/skydoves/Balloon)| Animation |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
 |[Backboard](https://github.com/tumblr/Backboard)| Animation |[TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation)| Animation |
@@ -153,6 +154,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
 |[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
+|[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
 |[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
 |[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Navigation bar  |
@@ -253,10 +255,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
-|[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |
-|[Balloon](https://github.com/skydoves/Balloon)| Animation |
-|[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |
-|[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
 |[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
