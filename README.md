@@ -128,6 +128,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
 |[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |[expandit](https://github.com/AmalH/expandit)| Expandable |
+|[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
 |[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
@@ -156,6 +157,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
+|[CardStackView](https://github.com/loopeer/CardStackView)| Material |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
@@ -274,7 +276,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
-|[CardStackView](https://github.com/loopeer/CardStackView)| Material |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
@@ -283,7 +284,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
-|[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |
-|[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
-|[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
