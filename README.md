@@ -285,3 +285,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
+|[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
+|[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |
+|[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
