@@ -288,3 +288,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |
 |[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
+|[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |
