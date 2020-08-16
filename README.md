@@ -289,3 +289,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |
 |[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
 |[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |
+|[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |
+|[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
+|[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |
