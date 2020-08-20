@@ -292,3 +292,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |
+|[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
+|[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
