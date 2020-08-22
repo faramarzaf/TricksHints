@@ -296,3 +296,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
 |[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
+|[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
