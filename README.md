@@ -260,7 +260,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-|[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
@@ -269,6 +268,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
+|[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |
@@ -290,10 +290,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
 |[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |
 |[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |
+|[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
+|[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |
 |[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
-|[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
-|[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
