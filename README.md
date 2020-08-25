@@ -6,6 +6,10 @@ I hope this paper would help the programmer's community.
 ## Command cheat sheet
 **[Open link](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)** 
 
+## Snippet maker
+**[Link](https://carbon.now.sh/)**
+
+
 ## Public APIs
 **[Start](https://github.com/public-apis/public-apis)**  
 
