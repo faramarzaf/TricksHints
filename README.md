@@ -257,6 +257,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
+|[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 
 | Library  | Category |
 | ------------- | ------------- |
@@ -289,8 +290,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |
 |[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
 |[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |
-|[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |
-|[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |
