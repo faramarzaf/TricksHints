@@ -300,3 +300,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
+|[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
+|[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
+|[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
