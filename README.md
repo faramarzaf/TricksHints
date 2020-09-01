@@ -278,6 +278,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |
 [StepView](https://github.com/shuhart/StepView)| Stepper |
+|[android-vertical-stepper-view](https://github.com/liefery/android-vertical-stepper-view)| Stepper |
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
@@ -303,3 +304,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
+|[ChoosePhotoHelper](https://github.com/aminography/ChoosePhotoHelper)| Photo |
