@@ -290,11 +290,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
+|[Lettrine](https://github.com/rpradal/Lettrine)| TextView |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |
 |[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
 |[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |
+|[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |
@@ -305,3 +307,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
 |[ChoosePhotoHelper](https://github.com/aminography/ChoosePhotoHelper)| Photo |
+|[driveimageview](https://github.com/mrwonderman/driveimageview)| Photo |
