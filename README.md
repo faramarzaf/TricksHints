@@ -116,6 +116,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
+|[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
 |[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Dialog |
 |[Noty](https://github.com/emre1512/Noty)| Dialog |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Dialog  |
 |[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |[iOSDialog](https://github.com/MagicDog707/iOSDialog)| Dialog |
@@ -198,6 +199,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[QuickShot](https://github.com/Muddz/QuickShot)| Photo  |[RxLowpoly](https://github.com/abhriyaroy/RxLowpoly)| Photo  |
 |[ion](https://github.com/koush/ion)| Photo  |[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)| Photo  |
 |[Android-Font-Awesome](https://github.com/ravi8x/Android-Font-Awesome)| Photo  |[Glide](https://github.com/bumptech/glide)| Photo  |
+|[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
+|[ChoosePhotoHelper](https://github.com/aminography/ChoosePhotoHelper)| Photo |[driveimageview](https://github.com/mrwonderman/driveimageview)| Photo |
 |[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)| Photo  |[Rounded Imageview](https://github.com/vinc3m1/RoundedImageView)| Photo  |
 |[android-gpuimage](https://github.com/cats-oss/android-gpuimage)| Photo |[Matisse](https://github.com/zhihu/Matisse)| Photo |
 |[Android-Image-Picker-and-Cropping](https://github.com/ravi8x/Android-Image-Picker-and-Cropping)| Photo  |[android-shape-imageview](https://github.com/siyamed/android-shape-imageview)| Photo |
@@ -238,10 +241,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Hawk](https://github.com/orhanobut/hawk)| Shared preference  |[Light](https://github.com/TonnyL/Light)| Snackbar |
 |[ChocoBar](https://github.com/Pradyuman7/ChocoBar)| Snackbar |[MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner)| Spinner |
 |[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
+|[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
 |[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
 |[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
+[StepView](https://github.com/shuhart/StepView)| Stepper |[android-vertical-stepper-view](https://github.com/liefery/android-vertical-stepper-view)| Stepper |
 |[Timeline-View](https://github.com/vipulasri/Timeline-View)| Stepper |[Android-Timeline-View](https://github.com/akshaykale/Android-Timeline-View)| Stepper |
 |[jerryOkaforTimeLineView](https://github.com/jerryOkafor/TimeLineView)| Stepper |[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
 |[TimeLine](https://github.com/vivian8725118/TimeLine)| Stepper |[TimelineView](https://github.com/qapqap/TimelineView)| Stepper |
@@ -251,6 +256,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
+|[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |[Lettrine](https://github.com/rpradal/Lettrine)| TextView |
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
@@ -277,8 +283,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |
-[StepView](https://github.com/shuhart/StepView)| Stepper |
-|[android-vertical-stepper-view](https://github.com/liefery/android-vertical-stepper-view)| Stepper |
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
@@ -289,22 +293,12 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
-|[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |
-|[Lettrine](https://github.com/rpradal/Lettrine)| TextView |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
-|[CardSlider](https://github.com/IslamKhSh/CardSlider)| Photo |
-|[AutoImageFlipper](https://github.com/therealshabi/AutoImageFlipper)| Photo |
-|[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |
-|[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
-|[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |
-|[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
-|[ChoosePhotoHelper](https://github.com/aminography/ChoosePhotoHelper)| Photo |
-|[driveimageview](https://github.com/mrwonderman/driveimageview)| Photo |
