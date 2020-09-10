@@ -302,3 +302,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
+|[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
