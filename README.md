@@ -272,6 +272,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | Library  | Category |
 | ------------- | ------------- |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |
+|[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
@@ -280,9 +281,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
 |[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
+|[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |
+|[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
