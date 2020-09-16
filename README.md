@@ -293,7 +293,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
-|[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
@@ -302,6 +301,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
+|[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
+|[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
+|[SquareLoadersPack-Android](https://github.com/agrawalsuneet/SquareLoadersPack-Android)| Loading |
+|[LoadersPack-Android](https://github.com/agrawalsuneet/LoadersPack-Android)| Loading |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
