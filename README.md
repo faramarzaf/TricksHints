@@ -272,11 +272,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | Library  | Category |
 | ------------- | ------------- |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |
+|[android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)| Animation |
 |[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[Colorful](https://github.com/garretyoder/Colorful)| Theme |
 |[Scoops](https://github.com/52inc/Scoops)| Theme |
+|[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
@@ -300,6 +302,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
+|[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet)| BottomSheet |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
@@ -309,3 +312,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
 |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
+|[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
