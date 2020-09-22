@@ -314,3 +314,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[StepView](https://github.com/rezaiyan/StepView)| Stepper |
+|[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
+|[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
