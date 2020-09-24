@@ -77,6 +77,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page |[TransformationLayout](https://github.com/skydoves/TransformationLayout)| Animation |
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |[Animatoo](https://github.com/AtifSayings/Animatoo)| Animation  |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |[Balloon](https://github.com/skydoves/Balloon)| Animation |
+|[Particle](https://github.com/JeasonWong/Particle)| Animation |[android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)| Animation |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
 |[Backboard](https://github.com/tumblr/Backboard)| Animation |[TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation)| Animation |
@@ -96,6 +97,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
 |[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
+|[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar  |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
 |[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
@@ -111,6 +113,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
+|[nachos](https://github.com/hootsuite/nachos)| Chip |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
@@ -263,6 +266,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
 |[FlipTimerView](https://github.com/anugotta/FlipTimerView)| Time |[Range-Time-Picker-Dialog](https://github.com/PuffoCyano/Range-Time-Picker-Dialog)| Time |
+|[Colorful](https://github.com/garretyoder/Colorful)| Theme |[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
@@ -271,23 +275,15 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-|[Particle](https://github.com/JeasonWong/Particle)| Animation |
-|[android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)| Animation |
 |[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
-|[Colorful](https://github.com/garretyoder/Colorful)| Theme |
-|[Scoops](https://github.com/52inc/Scoops)| Theme |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
-|[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |
-|[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
 |[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
-|[nachos](https://github.com/hootsuite/nachos)| Chip |
-|[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
