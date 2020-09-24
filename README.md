@@ -112,7 +112,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ChatMessageView](https://github.com/bassaer/ChatMessageView)| Chat |[stream-chat-android-client](https://github.com/GetStream/stream-chat-android-client)| Chat |
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
-|[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
