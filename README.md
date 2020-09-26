@@ -312,3 +312,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
+|[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
