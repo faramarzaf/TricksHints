@@ -313,3 +313,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
+|[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |
+|[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
+|[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
