@@ -276,6 +276,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | ------------- | ------------- |
 |[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
 |[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
+|[ProgressView](https://github.com/WhiteDG/ProgressView)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
@@ -283,7 +284,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
-|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
@@ -308,11 +308,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
 |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
-|[StepView](https://github.com/rezaiyan/StepView)| Stepper |
 |[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
 |[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |
 |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
+|[SpringIndicator](https://github.com/chenupt/SpringIndicator)| Stepper |
+|[StepView](https://github.com/rezaiyan/StepView)| Stepper |
+|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 |[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
