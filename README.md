@@ -318,3 +318,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StepView](https://github.com/rezaiyan/StepView)| Stepper |
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 |[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
+|[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
+|[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
