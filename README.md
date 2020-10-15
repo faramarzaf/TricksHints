@@ -47,7 +47,6 @@ I hope this paper would help the programmer's community.
 **1- [ObjectBox](https://docs.objectbox.io/getting-started)**  
 
 ## Useful plugins  
-![Android](https://cdn0.iconfinder.com/data/icons/communication-icons-rounded/110/Android-128.png)  
 **1- [Android Material Design Icon Generator](https://github.com/konifar/android-material-design-icon-generator-plugin)**  
 **2- [MVVM Generator](https://plugins.jetbrains.com/plugin/9325-mvvm-generator)**  
 **3- [Parcelable Class Generator](https://github.com/mcharmas/android-parcelable-intellij-plugin)**   
