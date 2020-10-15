@@ -39,10 +39,11 @@ I hope this paper would help the programmer's community.
 ## How publish our Android library?
 :point_right: [Look at this](https://medium.com/@sgkantamani/how-to-create-and-publish-an-android-library-f37bf715932)
 
-<a href="url"><img src="https://httpwg.org/asset/http.svg" height="86" width="106" ></a>  
+
 **1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
 **2- [Fetch](https://github.com/tonyofrancis/Fetch)**  
-<a href="url"><img src="https://www.cab.de/media/images/_produktuebersicht/produkt2031.png" height="86" width="106" ></a>  
+
+
 **1- [ObjectBox](https://docs.objectbox.io/getting-started)**  
 
 ## Useful plugins  
