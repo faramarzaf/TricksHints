@@ -286,6 +286,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
+|[CameraViewPlus](https://github.com/siralam/CameraViewPlus)| Camera |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
@@ -311,8 +312,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
+|[DropDownView](https://github.com/siralam/DropDownView)| Expandable |
 |[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
 |[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |
+|[LoopingViewPager](https://github.com/siralam/LoopingViewPager)| ViewPager |
 |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
 |[SpringIndicator](https://github.com/chenupt/SpringIndicator)| Stepper |
 |[StepView](https://github.com/rezaiyan/StepView)| Stepper |
@@ -320,3 +323,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
 |[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
+|[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
