@@ -294,6 +294,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
+|[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
+|[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
+|[Android-Multi-Select-Dialog](https://github.com/abumoallim/Android-Multi-Select-Dialog)| Dialog |
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
@@ -309,7 +312,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
 |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
-|[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[DropDownView](https://github.com/siralam/DropDownView)| Expandable |
@@ -321,6 +323,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StepView](https://github.com/rezaiyan/StepView)| Stepper |
 |[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |
 |[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
-|[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
