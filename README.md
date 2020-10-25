@@ -280,6 +280,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
+|[RMSwitch](https://github.com/RiccardoMoro/RMSwitch)| Switch |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
@@ -310,6 +311,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
+|[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
 |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
@@ -325,3 +327,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
+|[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
