@@ -101,6 +101,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar  |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
 |[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
+|[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |[CameraViewPlus](https://github.com/siralam/CameraViewPlus)| Camera |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera  |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
 |[CameraView](https://github.com/natario1/CameraView)| Camera  |[HzGrapher](https://github.com/handstudio/HzGrapher)| Chart  |
 |[CurveGraphView](https://github.com/swapnil1104/CurveGraphView)| Chart  |[AnyChart-Android](https://github.com/AnyChart/AnyChart-Android)| Chart  |
@@ -216,6 +217,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| ProgressBar  |[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
 |[CatLoadingView](https://github.com/Rogero0o/CatLoadingView)| ProgressBar  |[Circle-Progress-View](https://github.com/jakob-grabner/Circle-Progress-View)| ProgressBar  |
+|[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |[ProgressView](https://github.com/WhiteDG/ProgressView)| ProgressBar |
 |[fit-chart](https://github.com/txusballesteros/fit-chart)| ProgressBar  |[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | ProgressBar  |
 |[RoundCornerProgressBar](https://github.com/GwonHyeok/StickySwitch)| ProgressBar |[SearchableSpinner](https://github.com/MdFarhanRaja/SearchableSpinner)| ProgressBar |
 |[MultiProgressBar](https://github.com/knight-rider1609/MultiProgressBar)| ProgressBar |[ProgressView](https://github.com/skydoves/ProgressView)| ProgressBar |
@@ -255,6 +257,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialTimelineView](https://github.com/hypeapps/MaterialTimelineView?source=post_page-----9fb77a590316----------------------)| Stepper |[WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)| SwipeRefreshLayout |
 |[CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)| SwipeRefreshLayout |[Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)| Switch (enable/disable)  |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
+|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |[RMSwitch](https://github.com/RiccardoMoro/RMSwitch)| Switch |
 |[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
@@ -275,19 +278,13 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | Library  | Category |
 | ------------- | ------------- |
 |[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
-|[RingProgressBar](https://github.com/HotBitmapGG/RingProgressBar)| ProgressBar |
-|[ProgressView](https://github.com/WhiteDG/ProgressView)| ProgressBar |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
-|[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |
-|[RMSwitch](https://github.com/RiccardoMoro/RMSwitch)| Switch |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
 |[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
-|[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |
-|[CameraViewPlus](https://github.com/siralam/CameraViewPlus)| Camera |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
