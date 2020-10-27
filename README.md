@@ -93,6 +93,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
 |[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
+|[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet)| BottomSheet |
 |[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
 |[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
@@ -227,6 +228,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
 |[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
 |[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
 |[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
@@ -298,8 +300,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
-|[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |
-|[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet)| BottomSheet |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
@@ -307,8 +307,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LoadersPack-Android](https://github.com/agrawalsuneet/LoadersPack-Android)| Loading |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
-|[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |
-|[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
 |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
