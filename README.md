@@ -249,6 +249,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
+|[SpringIndicator](https://github.com/chenupt/SpringIndicator)| Stepper |[StepView](https://github.com/rezaiyan/StepView)| Stepper |
 |[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
 |[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
@@ -317,8 +318,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |
 |[LoopingViewPager](https://github.com/siralam/LoopingViewPager)| ViewPager |
 |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
-|[SpringIndicator](https://github.com/chenupt/SpringIndicator)| Stepper |
-|[StepView](https://github.com/rezaiyan/StepView)| Stepper |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
 |[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
