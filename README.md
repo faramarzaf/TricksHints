@@ -277,6 +277,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
+|[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |[LoopingViewPager](https://github.com/siralam/LoopingViewPager)| ViewPager |
 |[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
 
 | Library  | Category |
@@ -315,8 +316,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[DropDownView](https://github.com/siralam/DropDownView)| Expandable |
 |[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
-|[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |
-|[LoopingViewPager](https://github.com/siralam/LoopingViewPager)| ViewPager |
 |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
