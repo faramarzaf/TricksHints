@@ -137,6 +137,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
 |[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |[expandit](https://github.com/AmalH/expandit)| Expandable |
+|[DropDownView](https://github.com/siralam/DropDownView)| Expandable |[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
 |[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
 |[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
@@ -314,8 +315,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
-|[DropDownView](https://github.com/siralam/DropDownView)| Expandable |
-|[ExpandableLayout](https://github.com/ma7madfawzy/ExpandableLayout)| Expandable |
 |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
