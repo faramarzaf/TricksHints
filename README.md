@@ -128,6 +128,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FancyAlertDialog-Android](https://github.com/Shashank02051997/FancyAlertDialog-Android)| Dialog |[AnimatedLoadingIndicator](https://github.com/yash786agg/AnimatedLoadingIndicator)| Dialog |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| Dialog |[AndroidMaterialDialog](https://github.com/michael-rapp/AndroidMaterialDialog)| Dialog |
 |[material-dialogs](https://github.com/afollestad/material-dialogs)| Dialog |[LovelyDialog](https://github.com/yarolegovich/LovelyDialog)| Dialog |
+|[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |[Android-Multi-Select-Dialog](https://github.com/abumoallim/Android-Multi-Select-Dialog)| Dialog |
+|[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
 |[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |[dialogPlus](https://github.com/ma7madfawzy/dialogPlus)| Dialog |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
@@ -297,10 +299,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
-|[FancyGifDialog-Android](https://github.com/Shashank02051997/FancyGifDialog-Android)| Dialog |
-|[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |
-|[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
-|[Android-Multi-Select-Dialog](https://github.com/abumoallim/Android-Multi-Select-Dialog)| Dialog |
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
