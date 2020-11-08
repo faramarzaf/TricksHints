@@ -154,6 +154,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AppIntro](https://github.com/AppIntro/AppIntro)| Intro |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Intro  |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Intro |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |  
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |[ENViews](https://github.com/codeestX/ENViews)| Loading |
+|[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[WaveView](https://github.com/gelitenight/WaveView)| Loading  |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
 |[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
@@ -298,13 +299,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
 |[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
+|[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
-|[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
-|[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
-|[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[SquareLoadersPack-Android](https://github.com/agrawalsuneet/SquareLoadersPack-Android)| Loading |
 |[LoadersPack-Android](https://github.com/agrawalsuneet/LoadersPack-Android)| Loading |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
