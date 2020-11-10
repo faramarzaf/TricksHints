@@ -121,6 +121,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
 |[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
+|[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
 |[dialogplus](https://github.com/orhanobut/dialogplus)| Dialog |[Two-Step-Picker-Dialog](https://github.com/aliab/Two-Step-Picker-Dialog)| Dialog |
 |[Noty](https://github.com/emre1512/Noty)| Dialog |[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)| Dialog  |
 |[calcdialoglib](https://github.com/maltaisn/calcdialoglib)| Dialog |[iOSDialog](https://github.com/MagicDog707/iOSDialog)| Dialog |
@@ -154,6 +155,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AppIntro](https://github.com/AppIntro/AppIntro)| Intro |[welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator)| Intro  |
 |[welcome-android](https://github.com/stephentuso/welcome-android)| Intro |[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)| Loading |  
 |[Skeleton](https://github.com/ethanhua/Skeleton)| Loading |[ENViews](https://github.com/codeestX/ENViews)| Loading |
+|[SquareLoadersPack-Android](https://github.com/agrawalsuneet/SquareLoadersPack-Android)| Loading |[LoadersPack-Android](https://github.com/agrawalsuneet/LoadersPack-Android)| Loading |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[WaveView](https://github.com/gelitenight/WaveView)| Loading  |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
 |[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
@@ -287,32 +289,28 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | Library  | Category |
 | ------------- | ------------- |
 |[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
+|[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
+|[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
+|[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
+[ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
+|[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
+|[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
+|[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
+|[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
+|[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
+|[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
-|[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
+|[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
-[ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
-|[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
-|[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
-|[rangedatepicker](https://github.com/andrewjapar/rangedatepicker)| Date picker |
-|[CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)| Date picker |
-|[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
-|[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
-|[SquareLoadersPack-Android](https://github.com/agrawalsuneet/SquareLoadersPack-Android)| Loading |
-|[LoadersPack-Android](https://github.com/agrawalsuneet/LoadersPack-Android)| Loading |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
-|[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
-|[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
-|[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
-|[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
-|[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
