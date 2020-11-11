@@ -158,6 +158,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SquareLoadersPack-Android](https://github.com/agrawalsuneet/SquareLoadersPack-Android)| Loading |[LoadersPack-Android](https://github.com/agrawalsuneet/LoadersPack-Android)| Loading |
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[WaveView](https://github.com/gelitenight/WaveView)| Loading  |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
+|[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
 |[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
@@ -269,6 +270,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch (enable/disable) |[SwitchButton](https://github.com/zcweng/SwitchButton)| Switch |
 |[StickySwitch](https://github.com/GwonHyeok/StickySwitch)| Switch |[RMSwitch](https://github.com/RiccardoMoro/RMSwitch)| Switch |
 |[SwitchButton2](https://github.com/kyleduo/SwitchButton)| Switch |[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)| Tab Bar |
+|[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
 |[fading-text-view](https://github.com/rosenpin/fading-text-view)| TextView  |[Justified TextView](https://github.com/ufo22940268/android-justifiedtextview)| TextView  |
 |[RotatingText](https://github.com/mdg-iitr/RotatingText)| TextView |[TextSurface](https://github.com/elevenetc/TextSurface)| TextView  |
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |[Lettrine](https://github.com/rpradal/Lettrine)| TextView |
@@ -296,21 +298,17 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
+|[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
+|[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
-|[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
-|[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
-|[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
-|[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |
-|[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
-|[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
-|[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
-|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
-|[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
-|[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
-|[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
-|[BubbleTab](https://github.com/florent37/BubbleTab)| Tab Bar |
-|[AnimatedTabLayout](https://github.com/iammert/AnimatedTabLayout)| Tab Bar |
-|[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
+|[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
+|[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
+|[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
+|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
+|[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
+|[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
+|[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
+|[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
