@@ -89,6 +89,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[animate](https://github.com/hitherejoe/animate)| Animation |[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
 |[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |[LongShadow](https://github.com/florent37/LongShadow)| Animation |
 |[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
+|[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
@@ -96,6 +97,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet)| BottomSheet |
 |[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
+|[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 |[android-calendar](https://github.com/ShirlyK/android-calendar)| Calendar |[Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)| Calendar  |
 |[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)| Calendar |[Material-Calendar-View](https://github.com/Applandeo/Material-Calendar-View)| Calendar |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
@@ -290,10 +292,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-|[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |
-|[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
-|[LightCalendarView](https://github.com/recruit-mp/LightCalendarView)| Calendar |
-|[AbilityChartView](https://github.com/TacticalTwerking/AbilityChartView)| Chart |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
