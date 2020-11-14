@@ -165,6 +165,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
 |[Logger](https://github.com/orhanobut/logger)| Logcat  |[android-material-play-pause-view](https://github.com/OHoussein/android-material-play-pause-view)| Material  |
+|[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
 |[Vitrin](https://github.com/bullseyedevs/Vitrin)| Material  |[sliding-deck](https://github.com/txusballesteros/sliding-deck)| Material  |
 |[Material](https://github.com/rey5137/material)| Material  |[Autocomplete](https://github.com/natario1/Autocomplete)| Material  |
 |[GestureViews](https://github.com/alexvasilkov/GestureViews)| Material  |[Konfetti](https://github.com/DanielMartinus/Konfetti)| Material  |
@@ -223,6 +224,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Zoomy](https://github.com/imablanco/Zoomy)| Photo |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Blurry](https://github.com/wasabeef/Blurry)| Photo |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
+|[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
 |[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)| Photo |[Dexter](https://github.com/Karumi/Dexter)| Permissions  |
 |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| ProgressBar  |[circular-music-progressbar](https://github.com/aliab/circular-music-progressbar)| ProgressBar  |
 |[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)| ProgressBar  |[CircleProgress](https://github.com/lzyzsd/CircleProgress)| ProgressBar  |
@@ -237,6 +239,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
 |[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
 |[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
@@ -278,6 +281,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |[Lettrine](https://github.com/rpradal/Lettrine)| TextView |
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
+|[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
@@ -296,17 +300,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
 |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
-|[proSwipeButton](https://github.com/shadowfaxtech/proSwipeButton)| Material |
-|[ExoVideoView](https://github.com/JarvanMo/ExoVideoView)| Media player |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
-|[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
-|[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |
-|[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
-|[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
-|[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |
-|[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
 |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
