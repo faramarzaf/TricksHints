@@ -290,6 +290,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
+|[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
 |[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |[LoopingViewPager](https://github.com/siralam/LoopingViewPager)| ViewPager |
 |[LoopingViewPager](https://github.com/kenilt/LoopingViewPager)| ViewPager |[CircleIndicator](https://github.com/ongakuer/CircleIndicator)| ViewPager |
@@ -304,5 +305,3 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
-|[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |
-|[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
