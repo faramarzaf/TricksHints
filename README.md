@@ -305,3 +305,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
+|[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |
+|[PinEditTextField](https://github.com/poovamraj/PinEditTextField)| OTP View |
+|[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
