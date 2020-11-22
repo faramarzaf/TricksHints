@@ -119,6 +119,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[nachos](https://github.com/hootsuite/nachos)| Chip |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
+[ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
@@ -146,6 +147,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[nested-expandable-recyclerview](https://github.com/shahbazhashmi/nested-expandable-recyclerview)| Expandable |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |
 |[NLeveLExpandableListView](https://github.com/sadra/NLeveLExpandableListView)| Expandable |[DoubleLift](https://github.com/skydoves/DoubleLift)| Expandable |
 |[NestedExpandableRecyclerView](https://github.com/thejitesh/NestedExpandableRecyclerView)| Expandable |[ExpandableLayout](https://github.com/skydoves/ExpandableLayout)| Expandable |
+|[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
 |[Fetch](https://github.com/tonyofrancis/Fetch)| File Downloader |[FileDownloader](https://github.com/lingochamp/FileDownloader)| File Downloader |
 |[Android-Goldfinger](https://github.com/infinum/Android-Goldfinger)| Fingerprint  |[CounterFab](https://github.com/andremion/CounterFab)| Floating Action Button  |
 |[FloatingActionButton](https://github.com/Clans/FloatingActionButton)| Floating Action Button |[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)| Floating Action Button  |
@@ -297,10 +299,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-[ColorPickerView](https://github.com/skydoves/ColorPickerView)| ColorPicker |
-|[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
-|[ExpandableLayout](https://github.com/cachapa/ExpandableLayout)| Expandable |
-|[dotsindicator](https://github.com/tommybuonomo/dotsindicator)| Intro |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
 |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
