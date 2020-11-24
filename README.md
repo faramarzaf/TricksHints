@@ -270,7 +270,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
 |[MaterialStepper](https://github.com/PedroCarrillo/MaterialStepper)| Stepper |[Image-Steps](https://github.com/denisviana/Image-Steps)| Stepper |
-|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper ||[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
+|[StateProgressBar](https://github.com/kofigyan/StateProgressBar)| Stepper |[sequence-layout](https://github.com/transferwise/sequence-layout)| Stepper |
 [StepView](https://github.com/shuhart/StepView)| Stepper |[android-vertical-stepper-view](https://github.com/liefery/android-vertical-stepper-view)| Stepper |
 |[Timeline-View](https://github.com/vipulasri/Timeline-View)| Stepper |[Android-Timeline-View](https://github.com/akshaykale/Android-Timeline-View)| Stepper |
 |[jerryOkaforTimeLineView](https://github.com/jerryOkafor/TimeLineView)| Stepper |[StickyTimeLine](https://github.com/sangcomz/StickyTimeLine)| Stepper |
