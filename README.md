@@ -181,6 +181,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
+|[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
 |[boxing](https://github.com/bilibili/boxing)| Multi media selector  |[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)| Navigation bar  |
 |[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
@@ -208,6 +209,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[PinEntryEditText](https://github.com/alphamu/PinEntryEditText)| OTP View|[Pinview](https://github.com/GoodieBag/Pinview)| OTP View|
 |[AndroidOtpCustomViewmaster](https://github.com/Temidtech/AndroidOtpCustomViewmaster)| OTP View|[OtpView](https://github.com/aabhasr1/OtpView)| OTP View|
 |[PinView](https://github.com/ChaosLeung/PinView)| OTP View|[android-otpview-pinview](https://github.com/mukeshsolanki/android-otpview-pinview)| OTP View|
+|[PinEditTextField](https://github.com/poovamraj/PinEditTextField)| OTP View |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Persian date |
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
@@ -250,6 +252,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Scroll View |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| Seekbar |
+|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 |[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
 |[RadioRealButton](https://github.com/ceryle/RadioRealButton)| Segmented |[SegmentedButton](https://github.com/ceryle/SegmentedButton)| Segmented |
@@ -299,10 +302,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-|[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |
-|[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
-|[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
-|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |
 |[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |
-|[PinEditTextField](https://github.com/poovamraj/PinEditTextField)| OTP View |
-|[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
