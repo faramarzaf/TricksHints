@@ -305,3 +305,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |
 |[DoubleTapPlayerView](https://github.com/vkay94/DoubleTapPlayerView)| Media player |
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
+|[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
