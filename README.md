@@ -179,6 +179,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
+|[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |[DoubleTapPlayerView](https://github.com/vkay94/DoubleTapPlayerView)| Media player |
+|[kohii](https://github.com/eneim/kohii)| Media player |[toro](https://github.com/eneim/toro)| Media player |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
@@ -302,9 +304,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-|[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |
-|[DoubleTapPlayerView](https://github.com/vkay94/DoubleTapPlayerView)| Media player |
-|[kohii](https://github.com/eneim/kohii)| Media player |
-|[toro](https://github.com/eneim/toro)| Media player |
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
