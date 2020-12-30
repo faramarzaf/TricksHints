@@ -310,3 +310,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
+|[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
+|[Localization](https://github.com/akexorcist/Localization)| Locale |
