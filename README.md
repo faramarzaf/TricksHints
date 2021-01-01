@@ -312,3 +312,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[Localization](https://github.com/akexorcist/Localization)| Locale |
+|[TicketView](https://github.com/vipulasri/TicketView)| Ticket View |
+|[TicketView](https://github.com/mreram/TicketView)| Ticket View |
+|[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
