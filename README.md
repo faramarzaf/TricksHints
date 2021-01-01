@@ -315,3 +315,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TicketView](https://github.com/vipulasri/TicketView)| Ticket View |
 |[TicketView](https://github.com/mreram/TicketView)| Ticket View |
 |[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
+|[DragView](https://github.com/tuanhav95/DragView)| Animation |
+|[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |
