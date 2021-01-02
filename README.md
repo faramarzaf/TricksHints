@@ -317,3 +317,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
 |[DragView](https://github.com/tuanhav95/DragView)| Animation |
 |[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |
+|[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |
+|[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
