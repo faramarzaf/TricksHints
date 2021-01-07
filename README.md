@@ -319,3 +319,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |
 |[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
+|[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |
+|[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
