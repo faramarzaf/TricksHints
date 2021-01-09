@@ -321,3 +321,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |
 |[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
+|[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
