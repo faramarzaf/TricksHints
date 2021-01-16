@@ -323,3 +323,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
+|[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
