@@ -324,3 +324,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
 |[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
+|[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
