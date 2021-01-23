@@ -307,8 +307,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | ------------- | ------------- |
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
-|[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
+|[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |
+|[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |
+|[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[Localization](https://github.com/akexorcist/Localization)| Locale |
@@ -316,12 +318,10 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[TicketView](https://github.com/mreram/TicketView)| Ticket View |
 |[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
 |[DragView](https://github.com/tuanhav95/DragView)| Animation |
+|[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
+|[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |
-|[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
-|[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |
 |[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
-|[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
-|[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
