@@ -311,6 +311,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |
 |[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |
 |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
+|[PhotoView](https://github.com/Baseflow/PhotoView)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[Localization](https://github.com/akexorcist/Localization)| Locale |
