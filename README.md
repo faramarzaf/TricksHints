@@ -328,3 +328,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
+|[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
