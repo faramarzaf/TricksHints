@@ -78,6 +78,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialAbout](https://github.com/jrvansuita/MaterialAbout)| About page |[TransformationLayout](https://github.com/skydoves/TransformationLayout)| Animation |
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |[Animatoo](https://github.com/AtifSayings/Animatoo)| Animation  |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |[Balloon](https://github.com/skydoves/Balloon)| Animation |
+|[DragView](https://github.com/tuanhav95/DragView)| Animation |[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |[android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)| Animation |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
@@ -229,6 +230,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)| Photo |[cropiwa](https://github.com/steelkiwi/cropiwa)| Photo |
 |[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
 |[Zoomy](https://github.com/imablanco/Zoomy)| Photo |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
+|[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |[PhotoView](https://github.com/Baseflow/PhotoView)| Photo |
+|[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Blurry](https://github.com/wasabeef/Blurry)| Photo |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
 |[BSImagePicker](https://github.com/siralam/BSImagePicker)| Photo |[pdfview-android](https://github.com/Dmitry-Borodin/pdfview-android)| PDF |
@@ -308,22 +311,16 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
-|[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |
-|[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |
-|[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
-|[PhotoView](https://github.com/Baseflow/PhotoView)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[Localization](https://github.com/akexorcist/Localization)| Locale |
 |[TicketView](https://github.com/vipulasri/TicketView)| Ticket View |
 |[TicketView](https://github.com/mreram/TicketView)| Ticket View |
 |[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
-|[DragView](https://github.com/tuanhav95/DragView)| Animation |
-|[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |
-|[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
+|[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
