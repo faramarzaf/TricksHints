@@ -293,6 +293,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
+|[TicketView](https://github.com/vipulasri/TicketView)| Ticket View |[TicketView](https://github.com/mreram/TicketView)| Ticket View |
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
 |[CalendarListview](https://github.com/traex/CalendarListview)| Time  |[FlatTimeCollection](https://github.com/anastr/FlatTimeCollection)| Time   |
 |[android-times-square](https://github.com/square/android-times-square)| Time  |[HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker)| Time |
@@ -301,6 +302,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StyleableToast](https://github.com/Muddz/StyleableToast)| Toast |[Toasty](https://github.com/GrenderG/Toasty)| Toast  |
 |[MyToast](https://github.com/lopspower/MyToast)| Toast  |[TastyToast](https://github.com/yadav-rahul/TastyToast)| Toast |
 |[MotionToast](https://github.com/Spikeysanju/MotionToast)| Toast |[AppUpdater](https://github.com/javiersantos/AppUpdater)| Updater |
+|[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
 |[AndroidAppUpdater](https://github.com/SirLordPouya/AndroidAppUpdater)| Updater |[SwipeBackScreenSample](https://github.com/amirHosseinRashidi/SwipeBackScreenSample)| ViewPager |
 |[MaterialViewPager](https://github.com/florent37/MaterialViewPager)| ViewPager |[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)| ViewPager |
 |[LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe)| ViewPager |[LoopingViewPager](https://github.com/siralam/LoopingViewPager)| ViewPager |
@@ -314,12 +316,8 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[Localization](https://github.com/akexorcist/Localization)| Locale |
-|[TicketView](https://github.com/vipulasri/TicketView)| Ticket View |
-|[TicketView](https://github.com/mreram/TicketView)| Ticket View |
 |[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
-|[GPVersionChecker](https://github.com/robohorse/GPVersionChecker)| Updater |
-|[AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater)| Updater |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
