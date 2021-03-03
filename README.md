@@ -165,6 +165,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |[CircularTimerView](https://github.com/uzairiqbal91/CircularTimerView)| Loading |
 |[WaveView](https://github.com/gelitenight/WaveView)| Loading  |[DialerLoading](https://github.com/SaeedMasoumi/DialerLoading)| Loading |
 |[CirclesLoadingView](https://github.com/ibrahimsn98/CirclesLoadingView)| Loading |[DotLoadersPack-Android](https://github.com/agrawalsuneet/DotLoadersPack-Android)| Loading |
+|[Localization](https://github.com/akexorcist/Localization)| Locale |[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
 |[locale-helper-android](https://github.com/zeugma-solutions/locale-helper-android)| Locale |[EasyWayLocation](https://github.com/prabhat1707/EasyWayLocation)| Location  |
 |[TinyTravelTracker](https://github.com/redfish64/TinyTravelTracker)| Location  |[Smart location](https://github.com/mrmans0n/smart-location-lib)| Location  |
 |[AirLocation](https://github.com/mumayank/AirLocation)| Location  |[Track-My-Location](https://github.com/abdularis/Track-My-Location)| Location  |
@@ -315,8 +316,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
-|[Localization](https://github.com/akexorcist/Localization)| Locale |
-|[LocaleChanger](https://github.com/franmontiel/LocaleChanger)| Locale |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
