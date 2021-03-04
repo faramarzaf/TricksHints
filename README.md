@@ -312,14 +312,14 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 | Library  | Category |
 | ------------- | ------------- |
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
+|[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
-|[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
+|[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
-|[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
