@@ -315,6 +315,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
+|[Fallery](https://github.com/mehdiyari/Fallery)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
@@ -323,3 +324,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
+|[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
+|[persistent-search-view](https://github.com/mars885/persistent-search-view)| Search View |
