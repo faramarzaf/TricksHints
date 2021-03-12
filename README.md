@@ -326,3 +326,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
 |[persistent-search-view](https://github.com/mars885/persistent-search-view)| Search View |
+|[MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)| Search View |
+|[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |
+
