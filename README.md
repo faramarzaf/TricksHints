@@ -232,6 +232,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
 |[Zoomy](https://github.com/imablanco/Zoomy)| Photo |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
 |[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |[PhotoView](https://github.com/Baseflow/PhotoView)| Photo |
+|[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |[Fallery](https://github.com/mehdiyari/Fallery)| Photo |
 |[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Blurry](https://github.com/wasabeef/Blurry)| Photo |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
@@ -314,8 +315,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
-|[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |
-|[Fallery](https://github.com/mehdiyari/Fallery)| Photo |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
