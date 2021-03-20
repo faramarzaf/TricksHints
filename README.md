@@ -259,6 +259,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Scroll View |[DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)| Scroll View |
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
+|[persistent-search-view](https://github.com/mars885/persistent-search-view)| Search View |[MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| Seekbar |
 |[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
@@ -324,7 +325,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
-|[persistent-search-view](https://github.com/mars885/persistent-search-view)| Search View |
-|[MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)| Search View |
 |[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |
 
