@@ -328,4 +328,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |
 |[ColorPicker](https://github.com/jaredrummler/ColorPicker)| Color Picker |
 |[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
-
+|[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
