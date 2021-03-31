@@ -121,6 +121,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[nachos](https://github.com/hootsuite/nachos)| Chip |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
+|[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |[ColorPicker](https://github.com/jaredrummler/ColorPicker)| Color Picker |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| Color Picker |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
@@ -325,7 +326,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
-|[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |
-|[ColorPicker](https://github.com/jaredrummler/ColorPicker)| Color Picker |
 |[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
