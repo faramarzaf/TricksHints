@@ -318,6 +318,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
+|[SegmentedProgressBar](https://github.com/TOrnelas/SegmentedProgressBar)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
