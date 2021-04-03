@@ -266,6 +266,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 |[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
 |[RadioRealButton](https://github.com/ceryle/RadioRealButton)| Segmented |[SegmentedButton](https://github.com/ceryle/SegmentedButton)| Segmented |
+|[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |[SegmentedProgressBar](https://github.com/TOrnelas/SegmentedProgressBar)| Segmented |
 |[android-segmentedtab](https://github.com/pucamafra/android-segmentedtab)| Segmented |[sensey](https://github.com/nisrulz/sensey)| Sensor |
 |[shortbread](https://github.com/MatthiasRobbers/shortbread)| Shortcut  |[BubbleShowCase-Android](https://github.com/ECLaboratorio/BubbleShowCase-Android)| Show Case  |
 |[MultiLamp](https://github.com/ujwalthote/MultiLamp)| Show Case  |[ShowCaseView](https://github.com/mreram/ShowCaseView)| Show Case  |
@@ -317,8 +318,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
-|[themed-toggle-button-group](https://github.com/Bryanx/themed-toggle-button-group)| Segmented |
-|[SegmentedProgressBar](https://github.com/TOrnelas/SegmentedProgressBar)| Segmented |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
