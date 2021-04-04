@@ -315,16 +315,16 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 
 | Library  | Category |
 | ------------- | ------------- |
-|[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
+|[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
+|[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
+|[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
+|[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
+|[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
+|[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
+|[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
+|[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
+|[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
-|[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
-|[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
-|[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
-|[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
-|[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
-|[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
-|[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
-|[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
