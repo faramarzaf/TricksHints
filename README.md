@@ -328,3 +328,5 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
+|[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
+|[EasyFloat](https://github.com/princekin-f/EasyFloat)| Widget |
