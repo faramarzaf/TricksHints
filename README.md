@@ -178,6 +178,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ShineButton](https://github.com/ChadCSong/ShineButton)| Material  |[MyLittleCanvas](https://github.com/florent37/MyLittleCanvas)| Material  |
 |[DiagonalLayout](https://github.com/florent37/DiagonalLayout)| Material  |[GlidePalette](https://github.com/florent37/GlidePalette)| Material  |
 |[material-menu](https://github.com/balysv/material-menu)| Material  |[RippleEffect](https://github.com/traex/RippleEffect)| Material  |
+|[iiVisu](https://github.com/ImnIrdst/iiVisu)| Material |[ElasticView](https://github.com/armcha/ElasticView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
@@ -330,5 +331,3 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[EasyFloat](https://github.com/princekin-f/EasyFloat)| Widget |
-|[iiVisu](https://github.com/ImnIrdst/iiVisu)| Material |
-|[ElasticView](https://github.com/armcha/ElasticView)| Material |
