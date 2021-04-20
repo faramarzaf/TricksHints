@@ -156,6 +156,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[FloatingActionButton](https://github.com/Clans/FloatingActionButton)| Floating Action Button |[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)| Floating Action Button  |
 |[fab-submenu](https://github.com/ptyagicodecamp/fab-submenu)| Floating Action Button  |[fab](https://github.com/Scalified/fab)| Floating Action Button  |
 |[MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton)| Floating Action Button|[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)| Floating Action Button  |
+|[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |[EasyFloat](https://github.com/princekin-f/EasyFloat)| Floating view |
 |[BoomMenu](https://github.com/Nightonke/BoomMenu)| Floating Action Button |[EasyFonts](https://github.com/vsvankhede/EasyFonts)| Font |
 |[Calligraphy](https://github.com/chrisjenx/Calligraphy)| Font |[AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation)| Intro |
 |[material-intro-screen](https://github.com/TangoAgency/material-intro-screen)| Intro |[material-intro](https://github.com/heinrichreimer/material-intro)| Intro |
@@ -263,7 +264,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)| Search View |[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)| Search View |
 |[persistent-search-view](https://github.com/mars885/persistent-search-view)| Search View |[MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)| Search View |
 |[Croller](https://github.com/harjot-oberai/Croller)| Seekbar |[ProtractorView](https://github.com/GoodieBag/ProtractorView)| Seekbar |
-|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
+|[ArcSeekBar](https://github.com/MarcinMoskala/ArcSeekBar)| SeekBar |[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
 |[fluid-slider-android](https://github.com/Ramotion/fluid-slider-android)| Seekbar |[ToggleButtonLayout](https://github.com/savvyapps/ToggleButtonLayout)| Segmented |
 |[android-segmented-control](https://github.com/Kaopiz/android-segmented-control)| Segmented |[SegmentedControl](https://github.com/RobertApikyan/SegmentedControl)| Segmented |
 |[RadioRealButton](https://github.com/ceryle/RadioRealButton)| Segmented |[SegmentedButton](https://github.com/ceryle/SegmentedButton)| Segmented |
@@ -324,10 +325,9 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
-|[FloatingWindowApp](https://github.com/aminography/FloatingWindowApp)| Floating view |
 |[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
-|[waveformSeekBar](https://github.com/massoudss/waveformSeekBar)| Seekbar |
+|[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
-|[EasyFloat](https://github.com/princekin-f/EasyFloat)| Floating view |
+
