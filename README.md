@@ -325,9 +325,11 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
+|[Player](https://github.com/moneytoo/Player)| Media player |
 |[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[RollingText](https://github.com/YvesCheung/RollingText)| TextView |
+
