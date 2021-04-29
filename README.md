@@ -322,6 +322,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
 |[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
+|[AndroidTagView](https://github.com/whilu/AndroidTagView)| Chip |
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
