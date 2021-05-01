@@ -119,6 +119,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)| Chart  |[android-material-chips](https://github.com/DoodleScheduling/android-material-chips)| Chip  |
 |[MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)| Chip  |[materialChipView](https://github.com/robertlevonyan/materialChipView)| Chip  |
 |[nachos](https://github.com/hootsuite/nachos)| Chip |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip |
+|[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |[AndroidTagView](https://github.com/whilu/AndroidTagView)| Chip |
 |[chips-input-layout](https://github.com/tylersuehr7/chips-input-layout)| Chip  |[checkable-chip-view](https://github.com/okdroid/checkable-chip-view)| Chip  |
 |[ColorPicker](https://github.com/duanhong169/ColorPicker)| Color Picker |[android-color-wheel](https://github.com/AntonPopoff/android-color-wheel)| Color Picker |
 |[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |[ColorPicker](https://github.com/jaredrummler/ColorPicker)| Color Picker |
@@ -321,8 +322,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
-|[ChipView](https://github.com/jahirfiquitiva/ChipView)| Chip |
-|[AndroidTagView](https://github.com/whilu/AndroidTagView)| Chip |
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
