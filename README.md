@@ -188,6 +188,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
 |[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |[DoubleTapPlayerView](https://github.com/vkay94/DoubleTapPlayerView)| Media player |
 |[kohii](https://github.com/eneim/kohii)| Media player |[toro](https://github.com/eneim/toro)| Media player |
+|[Player](https://github.com/moneytoo/Player)| Media player |[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
 |[ExoPlayer](https://github.com/google/ExoPlayer)| Media player |[PowerMenu](https://github.com/skydoves/PowerMenu)| Menu  |
 |[CircleMenu](https://github.com/ImangazalievM/CircleMenu)| Menu  |[CycleMenu](https://github.com/Cleveroad/CycleMenu)| Menu  |
 |[circle-menu-android](https://github.com/Ramotion/circle-menu-android)| Menu |[HorizontalPicker](https://github.com/adityagohad/HorizontalPicker)| NumberPicker |
@@ -325,8 +326,6 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
-|[Player](https://github.com/moneytoo/Player)| Media player |
-|[fullscreen-video-view](https://github.com/dev-labs-bg/fullscreen-video-view)| Media player |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
