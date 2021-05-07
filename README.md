@@ -331,4 +331,4 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[RollingText](https://github.com/YvesCheung/RollingText)| TextView |
-
+|[AndroidVeil](https://github.com/skydoves/AndroidVeil)| Recycler View |
