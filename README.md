@@ -326,6 +326,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
+|[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
