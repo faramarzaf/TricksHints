@@ -56,16 +56,6 @@ I hope this paper would help the programmer's community.
 **6- [Generate MVP code](https://plugins.jetbrains.com/plugin/9784-generate-m-v-p-code)**  
 **7- [Awesome POJO Generator](https://github.com/jineshfrancs/AwesomePojoGenerator)**  
 
-## Some solutions
-- Locale  
-For people who are still looking for `Locale`solutions in higher APIs, since`configuration.locale()`was deprecated from API 24, We use below code instead.    
-```java
-  Locale locale1 = new Locale("en");
-                                Locale.setDefault(locale1);
-                                Configuration config1 = getBaseContext().getResources().getConfiguration();
-                                config1.locale = locale1;
-                              getBaseContext().getResources().updateConfiguration(config1,getBaseContext().getResources().getDisplayMetrics());
-```
 
 ## Android useful libraries  
 ![libraries](https://cdn0.iconfinder.com/data/icons/cosmo-culture/40/books_1-128.png)   
