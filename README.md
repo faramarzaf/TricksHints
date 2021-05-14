@@ -328,6 +328,7 @@ For people who are still looking for `Locale`solutions in higher APIs, since`con
 |[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
+|[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
