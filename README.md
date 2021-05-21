@@ -310,6 +310,7 @@ I hope this paper would help the programmer's community.
 | Library  | Category |
 | ------------- | ------------- |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
+|[SuperForwardView](https://github.com/ertugrulkaragoz/SuperForwardView)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
@@ -326,3 +327,4 @@ I hope this paper would help the programmer's community.
 |[RollingText](https://github.com/YvesCheung/RollingText)| TextView |
 |[loadtoast](https://github.com/code-mc/loadtoast)| Toast |
 |[AndroidVeil](https://github.com/skydoves/AndroidVeil)| Recycler View |
+|[RecyclerViewSwipeDecorator](https://github.com/xabaras/RecyclerViewSwipeDecorator)| Recycler View |
