@@ -69,6 +69,7 @@ I hope this paper would help the programmer's community.
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |[Animatoo](https://github.com/AtifSayings/Animatoo)| Animation  |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |[Balloon](https://github.com/skydoves/Balloon)| Animation |
 |[DragView](https://github.com/tuanhav95/DragView)| Animation |[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
+|[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |[SuperForwardView](https://github.com/ertugrulkaragoz/SuperForwardView)| Animation |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |[android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)| Animation |
 |[Material-Animations](https://github.com/lgvalle/Material-Animations)| Animation  |[spruce-android](https://github.com/willowtreeapps/spruce-android)| Animation |
 |[FragmentAnimations](https://github.com/kakajika/FragmentAnimations)| Animation |[Android-SpinKit](https://github.com/ybq/Android-SpinKit)| Animation |
@@ -134,6 +135,7 @@ I hope this paper would help the programmer's community.
 |[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |[PasswordEditText](https://github.com/txusballesteros/PasswordEditText)| Edit Text |
 |[AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)| Edit Text |[AutoLinkTextViewV2](https://github.com/armcha/AutoLinkTextViewV2)| Edit Text |
 |[OmegaRecyclerView](https://github.com/Omega-R/OmegaRecyclerView)| Expandable  |[RecyclerViewHelper](https://github.com/BoBoMEe/RecyclerViewHelper)| Expandable  |
+|[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |[ExpandableMenu](https://github.com/anshulagarwal06/ExpandableMenu)| Expandable |
 |[recyclerview-expandable](https://github.com/hendraanggrian/recyclerview-expandable)| Expandable |[ExpandableSwipeRecyclerView](https://github.com/hyunstyle/ExpandableSwipeRecyclerView)| Expandable |
 |[async-expandable-list](https://github.com/Ericliu001/async-expandable-list)| Expandable  |[ExpandableListView](https://github.com/harishsn/ExpandableListView)| Expandable  |
 |[ExpandableLayout](https://github.com/traex/ExpandableLayout)| Expandable |[expandit](https://github.com/AmalH/expandit)| Expandable |
@@ -246,6 +248,7 @@ I hope this paper would help the programmer's community.
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[AndroidVeil](https://github.com/skydoves/AndroidVeil)| Recycler View |[RecyclerViewSwipeDecorator](https://github.com/xabaras/RecyclerViewSwipeDecorator)| Recycler View |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
 |[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
@@ -309,15 +312,11 @@ I hope this paper would help the programmer's community.
 
 | Library  | Category |
 | ------------- | ------------- |
-|[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |
-|[SuperForwardView](https://github.com/ertugrulkaragoz/SuperForwardView)| Animation |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
 |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
 |[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
 |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
-|[ExpandableCardView](https://github.com/AleSpero/ExpandableCardView)| Expandable |
-|[ExpandableMenu](https://github.com/anshulagarwal06/ExpandableMenu)| Expandable |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |
@@ -326,5 +325,4 @@ I hope this paper would help the programmer's community.
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[RollingText](https://github.com/YvesCheung/RollingText)| TextView |
 |[loadtoast](https://github.com/code-mc/loadtoast)| Toast |
-|[AndroidVeil](https://github.com/skydoves/AndroidVeil)| Recycler View |
-|[RecyclerViewSwipeDecorator](https://github.com/xabaras/RecyclerViewSwipeDecorator)| Recycler View |
+
