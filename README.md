@@ -325,4 +325,5 @@ I hope this paper would help the programmer's community.
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[RollingText](https://github.com/YvesCheung/RollingText)| TextView |
 |[loadtoast](https://github.com/code-mc/loadtoast)| Toast |
-
+|[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
+|[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
