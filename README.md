@@ -96,6 +96,7 @@ I hope this paper would help the programmer's community.
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Calendar |[SingleRowCalendar](https://github.com/miso01/SingleRowCalendar)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar  |[datetimepicker](https://github.com/flavienlaurent/datetimepicker)| Calendar |
 |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Calendar |[android-betterpickers](https://github.com/code-troopers/android-betterpickers)| Calendar |
+|[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
 |[CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)| Calendar |[CameraFragment](https://github.com/florent37/CameraFragment)| Camera  |
 |[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)| Camera |[CameraViewPlus](https://github.com/siralam/CameraViewPlus)| Camera |
 |[android-hidden-camera](https://github.com/kevalpatel2106/android-hidden-camera)| Camera  |[QuickShot](https://github.com/Muddz/QuickShot)| Camera|
@@ -131,6 +132,7 @@ I hope this paper would help the programmer's community.
 |[Flat-Dialog-Android](https://github.com/mejdi14/Flat-Dialog-Android)| Dialog |[AwesomeDialog](https://github.com/chnouman/AwesomeDialog)| Dialog |
 |[MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)| Dialog |[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog)| Dialog |
 |[easy-rating-dialog](https://github.com/fernandodev/easy-rating-dialog)| Dialog |[dialogPlus](https://github.com/ma7madfawzy/dialogPlus)| Dialog |
+|[sheets](https://github.com/maxkeppeler/sheets)| Dialog |[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[Sdp](https://github.com/intuit/sdp)| Dimensions |[richeditor-android](https://github.com/wasabeef/richeditor-android)| Editor |
 |[TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes)| Edit Text |[PasswordEditText](https://github.com/txusballesteros/PasswordEditText)| Edit Text |
 |[AutosizeEditText](https://github.com/txusballesteros/AutosizeEditText)| Edit Text |[AutoLinkTextViewV2](https://github.com/armcha/AutoLinkTextViewV2)| Edit Text |
@@ -294,6 +296,7 @@ I hope this paper would help the programmer's community.
 |[DropdownTextView](https://github.com/hakobast/DropdownTextView)| TextView |[Lettrine](https://github.com/rpradal/Lettrine)| TextView |
 |[Titanic](https://github.com/RomainPiel/Titanic)| TextView  |[ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)| TextView |
 |[MaterialTextField](https://github.com/florent37/MaterialTextField)| TextView  |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |
+|[RollingText](https://github.com/YvesCheung/RollingText)| TextView |[loadtoast](https://github.com/code-mc/loadtoast)| Toast |
 |[TouchWord](https://github.com/rezaiyan/TouchWord)| TextView |[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton)| ToogleButton |
 |[TicketView](https://github.com/vipulasri/TicketView)| Ticket View |[TicketView](https://github.com/mreram/TicketView)| Ticket View |
 |[Android-ExpandableTextView](https://github.com/Blogcat/Android-ExpandableTextView)| TextView  |[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)| Time  |
@@ -313,19 +316,12 @@ I hope this paper would help the programmer's community.
 | Library  | Category |
 | ------------- | ------------- |
 |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
-|[RecyclerCalendarAndroid](https://github.com/tejpratap46/RecyclerCalendarAndroid)| Calendar |
-|[CheckBox](https://github.com/AhM0D/CheckBox)| CheckBox |
-|[sheets](https://github.com/maxkeppeler/sheets)| Dialog |
-|[FabricView](https://github.com/antwankakki/FabricView)| Drawing  |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |
-|[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
+|[CountryCodePicker](https://github.com/joielechong/CountryCodePicker)| Spinner |
 |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
-|[RollingText](https://github.com/YvesCheung/RollingText)| TextView |
-|[loadtoast](https://github.com/code-mc/loadtoast)| Toast |
+|[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
-|[CountryCodePicker](https://github.com/joielechong/CountryCodePicker)| Spinner |
-
