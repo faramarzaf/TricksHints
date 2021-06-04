@@ -82,6 +82,7 @@ I hope this paper would help the programmer's community.
 |[animate](https://github.com/hitherejoe/animate)| Animation |[Android-DragDismissActivity](https://github.com/klinker24/Android-DragDismissActivity)| Animation |
 |[FabulousFilter](https://github.com/Krupen/FabulousFilter)| Animation |[LongShadow](https://github.com/florent37/LongShadow)| Animation |
 |[AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions)| Animation |[LiquidButton](https://github.com/yoruriko/LiquidButton)| Animation |
+|[RxAnimation](https://github.com/lopspower/RxAnimation)| Animation |[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
 |[MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android)| Animation |[Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)| Badge |
 |[material-cab](https://github.com/afollestad/material-cab)| Action Bar |[DrawableBadge](https://github.com/minibugdev/DrawableBadge)| Badges  |
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
@@ -276,6 +277,7 @@ I hope this paper would help the programmer's community.
 |[AwesomeSpinner](https://github.com/sadra/AwesomeSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[PowerSpinner](https://github.com/skydoves/PowerSpinner)| Spinner |[nice-spinner](https://github.com/arcadefire/nice-spinner)| Spinner |
 |[MaterialSpinner](https://github.com/tiper/MaterialSpinner)| Spinner |[RTLMaterialSpinner](https://github.com/aliab/RTLMaterialSpinner)| Spinner |
+|[CountryCodePicker](https://github.com/joielechong/CountryCodePicker)| Spinner |[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[SpringIndicator](https://github.com/chenupt/SpringIndicator)| Stepper |[StepView](https://github.com/rezaiyan/StepView)| Stepper |
 |[SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner)| Spinner |[MaterialStepperView](https://github.com/fython/MaterialStepperView)| Stepper |
 |[stepper-indicator](https://github.com/badoualy/stepper-indicator)| Stepper |[VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)| Stepper |
@@ -315,16 +317,12 @@ I hope this paper would help the programmer's community.
 
 | Library  | Category |
 | ------------- | ------------- |
-|[RxAnimation](https://github.com/lopspower/RxAnimation)| Animation |
-|[NaraeAudioRecorder](https://github.com/WindSekirun/NaraeAudioRecorder)| AudioRecorder |
+
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |
-|[CountryCodePicker](https://github.com/joielechong/CountryCodePicker)| Spinner |
-|[StepViewAndroid](https://github.com/params-ing/StepViewAndroid)| Stepper |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
-
