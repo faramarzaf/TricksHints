@@ -325,3 +325,4 @@ I hope this paper would help the programmer's community.
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
+|[CenterZoomLinearLayoutManager](https://github.com/hamedsj/CenterZoomLinearLayoutManager)| Recycler View |
