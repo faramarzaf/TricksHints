@@ -317,12 +317,16 @@ I hope this paper would help the programmer's community.
 
 | Library  | Category |
 | ------------- | ------------- |
+|[MotionLayout-Playground](https://github.com/saurabharora90/MotionLayout-Playground)| Animation |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |
+|[PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid)| PDF |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
+|[cascade](https://github.com/saket/cascade)| Menu |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
 |[CenterZoomLinearLayoutManager](https://github.com/hamedsj/CenterZoomLinearLayoutManager)| Recycler View |
+
