@@ -329,4 +329,4 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
 |[CenterZoomLinearLayoutManager](https://github.com/hamedsj/CenterZoomLinearLayoutManager)| Recycler View |
-
+|[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
