@@ -330,3 +330,4 @@ I hope this paper would help the programmer's community.
 |[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
 |[CenterZoomLinearLayoutManager](https://github.com/hamedsj/CenterZoomLinearLayoutManager)| Recycler View |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
+|[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
