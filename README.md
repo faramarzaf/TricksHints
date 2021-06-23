@@ -255,6 +255,7 @@ I hope this paper would help the programmer's community.
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
 |[AutoPlayVideoRecyclerView](https://github.com/mobileappsvn/AutoPlayVideoRecyclerView)| Recycler View  |[RendererRecyclerViewAdapter](https://github.com/vivchar/RendererRecyclerViewAdapter)| Recycler View  |
+|[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |[CenterZoomLinearLayoutManager](https://github.com/hamedsj/CenterZoomLinearLayoutManager)| Recycler View |
 |[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)| Recycler View  |[dynamic-recyclerview](https://github.com/masudias/dynamic-recyclerview)| Recycler View  |
 |[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter)| Recycler View  |[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)| Recycler View  |
 |[recycler-view-margin-decoration](https://github.com/TheKhaeng/recycler-view-margin-decoration)| Recycler View  |[IndicatorScrollView](https://github.com/skydoves/IndicatorScrollView)| Scroll View |
@@ -327,7 +328,5 @@ I hope this paper would help the programmer's community.
 |[cascade](https://github.com/saket/cascade)| Menu |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
-|[IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll)| Recycler View |
-|[CenterZoomLinearLayoutManager](https://github.com/hamedsj/CenterZoomLinearLayoutManager)| Recycler View |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
