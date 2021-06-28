@@ -215,6 +215,7 @@ I hope this paper would help the programmer's community.
 |[AndroidOtpCustomViewmaster](https://github.com/Temidtech/AndroidOtpCustomViewmaster)| OTP View|[OtpView](https://github.com/aabhasr1/OtpView)| OTP View|
 |[PinView](https://github.com/ChaosLeung/PinView)| OTP View|[android-otpview-pinview](https://github.com/mukeshsolanki/android-otpview-pinview)| OTP View|
 |[PinEditTextField](https://github.com/poovamraj/PinEditTextField)| OTP View |[easypermissions-android](https://github.com/mukeshsolanki/easypermissions-android)| Permission |
+|[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |[PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid)| PDF |
 |[PatternLockView](https://github.com/aritraroy/PatternLockView)| Pattern lock |[persian-calendar-view](https://github.com/Roojin/persian-calendar-view)| Persian date |
 |[DroidPersianCalendar](https://github.com/persian-calendar/DroidPersianCalendar)| Persian date |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Persian date |
 |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Persian date |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Persian date |
@@ -321,8 +322,6 @@ I hope this paper would help the programmer's community.
 |[MotionLayout-Playground](https://github.com/saurabharora90/MotionLayout-Playground)| Animation |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
-|[Android-XML-to-PDF-Generator](https://github.com/Gkemon/Android-XML-to-PDF-Generator)| PDF |
-|[PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid)| PDF |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[cascade](https://github.com/saket/cascade)| Menu |
