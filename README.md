@@ -320,6 +320,7 @@ I hope this paper would help the programmer's community.
 | Library  | Category |
 | ------------- | ------------- |
 |[MotionLayout-Playground](https://github.com/saurabharora90/MotionLayout-Playground)| Animation |
+|[SpeedView](https://github.com/anastr/SpeedView)| Animation |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
