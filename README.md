@@ -329,3 +329,5 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
+|[SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation)| Navigation bar |
+|[RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller)| Recycler View |
