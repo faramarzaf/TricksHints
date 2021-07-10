@@ -192,6 +192,7 @@ I hope this paper would help the programmer's community.
 |[SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)| Navigation bar  |[ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)| Navigation bar  |
 |[NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)| Navigation bar  |[BottomBar](https://github.com/roughike/BottomBar)| Navigation bar  |
 |[Space-Navigation-View ](https://github.com/armcha/Space-Navigation-View)| Navigation bar |[BottomNavigation](https://github.com/Hofinity/BottomNavigation)| Navigation bar |
+|[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |[SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation)| Navigation bar |
 |[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)| Navigation bar  |[AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)| Navigation bar  |
 |[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)| Navigation bar  |[bubble-navigation](https://github.com/gauravk95/bubble-navigation)| Navigation bar  |
 |[BottomNavBar](https://github.com/adib2149/BottomNavBar)| Navigation bar  |[lottiebottomnavbar](https://github.com/subsub/lottiebottomnavbar)| Navigation bar  |
@@ -321,7 +322,6 @@ I hope this paper would help the programmer's community.
 | Library  | Category |
 | ------------- | ------------- |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
-|[BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)| Navigation bar |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[cascade](https://github.com/saket/cascade)| Menu |
@@ -329,6 +329,5 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
-|[SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation)| Navigation bar |
 |[RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller)| Recycler View |
 |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
