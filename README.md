@@ -42,8 +42,6 @@ I hope this paper would help the programmer's community.
 
 
 **1- [AndroidAsync](https://github.com/koush/AndroidAsync)**  
-**2- [Fetch](https://github.com/tonyofrancis/Fetch)**  
-
 
 **1- [ObjectBox](https://docs.objectbox.io/getting-started)**  
 
