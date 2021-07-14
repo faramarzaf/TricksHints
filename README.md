@@ -329,3 +329,4 @@ I hope this paper would help the programmer's community.
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller)| Recycler View |
 |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
+|[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
