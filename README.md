@@ -323,6 +323,7 @@ I hope this paper would help the programmer's community.
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[cascade](https://github.com/saket/cascade)| Menu |
+|[Instagram-Video-Downloader-Library](https://github.com/Abhay-cloud/Instagram-Video-Downloader-Library)| FileDownloader |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
