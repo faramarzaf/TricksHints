@@ -332,5 +332,6 @@ I hope this paper would help the programmer's community.
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller)| Recycler View |
+|[smart-recycler-adapter](https://github.com/manneohlund/smart-recycler-adapter)| Recycler View |
 |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
