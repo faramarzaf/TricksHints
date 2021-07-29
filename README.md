@@ -252,6 +252,7 @@ I hope this paper would help the programmer's community.
 |[TextDrawable](https://github.com/amulyakhare/TextDrawable)| Recycler View Helper |[RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators)| Recycler View  |
 |[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)| Recycler View  |[drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)| Recycler View  |
 |[recyclical](https://github.com/afollestad/recyclical)| Recycler View  |[RecyclerBanner](https://github.com/ren93/RecyclerBanner)| Recycler View  |
+|[RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller)| Recycler View |[smart-recycler-adapter](https://github.com/manneohlund/smart-recycler-adapter)| Recycler View |
 |[AndroidVeil](https://github.com/skydoves/AndroidVeil)| Recycler View |[RecyclerViewSwipeDecorator](https://github.com/xabaras/RecyclerViewSwipeDecorator)| Recycler View |
 |[FastScroll](https://github.com/L4Digital/FastScroll)| Recycler View |[SmileyRating](https://github.com/sujithkanna/SmileyRating)| Rating |
 |[StickyHeaders](https://github.com/bgogetap/StickyHeaders)| Recycler View |[RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)| Recycler View |
@@ -331,7 +332,5 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
-|[RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller)| Recycler View |
-|[smart-recycler-adapter](https://github.com/manneohlund/smart-recycler-adapter)| Recycler View |
 |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
