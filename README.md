@@ -327,6 +327,7 @@ I hope this paper would help the programmer's community.
 |[folding-cell-android](https://github.com/Ramotion/folding-cell-android)| Expandable |
 |[Calendar](https://github.com/SirLordPouya/Calendar)| Calendar |
 |[neumorphism](https://github.com/fornewid/neumorphism)| Material |
+|[android-trimview](https://github.com/2hamed/android-trimview)| Material |
 |[Instagram-Video-Downloader-Library](https://github.com/Abhay-cloud/Instagram-Video-Downloader-Library)| FileDownloader |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
