@@ -178,6 +178,7 @@ I hope this paper would help the programmer's community.
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |
 |[RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout)| Material  |[FreeDrawView](https://github.com/RiccardoMoro/FreeDrawView)| Material |
 |[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)| Material |[flexbox-layout](https://github.com/google/flexbox-layout)| Material |
+|[neumorphism](https://github.com/fornewid/neumorphism)| Material |[android-trimview](https://github.com/2hamed/android-trimview)| Material |
 |[CreditCardView](https://github.com/vinaygaba/CreditCardView)| Material |[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)| Material |
 |[CardStackView](https://github.com/loopeer/CardStackView)| Material |[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout)| Material |
 |[MediaSliderView](https://github.com/Zeuskartik/MediaSliderView)| Media player |[DoubleTapPlayerView](https://github.com/vkay94/DoubleTapPlayerView)| Media player |
@@ -326,8 +327,6 @@ I hope this paper would help the programmer's community.
 |[cascade](https://github.com/saket/cascade)| Menu |
 |[folding-cell-android](https://github.com/Ramotion/folding-cell-android)| Expandable |
 |[Calendar](https://github.com/SirLordPouya/Calendar)| Calendar |
-|[neumorphism](https://github.com/fornewid/neumorphism)| Material |
-|[android-trimview](https://github.com/2hamed/android-trimview)| Material |
 |[Instagram-Video-Downloader-Library](https://github.com/Abhay-cloud/Instagram-Video-Downloader-Library)| FileDownloader |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
