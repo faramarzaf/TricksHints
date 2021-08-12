@@ -321,6 +321,7 @@ I hope this paper would help the programmer's community.
 
 | Library  | Category |
 | ------------- | ------------- |
+|[confetti](https://github.com/jinatonic/confetti)| Animation |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
@@ -332,5 +333,8 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
+|[overlap-image-gallery-view](https://github.com/Mindinventory/overlap-image-gallery-view)| Photo |
 |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
+
+
