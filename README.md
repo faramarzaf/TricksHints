@@ -234,6 +234,7 @@ I hope this paper would help the programmer's community.
 |[Easy Image](https://github.com/jkwiecien/EasyImage)| Photo  |[CircleImageView](https://github.com/hdodenhof/CircleImageView)| Photo  |
 |[Zoomy](https://github.com/imablanco/Zoomy)| Photo |[Blurkit Android](https://github.com/CameraKit/blurkit-android)| Photo  |
 |[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |[PhotoView](https://github.com/Baseflow/PhotoView)| Photo |
+|[overlap-image-gallery-view](https://github.com/Mindinventory/overlap-image-gallery-view)| Photo |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |[Fallery](https://github.com/mehdiyari/Fallery)| Photo |
 |[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
@@ -333,8 +334,6 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
-|[overlap-image-gallery-view](https://github.com/Mindinventory/overlap-image-gallery-view)| Photo |
-|[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
 
 
