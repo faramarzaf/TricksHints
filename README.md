@@ -335,5 +335,4 @@ I hope this paper would help the programmer's community.
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
-
-
+|[EasyDataAndroid](https://github.com/ali77gh/EasyDataAndroid)| Database |
