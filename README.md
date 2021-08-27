@@ -336,3 +336,4 @@ I hope this paper would help the programmer's community.
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
 |[EasyDataAndroid](https://github.com/ali77gh/EasyDataAndroid)| Database |
+|[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
