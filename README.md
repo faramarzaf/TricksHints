@@ -117,6 +117,7 @@ I hope this paper would help the programmer's community.
 |[ColorPicker](https://github.com/Dhaval2404/ColorPicker)| Color Picker |[ColorPicker](https://github.com/jaredrummler/ColorPicker)| Color Picker |
 [ColorPickerView](https://github.com/skydoves/ColorPickerView)| Color Picker |[DownloadManagerPlus](https://github.com/SIARAY/DownloadManagerPlus)| DownloadManager |
 |[CountdownView](https://github.com/iwgang/CountdownView)| Countdown |[PersianMaterialDateTimePicker](https://github.com/mohamad-amin/PersianMaterialDateTimePicker)| Date picker |
+|[EasyDataAndroid](https://github.com/ali77gh/EasyDataAndroid)| Database |[flower](https://github.com/hadiyarajesh/flower)| Database |
 |[SunDatePicker](https://github.com/alirezaafkar/SunDatePicker)| Date picker |[date-picker](https://github.com/afollestad/date-picker)| Date picker |
 |[SublimePicker](https://github.com/vikramkakkar/SublimePicker)| Date picker |[Persian-Date-Picker-Dialog](https://github.com/aliab/Persian-Date-Picker-Dialog)| Date picker |
 |[SnapTimePicker](https://github.com/akexorcist/SnapTimePicker)| Date picker |[PrimeDatePicker](https://github.com/aminography/PrimeDatePicker)| Date picker |
@@ -335,6 +336,4 @@ I hope this paper would help the programmer's community.
 |[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
-|[EasyDataAndroid](https://github.com/ali77gh/EasyDataAndroid)| Database |
-|[flower](https://github.com/hadiyarajesh/flower)| Database |
 |[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
