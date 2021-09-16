@@ -337,3 +337,6 @@ I hope this paper would help the programmer's community.
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
 |[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
+|[ZoomLayout](https://github.com/natario1/ZoomLayout)| Photo |
+|[Banner-Slider](https://github.com/saeedsh92/Banner-Slider)| Photo |
+
