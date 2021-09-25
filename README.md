@@ -237,6 +237,7 @@ I hope this paper would help the programmer's community.
 |[ProPicker](https://github.com/shaon2016/ProPicker)| Photo |[PhotoView](https://github.com/Baseflow/PhotoView)| Photo |
 |[overlap-image-gallery-view](https://github.com/Mindinventory/overlap-image-gallery-view)| Photo |[FogView_Library](https://github.com/dynamitechetan/FogView_Library)| Photo |
 |[AvatarView](https://github.com/vitorhugods/AvatarView)| Photo |[Fallery](https://github.com/mehdiyari/Fallery)| Photo |
+|[ZoomLayout](https://github.com/natario1/ZoomLayout)| Photo |[Banner-Slider](https://github.com/saeedsh92/Banner-Slider)| Photo |
 |[cardslider-android](https://github.com/Ramotion/cardslider-android)| Photo |[PixImagePicker](https://github.com/akshay2211/PixImagePicker)| Photo |
 |[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)| Photo |[android-crop](https://github.com/jdamcd/android-crop)| Photo  |
 |[Blurry](https://github.com/wasabeef/Blurry)| Photo |[uCrop](https://github.com/Yalantis/uCrop)| Photo |
@@ -337,6 +338,3 @@ I hope this paper would help the programmer's community.
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
 |[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
-|[ZoomLayout](https://github.com/natario1/ZoomLayout)| Photo |
-|[Banner-Slider](https://github.com/saeedsh92/Banner-Slider)| Photo |
-
