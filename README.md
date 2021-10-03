@@ -338,3 +338,5 @@ I hope this paper would help the programmer's community.
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
 |[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
+|[ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)| Recycler View |
+|[youtube-minimize-video-player](https://github.com/farshadrezaee/youtube-minimize-video-player)| Media player |
