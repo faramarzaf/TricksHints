@@ -327,6 +327,7 @@ I hope this paper would help the programmer's community.
 |[confetti](https://github.com/jinatonic/confetti)| Animation |
 |[iiVisu](https://github.com/ImnIrdst/iiVisu)| Animation |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
+|[EmojiSlider](https://github.com/bernaferrari/EmojiSlider)| Seekbar |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[cascade](https://github.com/saket/cascade)| Menu |
