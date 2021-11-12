@@ -67,6 +67,7 @@ I hope this paper would help the programmer's community.
 |[Lottie-android](https://github.com/airbnb/lottie-android)| Animation  |[Animatoo](https://github.com/AtifSayings/Animatoo)| Animation  |
 |[EasyTransition](https://github.com/huzenan/EasyTransition)| Animation |[Balloon](https://github.com/skydoves/Balloon)| Animation |
 |[DragView](https://github.com/tuanhav95/DragView)| Animation |[MusicWave](https://github.com/akshay2211/MusicWave)| Animation |
+|[confetti](https://github.com/jinatonic/confetti)| Animation |[iiVisu](https://github.com/ImnIrdst/iiVisu)| Animation |
 |[MotionLayout-Playground](https://github.com/saurabharora90/MotionLayout-Playground)| Animation |[SpeedView](https://github.com/anastr/SpeedView)| Animation |
 |[RadiusTransition](https://github.com/alexstyl/RadiusTransition)| Animation |[SuperForwardView](https://github.com/ertugrulkaragoz/SuperForwardView)| Animation |
 |[Particle](https://github.com/JeasonWong/Particle)| Animation |[android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)| Animation |
@@ -324,8 +325,6 @@ I hope this paper would help the programmer's community.
 
 | Library  | Category |
 | ------------- | ------------- |
-|[confetti](https://github.com/jinatonic/confetti)| Animation |
-|[iiVisu](https://github.com/ImnIrdst/iiVisu)| Animation |
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[EmojiSlider](https://github.com/bernaferrari/EmojiSlider)| Seekbar |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
