@@ -328,16 +328,16 @@ I hope this paper would help the programmer's community.
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[EmojiSlider](https://github.com/bernaferrari/EmojiSlider)| Seekbar |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
+|[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
+|[youtube-minimize-video-player](https://github.com/farshadrezaee/youtube-minimize-video-player)| Media player |
 |[cascade](https://github.com/saket/cascade)| Menu |
 |[folding-cell-android](https://github.com/Ramotion/folding-cell-android)| Expandable |
 |[Calendar](https://github.com/SirLordPouya/Calendar)| Calendar |
+|[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
+|[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
 |[Instagram-Video-Downloader-Library](https://github.com/Abhay-cloud/Instagram-Video-Downloader-Library)| FileDownloader |
 |[VerificationCodeEditText](https://github.com/islamhani97/VerificationCodeEditText)| OTP View |
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
-|[camerakit-android](https://github.com/CameraKit/camerakit-android)| Camera |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
-|[TemperatureView](https://github.com/ali-moghadam/TemperatureView)| Chart |
-|[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
 |[ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)| Recycler View |
-|[youtube-minimize-video-player](https://github.com/farshadrezaee/youtube-minimize-video-player)| Media player |
