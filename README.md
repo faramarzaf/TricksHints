@@ -88,6 +88,7 @@ I hope this paper would help the programmer's community.
 |[ModalBottomSheetDialogFragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)| BottomSheet |[bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)| BottomSheet |
 |[AlertView](https://github.com/Hamadakram/AlertView)| BottomSheet |[sheetmenu](https://github.com/whalemare/sheetmenu)| BottomSheet |
 |[BottomSheet](https://github.com/michaelbel/bottomsheet)| BottomSheet |[BottomSheetLayout](https://github.com/qhutch/BottomSheetLayout)| BottomSheet |
+|[CurvedBottomSheet](https://github.com/TayfunCesur/CurvedBottomSheet)| BottomSheet |[SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation)| BottomSheet |
 |[DialogSheet](https://github.com/marcoscgdev/DialogSheet)| BottomSheet |[SuperBottomSheet](https://github.com/andrefrsousa/SuperBottomSheet)| BottomSheet |
 |[BottomDrawer](https://github.com/HeyAlex/BottomDrawer)| BottomSheet |[HijriCalendar-master](https://github.com/sahaab/HijriCalendar-master)| Calendar |
 |[material-calendarview](https://github.com/prolificinteractive/material-calendarview)| Calendar |[PersianRangeDatePicker](https://github.com/ali-sardari/PersianRangeDatePicker)| Calendar |
