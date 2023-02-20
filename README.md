@@ -342,3 +342,4 @@ I hope this paper would help the programmer's community.
 |[kpermissions](https://github.com/fondesa/kpermissions)| Permissions |
 |[InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)| ViewPager |
 |[ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)| Recycler View |
+|[PdfBox-Android](https://github.com/TomRoush/PdfBox-Android)| PDF |
