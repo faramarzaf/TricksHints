@@ -329,6 +329,7 @@ I hope this paper would help the programmer's community.
 |[lingver](https://github.com/YarikSOffice/lingver)| Locale |
 |[EmojiSlider](https://github.com/bernaferrari/EmojiSlider)| Seekbar |
 |[ThreeStateSwitch](https://github.com/abbas-oveissi/ThreeStateSwitch)| Switch |
+|[SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)| TextView |
 |[Android-Animated-Theme-Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager)| Theme |
 |[ToggleButtonGroup](https://github.com/nex3z/ToggleButtonGroup)| ToogleButton |
 |[youtube-minimize-video-player](https://github.com/farshadrezaee/youtube-minimize-video-player)| Media player |
